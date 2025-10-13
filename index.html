@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flashcard Hán Việt - Tính năng Phát âm (Web Speech)</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;700&family=Quicksand:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Quicksand', sans-serif;
+            -webkit-tap-highlight-color: transparent;
+        }
+        .chinese-font {
+            font-family: 'Noto Sans SC', sans-serif;
+        }
+        /* Styling cho Slider */
+        #card-slider::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 20px;
+            height: 20px;
+            background: #2563eb;
+            cursor: pointer;
+            border-radius: 50%;
+            border: 3px solid white;
+            box-shadow: 0 0 0 1px #2563eb;
+        }
+        #card-slider::-moz-range-thumb {
+            width: 20px;
+            height: 20px;
+            background: #2563eb;
+            cursor: pointer;
+            border-radius: 50%;
+            border: 3px solid white;
+            box-shadow: 0 0 0 1px #2563eb;
+        }
+        .card-display {
+            display: block;
+            min-height: 25rem; 
+        }
+        .speak-btn {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+        }
+    </style>
+</head>
+<body class="bg-slate-100 flex flex-col items-center justify-center min-h-screen p-4">
+
+    <!-- Thanh điều hướng và Slider -->
+    <div class="w-full max-w-lg mx-auto mb-6 flex flex-col items-center">
+        <!-- Bộ đếm và Slider -->
+        <div class="w-full mb-4">
+            <div id="card-counter" class="text-center text-slate-600 mb-3 font-medium text-lg"></div>
+            <input type="range" id="card-slider" min="1" max="100" value="1" class="w-full h-2 bg-blue-200 rounded-lg appearance-none cursor-pointer">
+        </div>
+        <!-- Nút điều khiển -->
+        <div class="flex items-center space-x-4 w-full justify-center">
+            <button id="prev-btn" class="bg-gray-400 text-white font-bold py-2 px-4 rounded-lg shadow-md hover:bg-gray-500 transition-transform transform hover:scale-105 text-base md:text-lg">
+                &larr; Trước
+            </button>
+            <button id="next-btn" class="bg-blue-600 text-white font-bold py-2 px-6 rounded-lg shadow-md hover:bg-blue-700 transition-transform transform hover:scale-105 text-base md:text-lg">
+                Tiếp theo &rarr;
+            </button>
+        </div>
+    </div>
+    
+    <!-- Container cho Flashcard -->
+    <div id="flashcard" class="card-display bg-white p-6 md:p-8 rounded-xl shadow-xl w-full max-w-lg mb-8 transition-all duration-300">
+        <!-- Phần Hán tự và Pinyin -->
+        <div class="text-center mb-6 border-b pb-4 border-slate-200">
+            <div class="flex justify-center items-center">
+                <!-- Hanzi chính và Nút phát âm (Sát nhau) -->
+                <p id="card-hanzi-pinyin" class="chinese-font text-5xl md:text-7xl font-bold text-slate-900 leading-tight"></p>
+                <button id="speak-main-btn" class="speak-btn ml-2 text-blue-600 hover:text-blue-800 transition duration-150 p-2 rounded-full hover:bg-blue-50" aria-label="Phát âm từ này">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-volume-2"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M15.54 8.46a5 5 0 0 1 0 7.07"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14"/></svg>
+                </button>
+            </div>
+            <p id="card-pinyin-only" class="text-2xl text-blue-600 mt-1 font-medium"></p>
+        </div>
+
+        <!-- Phần Nghĩa và Hán Việt -->
+        <div class="space-y-3 text-lg md:text-xl text-left text-slate-800 mb-6">
+            <p><strong>Âm Hán Việt:</strong> <span id="card-hanviet" class="font-semibold text-slate-700"></span></p>
+            <p><strong>Nghĩa Việt:</strong> <span id="card-vietnamese" class="font-extrabold text-red-600"></span></p>
+        </div>
+
+        <!-- Phần Phân tích Từ ghép -->
+        <div class="mt-6 pt-4 border-t border-slate-200">
+            <p class="text-base font-bold text-slate-700 mb-3 border-b pb-2">Phân tích từ gốc:</p>
+            
+            <!-- Từ ghép Set 1 -->
+            <div id="char1-related-container" class="mb-4">
+                <!-- Nội dung sẽ được cập nhật bằng JS -->
+            </div>
+
+            <!-- Từ ghép Set 2 -->
+            <div id="char2-related-container">
+                <!-- Nội dung sẽ được cập nhật bằng JS -->
+            </div>
+        </div>
+    </div>
+    
+    <script src="flashcards.js"></script>
+    <script>
+        // --- Cấu hình và Data ---
+
+        let currentIndex = 0;
+        const totalCards = flashcards.length;
+
+        // --- DOM Elements ---
+        const nextBtn = document.getElementById('next-btn');
+        const prevBtn = document.getElementById('prev-btn');
+        const cardCounter = document.getElementById('card-counter');
+        const cardSlider = document.getElementById('card-slider');
+
+        const hanziPinyinEl = document.getElementById('card-hanzi-pinyin');
+        const pinyinOnlyEl = document.getElementById('card-pinyin-only');
+        const hanvietEl = document.getElementById('card-hanviet');
+        const vietnameseEl = document.getElementById('card-vietnamese');
+        const speakMainBtn = document.getElementById('speak-main-btn');
+
+        const char1Container = document.getElementById('char1-related-container');
+        const char2Container = document.getElementById('char2-related-container');
+
+        // --- Web Speech API Configuration ---
+        let chineseVoice = null;
+        let isSpeaking = false;
+
+        // Tải danh sách giọng đọc và tìm giọng tiếng Trung (zh-CN)
+        function loadChineseVoice() {
+            const voices = window.speechSynthesis.getVoices();
+            // Ưu tiên tìm giọng có lang bắt đầu bằng 'zh-' hoặc có tên liên quan đến Chinese/Mandarin
+            chineseVoice = voices.find(voice => 
+                voice.lang.startsWith('zh-') || 
+                voice.lang.includes('cmn-') || 
+                voice.name.toLowerCase().includes('chinese') || 
+                voice.name.toLowerCase().includes('mandarin')
+            );
+            
+            if (!chineseVoice) {
+                console.warn("Không tìm thấy giọng tiếng Trung cụ thể. Sử dụng giọng mặc định.");
+            }
+        }
+
+        // Tải giọng khi voiceschanged sự kiện kích hoạt (đảm bảo giọng đã sẵn sàng)
+        loadChineseVoice();
+        if ('onvoiceschanged' in window.speechSynthesis) {
+            window.speechSynthesis.onvoiceschanged = loadChineseVoice;
+        }
+
+        /**
+         * Hàm phát âm tiếng Trung sử dụng Web Speech API.
+         * @param {string} textToSpeak - Văn bản Hán tự hoặc Pinyin cần phát âm.
+         * @param {HTMLElement} elementToUpdate - Nút bấm để cập nhật trạng thái UI.
+         */
+        function speakChinese(textToSpeak, elementToUpdate) {
+            if (isSpeaking) {
+                console.log("Đang có phát âm khác đang chạy.");
+                // Dừng phát âm cũ trước khi bắt đầu cái mới
+                window.speechSynthesis.cancel(); 
+                isSpeaking = false;
+                // Nếu nút cũ đang disabled, kích hoạt lại
+                if(document.querySelector('.speak-btn.opacity-50')) {
+                    const oldBtn = document.querySelector('.speak-btn.opacity-50');
+                    oldBtn.disabled = false;
+                    oldBtn.classList.remove('opacity-50', 'cursor-not-allowed');
+                }
+            }
+
+            if (!window.speechSynthesis) {
+                console.error("Trình duyệt không hỗ trợ Web Speech API.");
+                return;
+            }
+
+            const utterance = new SpeechSynthesisUtterance(textToSpeak.replace(/ /g, '')); // Loại bỏ khoảng trắng cho Pinyin liền mạch
+            
+            if (chineseVoice) {
+                utterance.voice = chineseVoice;
+            } else {
+                utterance.lang = 'zh-CN'; 
+            }
+            
+            utterance.rate = 0.8; 
+
+            // Quản lý trạng thái UI trong khi đọc
+            utterance.onstart = () => {
+                isSpeaking = true;
+                elementToUpdate.disabled = true;
+                elementToUpdate.classList.add('opacity-50', 'cursor-not-allowed');
+            };
+
+            utterance.onend = () => {
+                isSpeaking = false;
+                elementToUpdate.disabled = false;
+                elementToUpdate.classList.remove('opacity-50', 'cursor-not-allowed');
+            };
+
+            utterance.onerror = (event) => {
+                isSpeaking = false;
+                elementToUpdate.disabled = false;
+                elementToUpdate.classList.remove('opacity-50', 'cursor-not-allowed');
+                console.error('Lỗi phát âm Web Speech:', event.error);
+            };
+
+            window.speechSynthesis.speak(utterance);
+        }
+
+        // Hàm helper để render danh sách từ ghép và thêm nút phát âm
+        function renderRelatedWords(containerEl, charData, charIndex) {
+            containerEl.innerHTML = ''; 
+            
+            if (charData) {
+                const headerP = document.createElement('p');
+                headerP.className = 'text-sm font-bold text-slate-600 mb-2 flex items-center';
+                
+                const charSpan = document.createElement('span');
+                charSpan.className = 'chinese-font text-lg text-blue-800 mr-2';
+                charSpan.textContent = charData.hanzi;
+
+                const pinyinSpan = document.createElement('span');
+                pinyinSpan.textContent = `(${charData.pinyin}, ${charData.hanviet})`;
+
+                const speakCharBtn = document.createElement('button');
+                speakCharBtn.className = 'speak-btn ml-2 text-indigo-600 hover:text-indigo-800 p-1 rounded-full hover:bg-indigo-100 transition duration-150';
+                speakCharBtn.ariaLabel = `Phát âm Hán tự ${charData.hanzi}`;
+                speakCharBtn.innerHTML = '<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-volume-2"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M15.54 8.46a5 5 0 0 1 0 7.07"/></svg>';
+                
+                // Gán sự kiện cho nút phát âm Hán tự thành phần
+                speakCharBtn.addEventListener('click', () => speakChinese(charData.hanzi, speakCharBtn)); // Dùng Hán tự đơn
+                
+                headerP.appendChild(document.createTextNode(`${charIndex}. Từ gốc: `));
+                headerP.appendChild(charSpan);
+                headerP.appendChild(pinyinSpan);
+                headerP.appendChild(speakCharBtn);
+
+                containerEl.appendChild(headerP);
+
+                // 2. Tạo container cho danh sách từ ghép
+                const wordsContainer = document.createElement('div');
+                wordsContainer.className = 'flex flex-wrap gap-2 text-sm';
+                
+                if (charData.words && charData.words.length > 0) {
+                    charData.words.forEach(word => {
+                        const wordButton = document.createElement('button');
+                        wordButton.className = 'speak-btn bg-indigo-100 text-indigo-800 px-3 py-1 rounded-full font-medium whitespace-nowrap text-sm md:text-base hover:bg-indigo-200 transition duration-150';
+                        
+                        const hanziText = document.createElement('span');
+                        hanziText.className = 'chinese-font font-bold mr-1';
+                        hanziText.textContent = word.hanzi;
+                        
+                        const infoText = document.createElement('span');
+                        infoText.textContent = `(${word.pinyin}, ${word.hanviet})`;
+
+                        const audioIcon = document.createElement('span');
+                        audioIcon.className = 'ml-1';
+                        audioIcon.innerHTML = '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-volume-1"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M15.54 8.46a2.16 2.16 0 0 1 0 3.08"/></svg>';
+
+                        wordButton.appendChild(hanziText);
+                        wordButton.appendChild(infoText);
+                        wordButton.appendChild(audioIcon);
+
+                        // Gán sự kiện cho nút phát âm từ ghép
+                        wordButton.addEventListener('click', () => speakChinese(word.hanzi, wordButton));
+                        
+                        wordsContainer.appendChild(wordButton);
+                    });
+                } else {
+                    wordsContainer.textContent = 'Không có dữ liệu từ ghép mở rộng cho từ này.';
+                    wordsContainer.className = 'text-slate-500 italic text-sm';
+                }
+                containerEl.appendChild(wordsContainer);
+                containerEl.style.display = 'block';
+
+            } else {
+                containerEl.innerHTML = `<p class="text-slate-500 italic text-center text-base">Dữ liệu phân tích từ gốc chưa được cung cấp cho thẻ này.</p>`;
+                containerEl.style.display = 'block'; 
+            }
+        }
+
+        function displayCard(index) {
+            const cardData = flashcards[index];
+            
+            // Cập nhật Hán tự và Pinyin chính
+            hanziPinyinEl.textContent = cardData.hanzi;
+            pinyinOnlyEl.textContent = `[${cardData.pinyin}]`;
+            
+            // Cập nhật Nghĩa
+            hanvietEl.textContent = cardData.hanviet;
+            vietnameseEl.textContent = cardData.vietnamese;
+            
+            // Gán sự kiện cho nút phát âm chính (phát âm cả từ)
+            speakMainBtn.onclick = () => speakChinese(cardData.hanzi, speakMainBtn); 
+
+            // Cập nhật thông tin chi tiết từng ký tự
+            renderRelatedWords(char1Container, cardData.char1, 1);
+            renderRelatedWords(char2Container, cardData.char2, 2);
+
+            // Cập nhật bộ đếm và thanh trượt
+            cardCounter.textContent = `Thẻ số: ${index + 1} / ${totalCards}`;
+            cardSlider.value = index + 1;
+        }
+
+        function navigate(direction) {
+            if (direction === 'next') {
+                currentIndex = (currentIndex + 1) % totalCards;
+            } else if (direction === 'prev') {
+                currentIndex = (currentIndex - 1 + totalCards) % totalCards;
+            }
+            // Đảm bảo dừng phát âm khi chuyển thẻ
+            window.speechSynthesis.cancel();
+            displayCard(currentIndex);
+        }
+
+        // --- Event Listeners ---
+        nextBtn.addEventListener('click', () => navigate('next'));
+        prevBtn.addEventListener('click', () => navigate('prev'));
+
+        cardSlider.addEventListener('input', (event) => {
+            currentIndex = parseInt(event.target.value) - 1;
+            // Đảm bảo dừng phát âm khi kéo thanh trượt
+            window.speechSynthesis.cancel();
+            displayCard(currentIndex);
+        });
+
+        // Hiển thị thẻ đầu tiên khi tải trang
+        displayCard(currentIndex);
+    </script>
+</body>
+</html>
