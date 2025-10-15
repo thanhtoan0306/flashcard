@@ -1,0 +1,676 @@
+[
+    {
+      "hanzi": "手机",
+      "pinyin": "shǒu jī",
+      "hanviet": "Thủ cơ",
+      "vietnamese": "Điện thoại di động",
+      "char1": {
+        "hanzi": "手",
+        "pinyin": "shǒu",
+        "hanviet": "Thủ",
+        "words": [
+          {
+            "hanzi": "手",
+            "pinyin": "shǒu",
+            "hanviet": "Thủ",
+            "vietnamese": "Tay"
+          },
+          {
+            "hanzi": "手机",
+            "pinyin": "shǒu jī",
+            "hanviet": "Thủ cơ",
+            "vietnamese": "Điện thoại di động"
+          },
+          {
+            "hanzi": "手指",
+            "pinyin": "shǒu zhǐ",
+            "hanviet": "Thủ chỉ",
+            "vietnamese": "Ngón tay"
+          },
+          {
+            "hanzi": "手工",
+            "pinyin": "shǒu gōng",
+            "hanviet": "Thủ công",
+            "vietnamese": "Thủ công"
+          },
+          {
+            "hanzi": "手套",
+            "pinyin": "shǒu tào",
+            "hanviet": "Thủ sáo",
+            "vietnamese": "Găng tay"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "机",
+        "pinyin": "jī",
+        "hanviet": "Cơ",
+        "words": [
+          {
+            "hanzi": "手机",
+            "pinyin": "shǒu jī",
+            "hanviet": "Thủ cơ",
+            "vietnamese": "Điện thoại di động"
+          },
+          {
+            "hanzi": "飞机",
+            "pinyin": "fēi jī",
+            "hanviet": "Phi cơ",
+            "vietnamese": "Máy bay"
+          },
+          {
+            "hanzi": "机会",
+            "pinyin": "jī huì",
+            "hanviet": "Cơ hội",
+            "vietnamese": "Cơ hội"
+          },
+          {
+            "hanzi": "机器",
+            "pinyin": "jī qì",
+            "hanviet": "Cơ khí",
+            "vietnamese": "Máy móc"
+          },
+          {
+            "hanzi": "机关",
+            "pinyin": "jī guān",
+            "hanviet": "Cơ quan",
+            "vietnamese": "Cơ quan"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "屏幕",
+      "pinyin": "píng mù",
+      "hanviet": "Bình mạc",
+      "vietnamese": "Màn hình",
+      "char1": {
+        "hanzi": "屏",
+        "pinyin": "píng",
+        "hanviet": "Bình",
+        "words": [
+          {
+            "hanzi": "屏幕",
+            "pinyin": "píng mù",
+            "hanviet": "Bình mạc",
+            "vietnamese": "Màn hình"
+          },
+          {
+            "hanzi": "屏障",
+            "pinyin": "píng zhàng",
+            "hanviet": "Bình chướng",
+            "vietnamese": "Bức tường chắn"
+          },
+          {
+            "hanzi": "屏风",
+            "pinyin": "píng fēng",
+            "hanviet": "Bình phong",
+            "vietnamese": "Bình phong"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "幕",
+        "pinyin": "mù",
+        "hanviet": "Mạc",
+        "words": [
+          {
+            "hanzi": "屏幕",
+            "pinyin": "píng mù",
+            "hanviet": "Bình mạc",
+            "vietnamese": "Màn hình"
+          },
+          {
+            "hanzi": "幕布",
+            "pinyin": "mù bù",
+            "hanviet": "Mạc bố",
+            "vietnamese": "Màn che"
+          },
+          {
+            "hanzi": "开幕",
+            "pinyin": "kāi mù",
+            "hanviet": "Khai mạc",
+            "vietnamese": "Khai mạc"
+          },
+          {
+            "hanzi": "闭幕",
+            "pinyin": "bì mù",
+            "hanviet": "Bế mạc",
+            "vietnamese": "Bế mạc"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "电池",
+      "pinyin": "diàn chí",
+      "hanviet": "Điện trì",
+      "vietnamese": "Pin",
+      "char1": {
+        "hanzi": "电",
+        "pinyin": "diàn",
+        "hanviet": "Điện",
+        "words": [
+          {
+            "hanzi": "电池",
+            "pinyin": "diàn chí",
+            "hanviet": "Điện trì",
+            "vietnamese": "Pin"
+          },
+          {
+            "hanzi": "电话",
+            "pinyin": "diàn huà",
+            "hanviet": "Điện thoại",
+            "vietnamese": "Điện thoại"
+          },
+          {
+            "hanzi": "电视",
+            "pinyin": "diàn shì",
+            "hanviet": "Điện thị",
+            "vietnamese": "Ti vi"
+          },
+          {
+            "hanzi": "电脑",
+            "pinyin": "diàn nǎo",
+            "hanviet": "Điện não",
+            "vietnamese": "Máy tính"
+          },
+          {
+            "hanzi": "电力",
+            "pinyin": "diàn lì",
+            "hanviet": "Điện lực",
+            "vietnamese": "Điện lực"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "池",
+        "pinyin": "chí",
+        "hanviet": "Trì",
+        "words": [
+          {
+            "hanzi": "电池",
+            "pinyin": "diàn chí",
+            "hanviet": "Điện trì",
+            "vietnamese": "Pin"
+          },
+          {
+            "hanzi": "池塘",
+            "pinyin": "chí táng",
+            "hanviet": "Trì đường",
+            "vietnamese": "Ao, hồ"
+          },
+          {
+            "hanzi": "水池",
+            "pinyin": "shuǐ chí",
+            "hanviet": "Thủy trì",
+            "vietnamese": "Bể nước"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "充电",
+      "pinyin": "chōng diàn",
+      "hanviet": "Sung điện",
+      "vietnamese": "Sạc pin",
+      "char1": {
+        "hanzi": "充",
+        "pinyin": "chōng",
+        "hanviet": "Sung",
+        "words": [
+          {
+            "hanzi": "充电",
+            "pinyin": "chōng diàn",
+            "hanviet": "Sung điện",
+            "vietnamese": "Sạc pin"
+          },
+          {
+            "hanzi": "充满",
+            "pinyin": "chōng mǎn",
+            "hanviet": "Sung mãn",
+            "vietnamese": "Đầy đủ, tràn đầy"
+          },
+          {
+            "hanzi": "补充",
+            "pinyin": "bǔ chōng",
+            "hanviet": "Bổ sung",
+            "vietnamese": "Bổ sung"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "电",
+        "pinyin": "diàn",
+        "hanviet": "Điện",
+        "words": [
+          {
+            "hanzi": "充电",
+            "pinyin": "chōng diàn",
+            "hanviet": "Sung điện",
+            "vietnamese": "Sạc pin"
+          },
+          {
+            "hanzi": "电话",
+            "pinyin": "diàn huà",
+            "hanviet": "Điện thoại",
+            "vietnamese": "Điện thoại"
+          },
+          {
+            "hanzi": "电视",
+            "pinyin": "diàn shì",
+            "hanviet": "Điện thị",
+            "vietnamese": "Ti vi"
+          },
+          {
+            "hanzi": "电脑",
+            "pinyin": "diàn nǎo",
+            "hanviet": "Điện não",
+            "vietnamese": "Máy tính"
+          },
+          {
+            "hanzi": "电力",
+            "pinyin": "diàn lì",
+            "hanviet": "Điện lực",
+            "vietnamese": "Điện lực"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "拍照",
+      "pinyin": "pāi zhào",
+      "hanviet": "Phách chiếu",
+      "vietnamese": "Chụp ảnh",
+      "char1": {
+        "hanzi": "拍",
+        "pinyin": "pāi",
+        "hanviet": "Phách",
+        "words": [
+          {
+            "hanzi": "拍照",
+            "pinyin": "pāi zhào",
+            "hanviet": "Phách chiếu",
+            "vietnamese": "Chụp ảnh"
+          },
+          {
+            "hanzi": "拍手",
+            "pinyin": "pāi shǒu",
+            "hanviet": "Phách thủ",
+            "vietnamese": "Vỗ tay"
+          },
+          {
+            "hanzi": "拍电影",
+            "pinyin": "pāi diàn yǐng",
+            "hanviet": "Phách điện ảnh",
+            "vietnamese": "Quay phim"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "照",
+        "pinyin": "zhào",
+        "hanviet": "Chiếu",
+        "words": [
+          {
+            "hanzi": "拍照",
+            "pinyin": "pāi zhào",
+            "hanviet": "Phách chiếu",
+            "vietnamese": "Chụp ảnh"
+          },
+          {
+            "hanzi": "照片",
+            "pinyin": "zhào piàn",
+            "hanviet": "Chiếu phiến",
+            "vietnamese": "Ảnh"
+          },
+          {
+            "hanzi": "护照",
+            "pinyin": "hù zhào",
+            "hanviet": "Hộ chiếu",
+            "vietnamese": "Hộ chiếu"
+          },
+          {
+            "hanzi": "对照",
+            "pinyin": "duì zhào",
+            "hanviet": "Đối chiếu",
+            "vietnamese": "Đối chiếu"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "上网",
+      "pinyin": "shàng wǎng",
+      "hanviet": "Thượng võng",
+      "vietnamese": "Lên mạng, vào mạng",
+      "char1": {
+        "hanzi": "上",
+        "pinyin": "shàng",
+        "hanviet": "Thượng",
+        "words": [
+          {
+            "hanzi": "上网",
+            "pinyin": "shàng wǎng",
+            "hanviet": "Thượng võng",
+            "vietnamese": "Lên mạng, vào mạng"
+          },
+          {
+            "hanzi": "上学",
+            "pinyin": "shàng xué",
+            "hanviet": "Thượng học",
+            "vietnamese": "Đi học"
+          },
+          {
+            "hanzi": "上班",
+            "pinyin": "shàng bān",
+            "hanviet": "Thượng ban",
+            "vietnamese": "Đi làm"
+          },
+          {
+            "hanzi": "上午",
+            "pinyin": "shàng wǔ",
+            "hanviet": "Thượng ngọ",
+            "vietnamese": "Buổi sáng"
+          },
+          {
+            "hanzi": "楼上",
+            "pinyin": "lóu shàng",
+            "hanviet": "Lâu thượng",
+            "vietnamese": "Trên lầu"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "网",
+        "pinyin": "wǎng",
+        "hanviet": "Võng",
+        "words": [
+          {
+            "hanzi": "上网",
+            "pinyin": "shàng wǎng",
+            "hanviet": "Thượng võng",
+            "vietnamese": "Lên mạng, vào mạng"
+          },
+          {
+            "hanzi": "网络",
+            "pinyin": "wǎng luò",
+            "hanviet": "Võng lạc",
+            "vietnamese": "Mạng internet"
+          },
+          {
+            "hanzi": "网站",
+            "pinyin": "wǎng zhàn",
+            "hanviet": "Võng trạm",
+            "vietnamese": "Trang web"
+          },
+          {
+            "hanzi": "网球",
+            "pinyin": "wǎng qiú",
+            "hanviet": "Võng cầu",
+            "vietnamese": "Bóng lưới"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "应用程序",
+      "pinyin": "yìng yòng chéng xù",
+      "hanviet": "Ứng dụng trình tự",
+      "vietnamese": "Ứng dụng (App)",
+      "char1": {
+        "hanzi": "应用",
+        "pinyin": "yìng yòng",
+        "hanviet": "Ứng dụng",
+        "words": [
+          {
+            "hanzi": "应用",
+            "pinyin": "yìng yòng",
+            "hanviet": "Ứng dụng",
+            "vietnamese": "Ứng dụng"
+          },
+          {
+            "hanzi": "应用题",
+            "pinyin": "yìng yòng tí",
+            "hanviet": "Ứng dụng đề",
+            "vietnamese": "Bài toán ứng dụng"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "程序",
+        "pinyin": "chéng xù",
+        "hanviet": "Trình tự",
+        "words": [
+          {
+            "hanzi": "程序",
+            "pinyin": "chéng xù",
+            "hanviet": "Trình tự",
+            "vietnamese": "Chương trình, quy trình"
+          },
+          {
+            "hanzi": "应用程序",
+            "pinyin": "yìng yòng chéng xù",
+            "hanviet": "Ứng dụng trình tự",
+            "vietnamese": "Ứng dụng (App)"
+          },
+          {
+            "hanzi": "流程",
+            "pinyin": "liú chéng",
+            "hanviet": "Lưu trình",
+            "vietnamese": "Quy trình"
+          },
+          {
+            "hanzi": "程序猿",
+            "pinyin": "chéng xù yuán",
+            "hanviet": "Trình tự viên",
+            "vietnamese": "Lập trình viên (tiếng lóng)"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "信号",
+      "pinyin": "xìn hào",
+      "hanviet": "Tín hiệu",
+      "vietnamese": "Tín hiệu",
+      "char1": {
+        "hanzi": "信",
+        "pinyin": "xìn",
+        "hanviet": "Tín",
+        "words": [
+          {
+            "hanzi": "信号",
+            "pinyin": "xìn hào",
+            "hanviet": "Tín hiệu",
+            "vietnamese": "Tín hiệu"
+          },
+          {
+            "hanzi": "相信",
+            "pinyin": "xiāng xìn",
+            "hanviet": "Tương tín",
+            "vietnamese": "Tin tưởng"
+          },
+          {
+            "hanzi": "信息",
+            "pinyin": "xìn xī",
+            "hanviet": "Tín tức",
+            "vietnamese": "Thông tin"
+          },
+          {
+            "hanzi": "信用",
+            "pinyin": "xìn yòng",
+            "hanviet": "Tín dụng",
+            "vietnamese": "Uy tín"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "号",
+        "pinyin": "hào",
+        "hanviet": "Hiệu",
+        "words": [
+          {
+            "hanzi": "信号",
+            "pinyin": "xìn hào",
+            "hanviet": "Tín hiệu",
+            "vietnamese": "Tín hiệu"
+          },
+          {
+            "hanzi": "号码",
+            "pinyin": "hào mǎ",
+            "hanviet": "Hiệu mã",
+            "vietnamese": "Số"
+          },
+          {
+            "hanzi": "口号",
+            "pinyin": "kǒu hào",
+            "hanviet": "Khẩu hiệu",
+            "vietnamese": "Khẩu hiệu"
+          },
+          {
+            "hanzi": "号召",
+            "pinyin": "hào zhào",
+            "hanviet": "Hiệu triệu",
+            "vietnamese": "Kêu gọi"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "通话",
+      "pinyin": "tōng huà",
+      "hanviet": "Thông thoại",
+      "vietnamese": "Gọi điện",
+      "char1": {
+        "hanzi": "通",
+        "pinyin": "tōng",
+        "hanviet": "Thông",
+        "words": [
+          {
+            "hanzi": "通话",
+            "pinyin": "tōng huà",
+            "hanviet": "Thông thoại",
+            "vietnamese": "Gọi điện"
+          },
+          {
+            "hanzi": "通知",
+            "pinyin": "tōng zhī",
+            "hanviet": "Thông tri",
+            "vietnamese": "Thông báo"
+          },
+          {
+            "hanzi": "通过",
+            "pinyin": "tōng guò",
+            "hanviet": "Thông qua",
+            "vietnamese": "Thông qua, vượt qua"
+          },
+          {
+            "hanzi": "交通",
+            "pinyin": "jiāo tōng",
+            "hanviet": "Giao thông",
+            "vietnamese": "Giao thông"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "话",
+        "pinyin": "huà",
+        "hanviet": "Thoại",
+        "words": [
+          {
+            "hanzi": "通话",
+            "pinyin": "tōng huà",
+            "hanviet": "Thông thoại",
+            "vietnamese": "Gọi điện"
+          },
+          {
+            "hanzi": "电话",
+            "pinyin": "diàn huà",
+            "hanviet": "Điện thoại",
+            "vietnamese": "Điện thoại"
+          },
+          {
+            "hanzi": "说话",
+            "pinyin": "shuō huà",
+            "hanviet": "Thuyết thoại",
+            "vietnamese": "Nói chuyện"
+          },
+          {
+            "hanzi": "对话",
+            "pinyin": "duì huà",
+            "hanviet": "Đối thoại",
+            "vietnamese": "Đối thoại"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "下载",
+      "pinyin": "xià zài",
+      "hanviet": "Hạ tải",
+      "vietnamese": "Tải xuống",
+      "char1": {
+        "hanzi": "下",
+        "pinyin": "xià",
+        "hanviet": "Hạ",
+        "words": [
+          {
+            "hanzi": "下载",
+            "pinyin": "xià zài",
+            "hanviet": "Hạ tải",
+            "vietnamese": "Tải xuống"
+          },
+          {
+            "hanzi": "下雨",
+            "pinyin": "xià yǔ",
+            "hanviet": "Hạ vũ",
+            "vietnamese": "Mưa"
+          },
+          {
+            "hanzi": "下面",
+            "pinyin": "xià miàn",
+            "hanviet": "Hạ diện",
+            "vietnamese": "Bên dưới"
+          },
+          {
+            "hanzi": "下午",
+            "pinyin": "xià wǔ",
+            "hanviet": "Hạ ngọ",
+            "vietnamese": "Buổi chiều"
+          },
+          {
+            "hanzi": "楼下",
+            "pinyin": "lóu xià",
+            "hanviet": "Lâu hạ",
+            "vietnamese": "Dưới lầu"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "载",
+        "pinyin": "zài",
+        "hanviet": "Tải",
+        "words": [
+          {
+            "hanzi": "下载",
+            "pinyin": "xià zài",
+            "hanviet": "Hạ tải",
+            "vietnamese": "Tải xuống"
+          },
+          {
+            "hanzi": "记载",
+            "pinyin": "jì zǎi",
+            "hanviet": "Ký tải",
+            "vietnamese": "Ghi chép"
+          },
+          {
+            "hanzi": "装载",
+            "pinyin": "zhuāng zài",
+            "hanviet": "Trang tải",
+            "vietnamese": "Chất lên, chở"
+          }
+        ]
+      }
+    }
+  ]

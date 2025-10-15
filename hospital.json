@@ -1,0 +1,802 @@
+[
+  {
+    "hanzi": "病人",
+    "pinyin": "bìng rén",
+    "hanviet": "Bệnh nhân",
+    "vietnamese": "Bệnh nhân",
+    "char1": {
+      "hanzi": "病",
+      "pinyin": "bìng",
+      "hanviet": "Bệnh",
+      "words": [
+        {
+          "hanzi": "疾病",
+          "pinyin": "jí bìng",
+          "hanviet": "Tật bệnh",
+          "vietnamese": "Bệnh tật"
+        },
+        {
+          "hanzi": "病人",
+          "pinyin": "bìng rén",
+          "hanviet": "Bệnh nhân",
+          "vietnamese": "Bệnh nhân"
+        },
+        {
+          "hanzi": "病情",
+          "pinyin": "bìng qíng",
+          "hanviet": "Bệnh tình",
+          "vietnamese": "Tình trạng bệnh"
+        },
+        {
+          "hanzi": "病房",
+          "pinyin": "bìng fáng",
+          "hanviet": "Bệnh phòng",
+          "vietnamese": "Phòng bệnh"
+        },
+        {
+          "hanzi": "病历",
+          "pinyin": "bìng lì",
+          "hanviet": "Bệnh lịch",
+          "vietnamese": "Hồ sơ bệnh án"
+        }
+      ]
+    },
+    "char2": {
+      "hanzi": "人",
+      "pinyin": "rén",
+      "hanviet": "Nhân",
+      "words": [
+        {
+          "hanzi": "人民",
+          "pinyin": "rén mín",
+          "hanviet": "Nhân dân",
+          "vietnamese": "Nhân dân"
+        },
+        {
+          "hanzi": "人类",
+          "pinyin": "rén lèi",
+          "hanviet": "Nhân loại",
+          "vietnamese": "Loài người"
+        },
+        {
+          "hanzi": "人物",
+          "pinyin": "rén wù",
+          "hanviet": "Nhân vật",
+          "vietnamese": "Nhân vật"
+        },
+        {
+          "hanzi": "人口",
+          "pinyin": "rén kǒu",
+          "hanviet": "Nhân khẩu",
+          "vietnamese": "Dân số"
+        },
+        {
+          "hanzi": "人手",
+          "pinyin": "rén shǒu",
+          "hanviet": "Nhân thủ",
+          "vietnamese": "Nhân lực"
+        }
+      ]
+    }
+  },
+  {
+    "hanzi": "护士",
+    "pinyin": "hù shì",
+    "hanviet": "Hộ sĩ",
+    "vietnamese": "Y tá",
+    "char1": {
+      "hanzi": "护",
+      "pinyin": "hù",
+      "hanviet": "Hộ",
+      "words": [
+        {
+          "hanzi": "护士",
+          "pinyin": "hù shì",
+          "hanviet": "Hộ sĩ",
+          "vietnamese": "Y tá"
+        },
+        {
+          "hanzi": "保护",
+          "pinyin": "bǎo hù",
+          "hanviet": "Bảo hộ",
+          "vietnamese": "Bảo vệ"
+        },
+        {
+          "hanzi": "护照",
+          "pinyin": "hù zhào",
+          "hanviet": "Hộ chiếu",
+          "vietnamese": "Hộ chiếu"
+        },
+        {
+          "hanzi": "护理",
+          "pinyin": "hù lǐ",
+          "hanviet": "Hộ lý",
+          "vietnamese": "Chăm sóc"
+        },
+        {
+          "hanzi": "护送",
+          "pinyin": "hù sòng",
+          "hanviet": "Hộ tống",
+          "vietnamese": "Hộ tống"
+        }
+      ]
+    },
+    "char2": {
+      "hanzi": "士",
+      "pinyin": "shì",
+      "hanviet": "Sĩ",
+      "words": [
+        {
+          "hanzi": "士兵",
+          "pinyin": "shì bīng",
+          "hanviet": "Sĩ binh",
+          "vietnamese": "Quân nhân"
+        },
+        {
+          "hanzi": "护士",
+          "pinyin": "hù shì",
+          "hanviet": "Hộ sĩ",
+          "vietnamese": "Y tá"
+        },
+        {
+          "hanzi": "博士",
+          "pinyin": "bó shì",
+          "hanviet": "Bác sĩ",
+          "vietnamese": "Tiến sĩ"
+        },
+        {
+          "hanzi": "人士",
+          "pinyin": "rén shì",
+          "hanviet": "Nhân sĩ",
+          "vietnamese": "Nhân vật"
+        },
+        {
+          "hanzi": "战士",
+          "pinyin": "zhàn shì",
+          "hanviet": "Chiến sĩ",
+          "vietnamese": "Chiến binh"
+        }
+      ]
+    }
+  },
+  {
+    "hanzi": "手术",
+    "pinyin": "shǒu shù",
+    "hanviet": "Thủ thuật",
+    "vietnamese": "Phẫu thuật",
+    "char1": {
+      "hanzi": "手",
+      "pinyin": "shǒu",
+      "hanviet": "Thủ",
+      "words": [
+        {
+          "hanzi": "手术",
+          "pinyin": "shǒu shù",
+          "hanviet": "Thủ thuật",
+          "vietnamese": "Phẫu thuật"
+        },
+        {
+          "hanzi": "手机",
+          "pinyin": "shǒu jī",
+          "hanviet": "Thủ cơ",
+          "vietnamese": "Điện thoại"
+        },
+        {
+          "hanzi": "手工",
+          "pinyin": "shǒu gōng",
+          "hanviet": "Thủ công",
+          "vietnamese": "Thủ công"
+        },
+        {
+          "hanzi": "手套",
+          "pinyin": "shǒu tào",
+          "hanviet": "Thủ sáo",
+          "vietnamese": "Găng tay"
+        },
+        {
+          "hanzi": "手段",
+          "pinyin": "shǒu duàn",
+          "hanviet": "Thủ đoạn",
+          "vietnamese": "Thủ đoạn"
+        }
+      ]
+    },
+    "char2": {
+      "hanzi": "术",
+      "pinyin": "shù",
+      "hanviet": "Thuật",
+      "words": [
+        {
+          "hanzi": "手术",
+          "pinyin": "shǒu shù",
+          "hanviet": "Thủ thuật",
+          "vietnamese": "Phẫu thuật"
+        },
+        {
+          "hanzi": "技术",
+          "pinyin": "jì shù",
+          "hanviet": "Kỹ thuật",
+          "vietnamese": "Kỹ thuật"
+        },
+        {
+          "hanzi": "艺术",
+          "pinyin": "yì shù",
+          "hanviet": "Nghệ thuật",
+          "vietnamese": "Nghệ thuật"
+        },
+        {
+          "hanzi": "学术",
+          "pinyin": "xué shù",
+          "hanviet": "Học thuật",
+          "vietnamese": "Học thuật"
+        },
+        {
+          "hanzi": "术语",
+          "pinyin": "shù yǔ",
+          "hanviet": "Thuật ngữ",
+          "vietnamese": "Thuật ngữ"
+        }
+      ]
+    }
+  },
+  {
+    "hanzi": "药品",
+    "pinyin": "yào pǐn",
+    "hanviet": "Dược phẩm",
+    "vietnamese": "Thuốc",
+    "char1": {
+      "hanzi": "药",
+      "pinyin": "yào",
+      "hanviet": "Dược",
+      "words": [
+        {
+          "hanzi": "药品",
+          "pinyin": "yào pǐn",
+          "hanviet": "Dược phẩm",
+          "vietnamese": "Thuốc"
+        },
+        {
+          "hanzi": "药店",
+          "pinyin": "yào diàn",
+          "hanviet": "Dược điếm",
+          "vietnamese": "Hiệu thuốc"
+        },
+        {
+          "hanzi": "药物",
+          "pinyin": "yào wù",
+          "hanviet": "Dược vật",
+          "vietnamese": "Thuốc"
+        },
+        {
+          "hanzi": "药方",
+          "pinyin": "yào fāng",
+          "hanviet": "Dược phương",
+          "vietnamese": "Đơn thuốc"
+        },
+        {
+          "hanzi": "中药",
+          "pinyin": "zhōng yào",
+          "hanviet": "Trung dược",
+          "vietnamese": "Thuốc Đông y"
+        }
+      ]
+    },
+    "char2": {
+      "hanzi": "品",
+      "pinyin": "pǐn",
+      "hanviet": "Phẩm",
+      "words": [
+        {
+          "hanzi": "药品",
+          "pinyin": "yào pǐn",
+          "hanviet": "Dược phẩm",
+          "vietnamese": "Thuốc"
+        },
+        {
+          "hanzi": "产品",
+          "pinyin": "chǎn pǐn",
+          "hanviet": "Sản phẩm",
+          "vietnamese": "Sản phẩm"
+        },
+        {
+          "hanzi": "品质",
+          "pinyin": "pǐn zhì",
+          "hanviet": "Phẩm chất",
+          "vietnamese": "Chất lượng"
+        },
+        {
+          "hanzi": "食品",
+          "pinyin": "shí pǐn",
+          "hanviet": "Thực phẩm",
+          "vietnamese": "Thực phẩm"
+        },
+        {
+          "hanzi": "样品",
+          "pinyin": "yàng pǐn",
+          "hanviet": "Dạng phẩm",
+          "vietnamese": "Mẫu hàng"
+        }
+      ]
+    }
+  },
+  {
+    "hanzi": "检查",
+    "pinyin": "jiǎn chá",
+    "hanviet": "Kiểm tra",
+    "vietnamese": "Kiểm tra",
+    "char1": {
+      "hanzi": "检",
+      "pinyin": "jiǎn",
+      "hanviet": "Kiểm",
+      "words": [
+        {
+          "hanzi": "检查",
+          "pinyin": "jiǎn chá",
+          "hanviet": "Kiểm tra",
+          "vietnamese": "Kiểm tra"
+        },
+        {
+          "hanzi": "检验",
+          "pinyin": "jiǎn yàn",
+          "hanviet": "Kiểm nghiệm",
+          "vietnamese": "Kiểm định"
+        },
+        {
+          "hanzi": "检测",
+          "pinyin": "jiǎn cè",
+          "hanviet": "Kiểm trắc",
+          "vietnamese": "Phát hiện"
+        },
+        {
+          "hanzi": "体检",
+          "pinyin": "tǐ jiǎn",
+          "hanviet": "Thể kiểm",
+          "vietnamese": "Khám sức khỏe"
+        },
+        {
+          "hanzi": "检讨",
+          "pinyin": "jiǎn tǎo",
+          "hanviet": "Kiểm thảo",
+          "vietnamese": "Tự kiểm điểm"
+        }
+      ]
+    },
+    "char2": {
+      "hanzi": "查",
+      "pinyin": "chá",
+      "hanviet": "Tra",
+      "words": [
+        {
+          "hanzi": "检查",
+          "pinyin": "jiǎn chá",
+          "hanviet": "Kiểm tra",
+          "vietnamese": "Kiểm tra"
+        },
+        {
+          "hanzi": "调查",
+          "pinyin": "diào chá",
+          "hanviet": "Điều tra",
+          "vietnamese": "Điều tra"
+        },
+        {
+          "hanzi": "查找",
+          "pinyin": "chá zhǎo",
+          "hanviet": "Tra tìm",
+          "vietnamese": "Tìm kiếm"
+        },
+        {
+          "hanzi": "查询",
+          "pinyin": "chá xún",
+          "hanviet": "Tra tuần",
+          "vietnamese": "Tra cứu"
+        },
+        {
+          "hanzi": "考察",
+          "pinyin": "kǎo chá",
+          "hanviet": "Khảo tra",
+          "vietnamese": "Khảo sát"
+        }
+      ]
+    }
+  },
+  {
+    "hanzi": "治疗",
+    "pinyin": "zhì liáo",
+    "hanviet": "Trị liệu",
+    "vietnamese": "Điều trị",
+    "char1": {
+      "hanzi": "治",
+      "pinyin": "zhì",
+      "hanviet": "Trị",
+      "words": [
+        {
+          "hanzi": "治疗",
+          "pinyin": "zhì liáo",
+          "hanviet": "Trị liệu",
+          "vietnamese": "Điều trị"
+        },
+        {
+          "hanzi": "治理",
+          "pinyin": "zhì lǐ",
+          "hanviet": "Trị lý",
+          "vietnamese": "Quản lý"
+        },
+        {
+          "hanzi": "治安",
+          "pinyin": "zhì ān",
+          "hanviet": "Trị an",
+          "vietnamese": "An ninh"
+        },
+        {
+          "hanzi": "治病",
+          "pinyin": "zhì bìng",
+          "hanviet": "Trị bệnh",
+          "vietnamese": "Chữa bệnh"
+        },
+        {
+          "hanzi": "政治",
+          "pinyin": "zhèng zhì",
+          "hanviet": "Chính trị",
+          "vietnamese": "Chính trị"
+        }
+      ]
+    },
+    "char2": {
+      "hanzi": "疗",
+      "pinyin": "liáo",
+      "hanviet": "Liệu",
+      "words": [
+        {
+          "hanzi": "治疗",
+          "pinyin": "zhì liáo",
+          "hanviet": "Trị liệu",
+          "vietnamese": "Điều trị"
+        },
+        {
+          "hanzi": "医疗",
+          "pinyin": "yī liáo",
+          "hanviet": "Y liệu",
+          "vietnamese": "Chăm sóc y tế"
+        },
+        {
+          "hanzi": "疗效",
+          "pinyin": "liáo xiào",
+          "hanviet": "Liệu hiệu",
+          "vietnamese": "Hiệu quả điều trị"
+        },
+        {
+          "hanzi": "疗养",
+          "pinyin": "liáo yǎng",
+          "hanviet": "Liệu dưỡng",
+          "vietnamese": "Điều dưỡng"
+        },
+        {
+          "hanzi": "理疗",
+          "pinyin": "lǐ liáo",
+          "hanviet": "Lý liệu",
+          "vietnamese": "Vật lý trị liệu"
+        }
+      ]
+    }
+  },
+  {
+    "hanzi": "急诊",
+    "pinyin": "jí zhěn",
+    "hanviet": "Cấp chẩn",
+    "vietnamese": "Cấp cứu",
+    "char1": {
+      "hanzi": "急",
+      "pinyin": "jí",
+      "hanviet": "Cấp",
+      "words": [
+        {
+          "hanzi": "急诊",
+          "pinyin": "jí zhěn",
+          "hanviet": "Cấp chẩn",
+          "vietnamese": "Cấp cứu"
+        },
+        {
+          "hanzi": "紧急",
+          "pinyin": "jǐn jí",
+          "hanviet": "Khẩn cấp",
+          "vietnamese": "Khẩn cấp"
+        },
+        {
+          "hanzi": "急忙",
+          "pinyin": "jí máng",
+          "hanviet": "Cấp mang",
+          "vietnamese": "Vội vàng"
+        },
+        {
+          "hanzi": "急救",
+          "pinyin": "jí jiù",
+          "hanviet": "Cấp cứu",
+          "vietnamese": "Sơ cứu"
+        },
+        {
+          "hanzi": "急性",
+          "pinyin": "jí xìng",
+          "hanviet": "Cấp tính",
+          "vietnamese": "Cấp tính"
+        }
+      ]
+    },
+    "char2": {
+      "hanzi": "诊",
+      "pinyin": "zhěn",
+      "hanviet": "Chẩn",
+      "words": [
+        {
+          "hanzi": "急诊",
+          "pinyin": "jí zhěn",
+          "hanviet": "Cấp chẩn",
+          "vietnamese": "Cấp cứu"
+        },
+        {
+          "hanzi": "诊断",
+          "pinyin": "zhěn duàn",
+          "hanviet": "Chẩn đoán",
+          "vietnamese": "Chẩn đoán"
+        },
+        {
+          "hanzi": "门诊",
+          "pinyin": "mén zhěn",
+          "hanviet": "Môn chẩn",
+          "vietnamese": "Phòng khám"
+        },
+        {
+          "hanzi": "诊所",
+          "pinyin": "zhěn suǒ",
+          "hanviet": "Chẩn sở",
+          "vietnamese": "Phòng khám"
+        },
+        {
+          "hanzi": "就诊",
+          "pinyin": "jiù zhěn",
+          "hanviet": "Tựu chẩn",
+          "vietnamese": "Khám bệnh"
+        }
+      ]
+    }
+  },
+  {
+    "hanzi": "住院",
+    "pinyin": "zhù yuàn",
+    "hanviet": "Trú viện",
+    "vietnamese": "Nhập viện",
+    "char1": {
+      "hanzi": "住",
+      "pinyin": "zhù",
+      "hanviet": "Trú",
+      "words": [
+        {
+          "hanzi": "住院",
+          "pinyin": "zhù yuàn",
+          "hanviet": "Trú viện",
+          "vietnamese": "Nhập viện"
+        },
+        {
+          "hanzi": "住宿",
+          "pinyin": "zhù sù",
+          "hanviet": "Trú túc",
+          "vietnamese": "Lưu trú"
+        },
+        {
+          "hanzi": "住宅",
+          "pinyin": "zhù zhái",
+          "hanviet": "Trú trạch",
+          "vietnamese": "Nhà ở"
+        },
+        {
+          "hanzi": "住址",
+          "pinyin": "zhù zhǐ",
+          "hanviet": "Trú chỉ",
+          "vietnamese": "Địa chỉ"
+        },
+        {
+          "hanzi": "居住",
+          "pinyin": "jū zhù",
+          "hanviet": "Cư trú",
+          "vietnamese": "Sinh sống"
+        }
+      ]
+    },
+    "char2": {
+      "hanzi": "院",
+      "pinyin": "yuàn",
+      "hanviet": "Viện",
+      "words": [
+        {
+          "hanzi": "医院",
+          "pinyin": "yī yuàn",
+          "hanviet": "Y viện",
+          "vietnamese": "Bệnh viện"
+        },
+        {
+          "hanzi": "法院",
+          "pinyin": "fǎ yuàn",
+          "hanviet": "Pháp viện",
+          "vietnamese": "Tòa án"
+        },
+        {
+          "hanzi": "学院",
+          "pinyin": "xué yuàn",
+          "hanviet": "Học viện",
+          "vietnamese": "Học viện"
+        },
+        {
+          "hanzi": "住院",
+          "pinyin": "zhù yuàn",
+          "hanviet": "Trú viện",
+          "vietnamese": "Nhập viện"
+        },
+        {
+          "hanzi": "剧院",
+          "pinyin": "jù yuàn",
+          "hanviet": "Kịch viện",
+          "vietnamese": "Nhà hát"
+        }
+      ]
+    }
+  },
+  {
+    "hanzi": "诊断",
+    "pinyin": "zhěn duàn",
+    "hanviet": "Chẩn đoán",
+    "vietnamese": "Chẩn đoán",
+    "char1": {
+      "hanzi": "诊",
+      "pinyin": "zhěn",
+      "hanviet": "Chẩn",
+      "words": [
+        {
+          "hanzi": "诊断",
+          "pinyin": "zhěn duàn",
+          "hanviet": "Chẩn đoán",
+          "vietnamese": "Chẩn đoán"
+        },
+        {
+          "hanzi": "急诊",
+          "pinyin": "jí zhěn",
+          "hanviet": "Cấp chẩn",
+          "vietnamese": "Cấp cứu"
+        },
+        {
+          "hanzi": "门诊",
+          "pinyin": "mén zhěn",
+          "hanviet": "Môn chẩn",
+          "vietnamese": "Phòng khám"
+        },
+        {
+          "hanzi": "诊所",
+          "pinyin": "zhěn suǒ",
+          "hanviet": "Chẩn sở",
+          "vietnamese": "Phòng khám"
+        },
+        {
+          "hanzi": "就诊",
+          "pinyin": "jiù zhěn",
+          "hanviet": "Tựu chẩn",
+          "vietnamese": "Khám bệnh"
+        }
+      ]
+    },
+    "char2": {
+      "hanzi": "断",
+      "pinyin": "duàn",
+      "hanviet": "Đoạn",
+      "words": [
+        {
+          "hanzi": "诊断",
+          "pinyin": "zhěn duàn",
+          "hanviet": "Chẩn đoán",
+          "vietnamese": "Chẩn đoán"
+        },
+        {
+          "hanzi": "判断",
+          "pinyin": "pàn duàn",
+          "hanviet": "Phán đoán",
+          "vietnamese": "Phán đoán"
+        },
+        {
+          "hanzi": "中断",
+          "pinyin": "zhōng duàn",
+          "hanviet": "Trung đoạn",
+          "vietnamese": "Gián đoạn"
+        },
+        {
+          "hanzi": "断裂",
+          "pinyin": "duàn liè",
+          "hanviet": "Đoạn liệt",
+          "vietnamese": "Gãy"
+        },
+        {
+          "hanzi": "断定",
+          "pinyin": "duàn dìng",
+          "hanviet": "Đoạn định",
+          "vietnamese": "Kết luận"
+        }
+      ]
+    }
+  },
+  {
+    "hanzi": "病房",
+    "pinyin": "bìng fáng",
+    "hanviet": "Bệnh phòng",
+    "vietnamese": "Phòng bệnh",
+    "char1": {
+      "hanzi": "病",
+      "pinyin": "bìng",
+      "hanviet": "Bệnh",
+      "words": [
+        {
+          "hanzi": "病房",
+          "pinyin": "bìng fáng",
+          "hanviet": "Bệnh phòng",
+          "vietnamese": "Phòng bệnh"
+        },
+        {
+          "hanzi": "疾病",
+          "pinyin": "jí bìng",
+          "hanviet": "Tật bệnh",
+          "vietnamese": "Bệnh tật"
+        },
+        {
+          "hanzi": "病人",
+          "pinyin": "bìng rén",
+          "hanviet": "Bệnh nhân",
+          "vietnamese": "Bệnh nhân"
+        },
+        {
+          "hanzi": "病情",
+          "pinyin": "bìng qíng",
+          "hanviet": "Bệnh tình",
+          "vietnamese": "Tình trạng bệnh"
+        },
+        {
+          "hanzi": "病历",
+          "pinyin": "bìng lì",
+          "hanviet": "Bệnh lịch",
+          "vietnamese": "Hồ sơ bệnh án"
+        }
+      ]
+    },
+    "char2": {
+      "hanzi": "房",
+      "pinyin": "fáng",
+      "hanviet": "Phòng",
+      "words": [
+        {
+          "hanzi": "病房",
+          "pinyin": "bìng fáng",
+          "hanviet": "Bệnh phòng",
+          "vietnamese": "Phòng bệnh"
+        },
+        {
+          "hanzi": "房间",
+          "pinyin": "fáng jiān",
+          "hanviet": "Phòng gian",
+          "vietnamese": "Phòng"
+        },
+        {
+          "hanzi": "房子",
+          "pinyin": "fáng zi",
+          "hanviet": "Phòng tử",
+          "vietnamese": "Nhà"
+        },
+        {
+          "hanzi": "住房",
+          "pinyin": "zhù fáng",
+          "hanviet": "Trú phòng",
+          "vietnamese": "Nhà ở"
+        },
+        {
+          "hanzi": "厨房",
+          "pinyin": "chú fáng",
+          "hanviet": "Trù phòng",
+          "vietnamese": "Nhà bếp"
+        }
+      ]
+    }
+  }
+]
