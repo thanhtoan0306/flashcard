@@ -123,17 +123,6 @@
         let topics = [];
         let currentTopicIndex = 0;
         
-        // Mapping tên file JSON sang tên hiển thị
-        const topicNameMapping = {
-            'default.json': 'Chủ đề chung',
-            'hospital.json': 'Bệnh viện',
-            'kitchen.json': 'Nhà bếp',
-            'body.json': 'Cơ thể',
-            'smartphone.json': 'Điện thoại',
-            'planets.json': 'Hành tinh',
-            'dinosaurs.json': 'Khủng long'
-        };
-        
         // Danh sách các file JSON cần kiểm tra
         const jsonFiles = [
             'default.json',
@@ -142,7 +131,11 @@
             'body.json',
             'smartphone.json',
             'planets.json',
-            'dinosaurs.json'
+            'dinosaurs.json',
+            'study_supplies.json',
+            'vegetables.json',
+            'dishes.json',
+            'drinking.json'
         ];
         
         // Hàm kiểm tra file JSON có tồn tại không
@@ -162,7 +155,8 @@
             for (const filename of jsonFiles) {
                 const exists = await checkJsonFileExists(filename);
                 if (exists) {
-                    const displayName = topicNameMapping[filename] || filename.replace('.json', '');
+                    // Tự động tạo tên hiển thị từ tên file
+                    const displayName = filename.replace('.json', '').replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
                     topics.push({
                         name: displayName,
                         file: filename

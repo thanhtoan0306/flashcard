@@ -1,0 +1,1068 @@
+[
+    {
+      "hanzi": "酒",
+      "pinyin": "jiǔ",
+      "hanviet": "Tửu",
+      "vietnamese": "Rượu",
+      "char1": {
+        "hanzi": "酒",
+        "pinyin": "jiǔ",
+        "hanviet": "Tửu",
+        "words": [
+          {
+            "hanzi": "酒",
+            "pinyin": "jiǔ",
+            "hanviet": "Tửu",
+            "vietnamese": "Rượu"
+          },
+          {
+            "hanzi": "白酒",
+            "pinyin": "bái jiǔ",
+            "hanviet": "Bạch tửu",
+            "vietnamese": "Rượu trắng"
+          },
+          {
+            "hanzi": "红酒",
+            "pinyin": "hóng jiǔ",
+            "hanviet": "Hồng tửu",
+            "vietnamese": "Rượu vang"
+          },
+          {
+            "hanzi": "啤酒",
+            "pinyin": "pí jiǔ",
+            "hanviet": "Tì tửu",
+            "vietnamese": "Bia"
+          },
+          {
+            "hanzi": "喝酒",
+            "pinyin": "hē jiǔ",
+            "hanviet": "Hát tửu",
+            "vietnamese": "Uống rượu"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "啤酒",
+      "pinyin": "pí jiǔ",
+      "hanviet": "Tì tửu",
+      "vietnamese": "Bia",
+      "char1": {
+        "hanzi": "啤",
+        "pinyin": "pí",
+        "hanviet": "Tì",
+        "words": [
+          {
+            "hanzi": "啤酒",
+            "pinyin": "pí jiǔ",
+            "hanviet": "Tì tửu",
+            "vietnamese": "Bia"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "酒",
+        "pinyin": "jiǔ",
+        "hanviet": "Tửu",
+        "words": [
+          {
+            "hanzi": "啤酒",
+            "pinyin": "pí jiǔ",
+            "hanviet": "Tì tửu",
+            "vietnamese": "Bia"
+          },
+          {
+            "hanzi": "白酒",
+            "pinyin": "bái jiǔ",
+            "hanviet": "Bạch tửu",
+            "vietnamese": "Rượu trắng"
+          },
+          {
+            "hanzi": "红酒",
+            "pinyin": "hóng jiǔ",
+            "hanviet": "Hồng tửu",
+            "vietnamese": "Rượu vang"
+          },
+          {
+            "hanzi": "喝酒",
+            "pinyin": "hē jiǔ",
+            "hanviet": "Hát tửu",
+            "vietnamese": "Uống rượu"
+          },
+          {
+            "hanzi": "酒馆",
+            "pinyin": "jiǔ guǎn",
+            "hanviet": "Tửu quán",
+            "vietnamese": "Quán rượu"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "白酒",
+      "pinyin": "bái jiǔ",
+      "hanviet": "Bạch tửu",
+      "vietnamese": "Rượu trắng",
+      "char1": {
+        "hanzi": "白",
+        "pinyin": "bái",
+        "hanviet": "Bạch",
+        "words": [
+          {
+            "hanzi": "白酒",
+            "pinyin": "bái jiǔ",
+            "hanviet": "Bạch tửu",
+            "vietnamese": "Rượu trắng"
+          },
+          {
+            "hanzi": "白色",
+            "pinyin": "bái sè",
+            "hanviet": "Bạch sắc",
+            "vietnamese": "Màu trắng"
+          },
+          {
+            "hanzi": "白天",
+            "pinyin": "bái tiān",
+            "hanviet": "Bạch thiên",
+            "vietnamese": "Ban ngày"
+          },
+          {
+            "hanzi": "明白",
+            "pinyin": "míng bái",
+            "hanviet": "Minh bạch",
+            "vietnamese": "Hiểu rõ"
+          },
+          {
+            "hanzi": "雪白",
+            "pinyin": "xuě bái",
+            "hanviet": "Tuyết bạch",
+            "vietnamese": "Trắng như tuyết"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "酒",
+        "pinyin": "jiǔ",
+        "hanviet": "Tửu",
+        "words": [
+          {
+            "hanzi": "白酒",
+            "pinyin": "bái jiǔ",
+            "hanviet": "Bạch tửu",
+            "vietnamese": "Rượu trắng"
+          },
+          {
+            "hanzi": "红酒",
+            "pinyin": "hóng jiǔ",
+            "hanviet": "Hồng tửu",
+            "vietnamese": "Rượu vang"
+          },
+          {
+            "hanzi": "啤酒",
+            "pinyin": "pí jiǔ",
+            "hanviet": "Tì tửu",
+            "vietnamese": "Bia"
+          },
+          {
+            "hanzi": "喝酒",
+            "pinyin": "hē jiǔ",
+            "hanviet": "Hát tửu",
+            "vietnamese": "Uống rượu"
+          },
+          {
+            "hanzi": "酒馆",
+            "pinyin": "jiǔ guǎn",
+            "hanviet": "Tửu quán",
+            "vietnamese": "Quán rượu"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "红酒",
+      "pinyin": "hóng jiǔ",
+      "hanviet": "Hồng tửu",
+      "vietnamese": "Rượu vang",
+      "char1": {
+        "hanzi": "红",
+        "pinyin": "hóng",
+        "hanviet": "Hồng",
+        "words": [
+          {
+            "hanzi": "红酒",
+            "pinyin": "hóng jiǔ",
+            "hanviet": "Hồng tửu",
+            "vietnamese": "Rượu vang"
+          },
+          {
+            "hanzi": "红色",
+            "pinyin": "hóng sè",
+            "hanviet": "Hồng sắc",
+            "vietnamese": "Màu đỏ"
+          },
+          {
+            "hanzi": "红花",
+            "pinyin": "hóng huā",
+            "hanviet": "Hồng hoa",
+            "vietnamese": "Hoa đỏ"
+          },
+          {
+            "hanzi": "脸红",
+            "pinyin": "liǎn hóng",
+            "hanviet": "Liễn hồng",
+            "vietnamese": "Đỏ mặt"
+          },
+          {
+            "hanzi": "红豆",
+            "pinyin": "hóng dòu",
+            "hanviet": "Hồng đậu",
+            "vietnamese": "Đậu đỏ"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "酒",
+        "pinyin": "jiǔ",
+        "hanviet": "Tửu",
+        "words": [
+          {
+            "hanzi": "红酒",
+            "pinyin": "hóng jiǔ",
+            "hanviet": "Hồng tửu",
+            "vietnamese": "Rượu vang"
+          },
+          {
+            "hanzi": "白酒",
+            "pinyin": "bái jiǔ",
+            "hanviet": "Bạch tửu",
+            "vietnamese": "Rượu trắng"
+          },
+          {
+            "hanzi": "啤酒",
+            "pinyin": "pí jiǔ",
+            "hanviet": "Tì tửu",
+            "vietnamese": "Bia"
+          },
+          {
+            "hanzi": "喝酒",
+            "pinyin": "hē jiǔ",
+            "hanviet": "Hát tửu",
+            "vietnamese": "Uống rượu"
+          },
+          {
+            "hanzi": "酒馆",
+            "pinyin": "jiǔ guǎn",
+            "hanviet": "Tửu quán",
+            "vietnamese": "Quán rượu"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "干杯",
+      "pinyin": "gān bēi",
+      "hanviet": "Can bôi",
+      "vietnamese": "Cạn ly",
+      "char1": {
+        "hanzi": "干",
+        "pinyin": "gān",
+        "hanviet": "Can",
+        "words": [
+          {
+            "hanzi": "干杯",
+            "pinyin": "gān bēi",
+            "hanviet": "Can bôi",
+            "vietnamese": "Cạn ly"
+          },
+          {
+            "hanzi": "干净",
+            "pinyin": "gān jìng",
+            "hanviet": "Can tịnh",
+            "vietnamese": "Sạch sẽ"
+          },
+          {
+            "hanzi": "干燥",
+            "pinyin": "gān zào",
+            "hanviet": "Can táo",
+            "vietnamese": "Khô ráo"
+          },
+          {
+            "hanzi": "干活",
+            "pinyin": "gàn huó",
+            "hanviet": "Can hoạt",
+            "vietnamese": "Làm việc"
+          },
+          {
+            "hanzi": "干部",
+            "pinyin": "gàn bù",
+            "hanviet": "Can bộ",
+            "vietnamese": "Cán bộ"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "杯",
+        "pinyin": "bēi",
+        "hanviet": "Bôi",
+        "words": [
+          {
+            "hanzi": "干杯",
+            "pinyin": "gān bēi",
+            "hanviet": "Can bôi",
+            "vietnamese": "Cạn ly"
+          },
+          {
+            "hanzi": "杯子",
+            "pinyin": "bēi zi",
+            "hanviet": "Bôi tử",
+            "vietnamese": "Cái cốc"
+          },
+          {
+            "hanzi": "茶杯",
+            "pinyin": "chá bēi",
+            "hanviet": "Trà bôi",
+            "vietnamese": "Cốc trà"
+          },
+          {
+            "hanzi": "酒杯",
+            "pinyin": "jiǔ bēi",
+            "hanviet": "Tửu bôi",
+            "vietnamese": "Ly rượu"
+          },
+          {
+            "hanzi": "咖啡杯",
+            "pinyin": "kā fēi bēi",
+            "hanviet": "Ca phi bôi",
+            "vietnamese": "Cốc cà phê"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "碰杯",
+      "pinyin": "pèng bēi",
+      "hanviet": "Bánh bôi",
+      "vietnamese": "Chạm ly",
+      "char1": {
+        "hanzi": "碰",
+        "pinyin": "pèng",
+        "hanviet": "Bánh",
+        "words": [
+          {
+            "hanzi": "碰杯",
+            "pinyin": "pèng bēi",
+            "hanviet": "Bánh bôi",
+            "vietnamese": "Chạm ly"
+          },
+          {
+            "hanzi": "碰到",
+            "pinyin": "pèng dào",
+            "hanviet": "Bánh đáo",
+            "vietnamese": "Gặp phải"
+          },
+          {
+            "hanzi": "碰撞",
+            "pinyin": "pèng zhuàng",
+            "hanviet": "Bánh trang",
+            "vietnamese": "Va chạm"
+          },
+          {
+            "hanzi": "碰面",
+            "pinyin": "pèng miàn",
+            "hanviet": "Bánh diện",
+            "vietnamese": "Gặp mặt"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "杯",
+        "pinyin": "bēi",
+        "hanviet": "Bôi",
+        "words": [
+          {
+            "hanzi": "碰杯",
+            "pinyin": "pèng bēi",
+            "hanviet": "Bánh bôi",
+            "vietnamese": "Chạm ly"
+          },
+          {
+            "hanzi": "杯子",
+            "pinyin": "bēi zi",
+            "hanviet": "Bôi tử",
+            "vietnamese": "Cái cốc"
+          },
+          {
+            "hanzi": "茶杯",
+            "pinyin": "chá bēi",
+            "hanviet": "Trà bôi",
+            "vietnamese": "Cốc trà"
+          },
+          {
+            "hanzi": "酒杯",
+            "pinyin": "jiǔ bēi",
+            "hanviet": "Tửu bôi",
+            "vietnamese": "Ly rượu"
+          },
+          {
+            "hanzi": "咖啡杯",
+            "pinyin": "kā fēi bēi",
+            "hanviet": "Ca phi bôi",
+            "vietnamese": "Cốc cà phê"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "敬酒",
+      "pinyin": "jìng jiǔ",
+      "hanviet": "Kính tửu",
+      "vietnamese": "Mời rượu",
+      "char1": {
+        "hanzi": "敬",
+        "pinyin": "jìng",
+        "hanviet": "Kính",
+        "words": [
+          {
+            "hanzi": "敬酒",
+            "pinyin": "jìng jiǔ",
+            "hanviet": "Kính tửu",
+            "vietnamese": "Mời rượu"
+          },
+          {
+            "hanzi": "尊敬",
+            "pinyin": "zūn jìng",
+            "hanviet": "Tôn kính",
+            "vietnamese": "Kính trọng"
+          },
+          {
+            "hanzi": "敬礼",
+            "pinyin": "jìng lǐ",
+            "hanviet": "Kính lễ",
+            "vietnamese": "Chào kính"
+          },
+          {
+            "hanzi": "敬爱",
+            "pinyin": "jìng ài",
+            "hanviet": "Kính ái",
+            "vietnamese": "Kính yêu"
+          },
+          {
+            "hanzi": "致敬",
+            "pinyin": "zhì jìng",
+            "hanviet": "Trí kính",
+            "vietnamese": "Chào kính"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "酒",
+        "pinyin": "jiǔ",
+        "hanviet": "Tửu",
+        "words": [
+          {
+            "hanzi": "敬酒",
+            "pinyin": "jìng jiǔ",
+            "hanviet": "Kính tửu",
+            "vietnamese": "Mời rượu"
+          },
+          {
+            "hanzi": "白酒",
+            "pinyin": "bái jiǔ",
+            "hanviet": "Bạch tửu",
+            "vietnamese": "Rượu trắng"
+          },
+          {
+            "hanzi": "红酒",
+            "pinyin": "hóng jiǔ",
+            "hanviet": "Hồng tửu",
+            "vietnamese": "Rượu vang"
+          },
+          {
+            "hanzi": "啤酒",
+            "pinyin": "pí jiǔ",
+            "hanviet": "Tì tửu",
+            "vietnamese": "Bia"
+          },
+          {
+            "hanzi": "喝酒",
+            "pinyin": "hē jiǔ",
+            "hanviet": "Hát tửu",
+            "vietnamese": "Uống rượu"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "酒量",
+      "pinyin": "jiǔ liàng",
+      "hanviet": "Tửu lượng",
+      "vietnamese": "Tửu lượng",
+      "char1": {
+        "hanzi": "酒",
+        "pinyin": "jiǔ",
+        "hanviet": "Tửu",
+        "words": [
+          {
+            "hanzi": "酒量",
+            "pinyin": "jiǔ liàng",
+            "hanviet": "Tửu lượng",
+            "vietnamese": "Tửu lượng"
+          },
+          {
+            "hanzi": "白酒",
+            "pinyin": "bái jiǔ",
+            "hanviet": "Bạch tửu",
+            "vietnamese": "Rượu trắng"
+          },
+          {
+            "hanzi": "红酒",
+            "pinyin": "hóng jiǔ",
+            "hanviet": "Hồng tửu",
+            "vietnamese": "Rượu vang"
+          },
+          {
+            "hanzi": "啤酒",
+            "pinyin": "pí jiǔ",
+            "hanviet": "Tì tửu",
+            "vietnamese": "Bia"
+          },
+          {
+            "hanzi": "喝酒",
+            "pinyin": "hē jiǔ",
+            "hanviet": "Hát tửu",
+            "vietnamese": "Uống rượu"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "量",
+        "pinyin": "liàng",
+        "hanviet": "Lượng",
+        "words": [
+          {
+            "hanzi": "酒量",
+            "pinyin": "jiǔ liàng",
+            "hanviet": "Tửu lượng",
+            "vietnamese": "Tửu lượng"
+          },
+          {
+            "hanzi": "数量",
+            "pinyin": "shù liàng",
+            "hanviet": "Số lượng",
+            "vietnamese": "Số lượng"
+          },
+          {
+            "hanzi": "质量",
+            "pinyin": "zhì liàng",
+            "hanviet": "Chất lượng",
+            "vietnamese": "Chất lượng"
+          },
+          {
+            "hanzi": "重量",
+            "pinyin": "zhòng liàng",
+            "hanviet": "Trọng lượng",
+            "vietnamese": "Trọng lượng"
+          },
+          {
+            "hanzi": "容量",
+            "pinyin": "róng liàng",
+            "hanviet": "Dung lượng",
+            "vietnamese": "Dung lượng"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "醉",
+      "pinyin": "zuì",
+      "hanviet": "Túy",
+      "vietnamese": "Say",
+      "char1": {
+        "hanzi": "醉",
+        "pinyin": "zuì",
+        "hanviet": "Túy",
+        "words": [
+          {
+            "hanzi": "醉",
+            "pinyin": "zuì",
+            "hanviet": "Túy",
+            "vietnamese": "Say"
+          },
+          {
+            "hanzi": "喝醉",
+            "pinyin": "hē zuì",
+            "hanviet": "Hát túy",
+            "vietnamese": "Say rượu"
+          },
+          {
+            "hanzi": "陶醉",
+            "pinyin": "táo zuì",
+            "hanviet": "Đào túy",
+            "vietnamese": "Say mê"
+          },
+          {
+            "hanzi": "沉醉",
+            "pinyin": "chén zuì",
+            "hanviet": "Trầm túy",
+            "vietnamese": "Đắm chìm"
+          },
+          {
+            "hanzi": "醉汉",
+            "pinyin": "zuì hàn",
+            "hanviet": "Túy hán",
+            "vietnamese": "Người say"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "醒酒",
+      "pinyin": "xǐng jiǔ",
+      "hanviet": "Tỉnh tửu",
+      "vietnamese": "Giải rượu",
+      "char1": {
+        "hanzi": "醒",
+        "pinyin": "xǐng",
+        "hanviet": "Tỉnh",
+        "words": [
+          {
+            "hanzi": "醒酒",
+            "pinyin": "xǐng jiǔ",
+            "hanviet": "Tỉnh tửu",
+            "vietnamese": "Giải rượu"
+          },
+          {
+            "hanzi": "清醒",
+            "pinyin": "qīng xǐng",
+            "hanviet": "Thanh tỉnh",
+            "vietnamese": "Tỉnh táo"
+          },
+          {
+            "hanzi": "苏醒",
+            "pinyin": "sū xǐng",
+            "hanviet": "Tô tỉnh",
+            "vietnamese": "Tỉnh lại"
+          },
+          {
+            "hanzi": "觉醒",
+            "pinyin": "jué xǐng",
+            "hanviet": "Giác tỉnh",
+            "vietnamese": "Giác ngộ"
+          },
+          {
+            "hanzi": "提醒",
+            "pinyin": "tí xǐng",
+            "hanviet": "Đề tỉnh",
+            "vietnamese": "Nhắc nhở"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "酒",
+        "pinyin": "jiǔ",
+        "hanviet": "Tửu",
+        "words": [
+          {
+            "hanzi": "醒酒",
+            "pinyin": "xǐng jiǔ",
+            "hanviet": "Tỉnh tửu",
+            "vietnamese": "Giải rượu"
+          },
+          {
+            "hanzi": "白酒",
+            "pinyin": "bái jiǔ",
+            "hanviet": "Bạch tửu",
+            "vietnamese": "Rượu trắng"
+          },
+          {
+            "hanzi": "红酒",
+            "pinyin": "hóng jiǔ",
+            "hanviet": "Hồng tửu",
+            "vietnamese": "Rượu vang"
+          },
+          {
+            "hanzi": "啤酒",
+            "pinyin": "pí jiǔ",
+            "hanviet": "Tì tửu",
+            "vietnamese": "Bia"
+          },
+          {
+            "hanzi": "喝酒",
+            "pinyin": "hē jiǔ",
+            "hanviet": "Hát tửu",
+            "vietnamese": "Uống rượu"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "酒馆",
+      "pinyin": "jiǔ guǎn",
+      "hanviet": "Tửu quán",
+      "vietnamese": "Quán rượu",
+      "char1": {
+        "hanzi": "酒",
+        "pinyin": "jiǔ",
+        "hanviet": "Tửu",
+        "words": [
+          {
+            "hanzi": "酒馆",
+            "pinyin": "jiǔ guǎn",
+            "hanviet": "Tửu quán",
+            "vietnamese": "Quán rượu"
+          },
+          {
+            "hanzi": "白酒",
+            "pinyin": "bái jiǔ",
+            "hanviet": "Bạch tửu",
+            "vietnamese": "Rượu trắng"
+          },
+          {
+            "hanzi": "红酒",
+            "pinyin": "hóng jiǔ",
+            "hanviet": "Hồng tửu",
+            "vietnamese": "Rượu vang"
+          },
+          {
+            "hanzi": "啤酒",
+            "pinyin": "pí jiǔ",
+            "hanviet": "Tì tửu",
+            "vietnamese": "Bia"
+          },
+          {
+            "hanzi": "喝酒",
+            "pinyin": "hē jiǔ",
+            "hanviet": "Hát tửu",
+            "vietnamese": "Uống rượu"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "馆",
+        "pinyin": "guǎn",
+        "hanviet": "Quán",
+        "words": [
+          {
+            "hanzi": "酒馆",
+            "pinyin": "jiǔ guǎn",
+            "hanviet": "Tửu quán",
+            "vietnamese": "Quán rượu"
+          },
+          {
+            "hanzi": "图书馆",
+            "pinyin": "tú shū guǎn",
+            "hanviet": "Đồ thư quán",
+            "vietnamese": "Thư viện"
+          },
+          {
+            "hanzi": "旅馆",
+            "pinyin": "lǚ guǎn",
+            "hanviet": "Lữ quán",
+            "vietnamese": "Khách sạn"
+          },
+          {
+            "hanzi": "饭馆",
+            "pinyin": "fàn guǎn",
+            "hanviet": "Phạn quán",
+            "vietnamese": "Nhà hàng"
+          },
+          {
+            "hanzi": "博物馆",
+            "pinyin": "bó wù guǎn",
+            "hanviet": "Bác vật quán",
+            "vietnamese": "Bảo tàng"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "酒吧",
+      "pinyin": "jiǔ bā",
+      "hanviet": "Tửu ba",
+      "vietnamese": "Bar",
+      "char1": {
+        "hanzi": "酒",
+        "pinyin": "jiǔ",
+        "hanviet": "Tửu",
+        "words": [
+          {
+            "hanzi": "酒吧",
+            "pinyin": "jiǔ bā",
+            "hanviet": "Tửu ba",
+            "vietnamese": "Bar"
+          },
+          {
+            "hanzi": "白酒",
+            "pinyin": "bái jiǔ",
+            "hanviet": "Bạch tửu",
+            "vietnamese": "Rượu trắng"
+          },
+          {
+            "hanzi": "红酒",
+            "pinyin": "hóng jiǔ",
+            "hanviet": "Hồng tửu",
+            "vietnamese": "Rượu vang"
+          },
+          {
+            "hanzi": "啤酒",
+            "pinyin": "pí jiǔ",
+            "hanviet": "Tì tửu",
+            "vietnamese": "Bia"
+          },
+          {
+            "hanzi": "喝酒",
+            "pinyin": "hē jiǔ",
+            "hanviet": "Hát tửu",
+            "vietnamese": "Uống rượu"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "吧",
+        "pinyin": "bā",
+        "hanviet": "Ba",
+        "words": [
+          {
+            "hanzi": "酒吧",
+            "pinyin": "jiǔ bā",
+            "hanviet": "Tửu ba",
+            "vietnamese": "Bar"
+          },
+          {
+            "hanzi": "网吧",
+            "pinyin": "wǎng bā",
+            "hanviet": "Võng ba",
+            "vietnamese": "Quán internet"
+          },
+          {
+            "hanzi": "咖啡吧",
+            "pinyin": "kā fēi bā",
+            "hanviet": "Ca phi ba",
+            "vietnamese": "Quán cà phê"
+          },
+          {
+            "hanzi": "茶吧",
+            "pinyin": "chá bā",
+            "hanviet": "Trà ba",
+            "vietnamese": "Quán trà"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "聚会",
+      "pinyin": "jù huì",
+      "hanviet": "Tụ hội",
+      "vietnamese": "Tụ tập",
+      "char1": {
+        "hanzi": "聚",
+        "pinyin": "jù",
+        "hanviet": "Tụ",
+        "words": [
+          {
+            "hanzi": "聚会",
+            "pinyin": "jù huì",
+            "hanviet": "Tụ hội",
+            "vietnamese": "Tụ tập"
+          },
+          {
+            "hanzi": "聚集",
+            "pinyin": "jù jí",
+            "hanviet": "Tụ tập",
+            "vietnamese": "Tập hợp"
+          },
+          {
+            "hanzi": "聚餐",
+            "pinyin": "jù cān",
+            "hanviet": "Tụ xan",
+            "vietnamese": "Ăn uống cùng nhau"
+          },
+          {
+            "hanzi": "聚精会神",
+            "pinyin": "jù jīng huì shén",
+            "hanviet": "Tụ tinh hội thần",
+            "vietnamese": "Tập trung"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "会",
+        "pinyin": "huì",
+        "hanviet": "Hội",
+        "words": [
+          {
+            "hanzi": "聚会",
+            "pinyin": "jù huì",
+            "hanviet": "Tụ hội",
+            "vietnamese": "Tụ tập"
+          },
+          {
+            "hanzi": "会议",
+            "pinyin": "huì yì",
+            "hanviet": "Hội nghị",
+            "vietnamese": "Cuộc họp"
+          },
+          {
+            "hanzi": "学会",
+            "pinyin": "xué huì",
+            "hanviet": "Học hội",
+            "vietnamese": "Học được"
+          },
+          {
+            "hanzi": "机会",
+            "pinyin": "jī huì",
+            "hanviet": "Cơ hội",
+            "vietnamese": "Cơ hội"
+          },
+          {
+            "hanzi": "社会",
+            "pinyin": "shè huì",
+            "hanviet": "Xã hội",
+            "vietnamese": "Xã hội"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "庆祝",
+      "pinyin": "qìng zhù",
+      "hanviet": "Khánh chúc",
+      "vietnamese": "Chúc mừng",
+      "char1": {
+        "hanzi": "庆",
+        "pinyin": "qìng",
+        "hanviet": "Khánh",
+        "words": [
+          {
+            "hanzi": "庆祝",
+            "pinyin": "qìng zhù",
+            "hanviet": "Khánh chúc",
+            "vietnamese": "Chúc mừng"
+          },
+          {
+            "hanzi": "国庆",
+            "pinyin": "guó qìng",
+            "hanviet": "Quốc khánh",
+            "vietnamese": "Quốc khánh"
+          },
+          {
+            "hanzi": "喜庆",
+            "pinyin": "xǐ qìng",
+            "hanviet": "Hỉ khánh",
+            "vietnamese": "Vui mừng"
+          },
+          {
+            "hanzi": "庆典",
+            "pinyin": "qìng diǎn",
+            "hanviet": "Khánh điển",
+            "vietnamese": "Lễ kỷ niệm"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "祝",
+        "pinyin": "zhù",
+        "hanviet": "Chúc",
+        "words": [
+          {
+            "hanzi": "庆祝",
+            "pinyin": "qìng zhù",
+            "hanviet": "Khánh chúc",
+            "vietnamese": "Chúc mừng"
+          },
+          {
+            "hanzi": "祝福",
+            "pinyin": "zhù fú",
+            "hanviet": "Chúc phúc",
+            "vietnamese": "Chúc phúc"
+          },
+          {
+            "hanzi": "祝愿",
+            "pinyin": "zhù yuàn",
+            "hanviet": "Chúc nguyện",
+            "vietnamese": "Chúc nguyện"
+          },
+          {
+            "hanzi": "祝贺",
+            "pinyin": "zhù hè",
+            "hanviet": "Chúc hạ",
+            "vietnamese": "Chúc mừng"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "狂欢",
+      "pinyin": "kuáng huān",
+      "hanviet": "Cuồng hoan",
+      "vietnamese": "Cuồng nhiệt",
+      "char1": {
+        "hanzi": "狂",
+        "pinyin": "kuáng",
+        "hanviet": "Cuồng",
+        "words": [
+          {
+            "hanzi": "狂欢",
+            "pinyin": "kuáng huān",
+            "hanviet": "Cuồng hoan",
+            "vietnamese": "Cuồng nhiệt"
+          },
+          {
+            "hanzi": "疯狂",
+            "pinyin": "fēng kuáng",
+            "hanviet": "Phong cuồng",
+            "vietnamese": "Điên cuồng"
+          },
+          {
+            "hanzi": "狂风",
+            "pinyin": "kuáng fēng",
+            "hanviet": "Cuồng phong",
+            "vietnamese": "Gió mạnh"
+          },
+          {
+            "hanzi": "狂喜",
+            "pinyin": "kuáng xǐ",
+            "hanviet": "Cuồng hỉ",
+            "vietnamese": "Vui sướng"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "欢",
+        "pinyin": "huān",
+        "hanviet": "Hoan",
+        "words": [
+          {
+            "hanzi": "狂欢",
+            "pinyin": "kuáng huān",
+            "hanviet": "Cuồng hoan",
+            "vietnamese": "Cuồng nhiệt"
+          },
+          {
+            "hanzi": "欢迎",
+            "pinyin": "huān yíng",
+            "hanviet": "Hoan nghênh",
+            "vietnamese": "Chào mừng"
+          },
+          {
+            "hanzi": "欢乐",
+            "pinyin": "huān lè",
+            "hanviet": "Hoan lạc",
+            "vietnamese": "Vui vẻ"
+          },
+          {
+            "hanzi": "喜欢",
+            "pinyin": "xǐ huān",
+            "hanviet": "Hỉ hoan",
+            "vietnamese": "Thích"
+          },
+          {
+            "hanzi": "欢庆",
+            "pinyin": "huān qìng",
+            "hanviet": "Hoan khánh",
+            "vietnamese": "Vui mừng"
+          }
+        ]
+      }
+    }
+  ]
