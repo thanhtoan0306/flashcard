@@ -120,17 +120,72 @@
         let totalCards = 0;
         
         // --- Topic Management ---
-        const topics = [
-            { name: 'Chủ đề chung', file: 'default.json' },
-            { name: 'Bệnh viện', file: 'hospital.json' },
-            { name: 'Nhà bếp', file: 'kitchen.json' },
-            { name: 'Cơ thể', file: 'body.json' }
-        ];
+        let topics = [];
         let currentTopicIndex = 0;
+        
+        // Mapping tên file JSON sang tên hiển thị
+        const topicNameMapping = {
+            'default.json': 'Chủ đề chung',
+            'hospital.json': 'Bệnh viện',
+            'kitchen.json': 'Nhà bếp',
+            'body.json': 'Cơ thể',
+            'smartphone.json': 'Điện thoại',
+            'planets.json': 'Hành tinh',
+            'dinosaurs.json': 'Khủng long'
+        };
+        
+        // Danh sách các file JSON cần kiểm tra
+        const jsonFiles = [
+            'default.json',
+            'hospital.json', 
+            'kitchen.json',
+            'body.json',
+            'smartphone.json',
+            'planets.json',
+            'dinosaurs.json'
+        ];
+        
+        // Hàm kiểm tra file JSON có tồn tại không
+        async function checkJsonFileExists(filename) {
+            try {
+                const response = await fetch(filename, { method: 'HEAD' });
+                return response.ok;
+            } catch (error) {
+                return false;
+            }
+        }
+        
+        // Hàm tự động scan và tạo danh sách topics
+        async function scanAndCreateTopics() {
+            topics = [];
+            
+            for (const filename of jsonFiles) {
+                const exists = await checkJsonFileExists(filename);
+                if (exists) {
+                    const displayName = topicNameMapping[filename] || filename.replace('.json', '');
+                    topics.push({
+                        name: displayName,
+                        file: filename
+                    });
+                }
+            }
+            
+            console.log('Đã tìm thấy các file JSON:', topics.map(t => t.file));
+            return topics;
+        }
 
         // --- JSON Data Loading ---
         async function loadFlashcards(topicIndex = 0) {
             try {
+                // Đảm bảo topics đã được scan trước khi load
+                if (topics.length === 0) {
+                    await scanAndCreateTopics();
+                }
+                
+                if (topics.length === 0) {
+                    throw new Error('Không tìm thấy file JSON nào');
+                }
+                
                 const topic = topics[topicIndex];
                 const response = await fetch(topic.file);
                 if (!response.ok) {
@@ -145,7 +200,7 @@
                 updateTopicIndicator();
                 
                 // Initialize the application after data is loaded
-                initializeApp();
+                initializeCardDisplay();
             } catch (error) {
                 console.error('Error loading flashcards:', error);
                 // Show error message to user
@@ -175,12 +230,12 @@
             topicIndicator.textContent = `📚 ${currentTopic.name}`;
         }
         
-        function switchTopic(selectedIndex) {
+        async function switchTopic(selectedIndex) {
             currentIndex = 0; // Reset to first card
-            loadFlashcards(selectedIndex);
+            await loadFlashcards(selectedIndex);
         }
 
-        function initializeApp() {
+        function initializeCardDisplay() {
             // Update slider max value
             document.getElementById('card-slider').max = totalCards;
             
@@ -395,9 +450,9 @@
         // --- Event Listeners ---
         nextBtn.addEventListener('click', () => navigate('next'));
         prevBtn.addEventListener('click', () => navigate('prev'));
-        topicSelect.addEventListener('change', (event) => {
+        topicSelect.addEventListener('change', async (event) => {
             const selectedIndex = parseInt(event.target.value);
-            switchTopic(selectedIndex);
+            await switchTopic(selectedIndex);
         });
 
         cardSlider.addEventListener('input', (event) => {
@@ -408,7 +463,21 @@
         });
 
         // Load flashcards data from JSON and initialize the app
-        loadFlashcards();
+        // Tự động scan và load file JSON đầu tiên
+        (async function initializeApp() {
+            try {
+                await scanAndCreateTopics();
+                if (topics.length > 0) {
+                    await loadFlashcards(0);
+                } else {
+                    console.error('Không tìm thấy file JSON nào');
+                    document.getElementById('flashcard').innerHTML = 
+                        '<div class="text-center text-red-600 p-8"><h2 class="text-xl font-bold mb-4">Không tìm thấy dữ liệu</h2><p>Không tìm thấy file JSON nào trong thư mục. Vui lòng kiểm tra lại.</p></div>';
+                }
+            } catch (error) {
+                console.error('Lỗi khởi tạo ứng dụng:', error);
+            }
+        })();
     </script>
 </body>
 </html>
