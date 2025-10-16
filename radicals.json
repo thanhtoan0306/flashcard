@@ -2300,5 +2300,541 @@
           }
         ]
       }
+    },
+    {
+      "hanzi": "爿",
+      "pinyin": "pán",
+      "hanviet": "Tường",
+      "vietnamese": "Tấm ván",
+      "char1": {
+        "hanzi": "爿",
+        "pinyin": "pán",
+        "hanviet": "Tường",
+        "words": [
+          {
+            "hanzi": "爿",
+            "pinyin": "pán",
+            "hanviet": "Tường",
+            "vietnamese": "Tấm ván"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "片",
+      "pinyin": "piàn",
+      "hanviet": "Phiến",
+      "vietnamese": "Mảnh",
+      "char1": {
+        "hanzi": "片",
+        "pinyin": "piàn",
+        "hanviet": "Phiến",
+        "words": [
+          {
+            "hanzi": "片",
+            "pinyin": "piàn",
+            "hanviet": "Phiến",
+            "vietnamese": "Mảnh"
+          },
+          {
+            "hanzi": "照片",
+            "pinyin": "zhào piàn",
+            "hanviet": "Chiếu phiến",
+            "vietnamese": "Ảnh"
+          },
+          {
+            "hanzi": "影片",
+            "pinyin": "yǐng piàn",
+            "hanviet": "Ảnh phiến",
+            "vietnamese": "Phim"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "牙",
+      "pinyin": "yá",
+      "hanviet": "Nha",
+      "vietnamese": "Răng",
+      "char1": {
+        "hanzi": "牙",
+        "pinyin": "yá",
+        "hanviet": "Nha",
+        "words": [
+          {
+            "hanzi": "牙",
+            "pinyin": "yá",
+            "hanviet": "Nha",
+            "vietnamese": "Răng"
+          },
+          {
+            "hanzi": "牙齿",
+            "pinyin": "yá chǐ",
+            "hanviet": "Nha xỉ",
+            "vietnamese": "Răng"
+          },
+          {
+            "hanzi": "牙医",
+            "pinyin": "yá yī",
+            "hanviet": "Nha y",
+            "vietnamese": "Nha sĩ"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "牛",
+      "pinyin": "niú",
+      "hanviet": "Ngưu",
+      "vietnamese": "Bò",
+      "char1": {
+        "hanzi": "牛",
+        "pinyin": "niú",
+        "hanviet": "Ngưu",
+        "words": [
+          {
+            "hanzi": "牛",
+            "pinyin": "niú",
+            "hanviet": "Ngưu",
+            "vietnamese": "Bò"
+          },
+          {
+            "hanzi": "牛奶",
+            "pinyin": "niú nǎi",
+            "hanviet": "Ngưu nãi",
+            "vietnamese": "Sữa bò"
+          },
+          {
+            "hanzi": "牛肉",
+            "pinyin": "niú ròu",
+            "hanviet": "Ngưu nhục",
+            "vietnamese": "Thịt bò"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "犬",
+      "pinyin": "quǎn",
+      "hanviet": "Khuyển",
+      "vietnamese": "Chó",
+      "char1": {
+        "hanzi": "犬",
+        "pinyin": "quǎn",
+        "hanviet": "Khuyển",
+        "words": [
+          {
+            "hanzi": "犬",
+            "pinyin": "quǎn",
+            "hanviet": "Khuyển",
+            "vietnamese": "Chó"
+          },
+          {
+            "hanzi": "警犬",
+            "pinyin": "jǐng quǎn",
+            "hanviet": "Cảnh khuyển",
+            "vietnamese": "Chó nghiệp vụ"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "玄",
+      "pinyin": "xuán",
+      "hanviet": "Huyền",
+      "vietnamese": "Huyền bí",
+      "char1": {
+        "hanzi": "玄",
+        "pinyin": "xuán",
+        "hanviet": "Huyền",
+        "words": [
+          {
+            "hanzi": "玄",
+            "pinyin": "xuán",
+            "hanviet": "Huyền",
+            "vietnamese": "Huyền bí"
+          },
+          {
+            "hanzi": "玄学",
+            "pinyin": "xuán xué",
+            "hanviet": "Huyền học",
+            "vietnamese": "Huyền học"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "玉",
+      "pinyin": "yù",
+      "hanviet": "Ngọc",
+      "vietnamese": "Ngọc",
+      "char1": {
+        "hanzi": "玉",
+        "pinyin": "yù",
+        "hanviet": "Ngọc",
+        "words": [
+          {
+            "hanzi": "玉",
+            "pinyin": "yù",
+            "hanviet": "Ngọc",
+            "vietnamese": "Ngọc"
+          },
+          {
+            "hanzi": "玉石",
+            "pinyin": "yù shí",
+            "hanviet": "Ngọc thạch",
+            "vietnamese": "Đá ngọc"
+          },
+          {
+            "hanzi": "玉米",
+            "pinyin": "yù mǐ",
+            "hanviet": "Ngọc mễ",
+            "vietnamese": "Ngô"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "瓜",
+      "pinyin": "guā",
+      "hanviet": "Qua",
+      "vietnamese": "Dưa",
+      "char1": {
+        "hanzi": "瓜",
+        "pinyin": "guā",
+        "hanviet": "Qua",
+        "words": [
+          {
+            "hanzi": "瓜",
+            "pinyin": "guā",
+            "hanviet": "Qua",
+            "vietnamese": "Dưa"
+          },
+          {
+            "hanzi": "西瓜",
+            "pinyin": "xī guā",
+            "hanviet": "Tây qua",
+            "vietnamese": "Dưa hấu"
+          },
+          {
+            "hanzi": "黄瓜",
+            "pinyin": "huáng guā",
+            "hanviet": "Hoàng qua",
+            "vietnamese": "Dưa chuột"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "瓦",
+      "pinyin": "wǎ",
+      "hanviet": "Ngõa",
+      "vietnamese": "Ngói",
+      "char1": {
+        "hanzi": "瓦",
+        "pinyin": "wǎ",
+        "hanviet": "Ngõa",
+        "words": [
+          {
+            "hanzi": "瓦",
+            "pinyin": "wǎ",
+            "hanviet": "Ngõa",
+            "vietnamese": "Ngói"
+          },
+          {
+            "hanzi": "瓦片",
+            "pinyin": "wǎ piàn",
+            "hanviet": "Ngõa phiến",
+            "vietnamese": "Miếng ngói"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "甘",
+      "pinyin": "gān",
+      "hanviet": "Cam",
+      "vietnamese": "Ngọt",
+      "char1": {
+        "hanzi": "甘",
+        "pinyin": "gān",
+        "hanviet": "Cam",
+        "words": [
+          {
+            "hanzi": "甘",
+            "pinyin": "gān",
+            "hanviet": "Cam",
+            "vietnamese": "Ngọt"
+          },
+          {
+            "hanzi": "甘甜",
+            "pinyin": "gān tián",
+            "hanviet": "Cam điềm",
+            "vietnamese": "Ngọt ngào"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "生",
+      "pinyin": "shēng",
+      "hanviet": "Sinh",
+      "vietnamese": "Sống",
+      "char1": {
+        "hanzi": "生",
+        "pinyin": "shēng",
+        "hanviet": "Sinh",
+        "words": [
+          {
+            "hanzi": "生",
+            "pinyin": "shēng",
+            "hanviet": "Sinh",
+            "vietnamese": "Sống"
+          },
+          {
+            "hanzi": "生活",
+            "pinyin": "shēng huó",
+            "hanviet": "Sinh hoạt",
+            "vietnamese": "Cuộc sống"
+          },
+          {
+            "hanzi": "学生",
+            "pinyin": "xué shēng",
+            "hanviet": "Học sinh",
+            "vietnamese": "Học sinh"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "用",
+      "pinyin": "yòng",
+      "hanviet": "Dụng",
+      "vietnamese": "Dùng",
+      "char1": {
+        "hanzi": "用",
+        "pinyin": "yòng",
+        "hanviet": "Dụng",
+        "words": [
+          {
+            "hanzi": "用",
+            "pinyin": "yòng",
+            "hanviet": "Dụng",
+            "vietnamese": "Dùng"
+          },
+          {
+            "hanzi": "使用",
+            "pinyin": "shǐ yòng",
+            "hanviet": "Sử dụng",
+            "vietnamese": "Sử dụng"
+          },
+          {
+            "hanzi": "有用",
+            "pinyin": "yǒu yòng",
+            "hanviet": "Hữu dụng",
+            "vietnamese": "Hữu ích"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "田",
+      "pinyin": "tián",
+      "hanviet": "Điền",
+      "vietnamese": "Ruộng",
+      "char1": {
+        "hanzi": "田",
+        "pinyin": "tián",
+        "hanviet": "Điền",
+        "words": [
+          {
+            "hanzi": "田",
+            "pinyin": "tián",
+            "hanviet": "Điền",
+            "vietnamese": "Ruộng"
+          },
+          {
+            "hanzi": "田地",
+            "pinyin": "tián dì",
+            "hanviet": "Điền địa",
+            "vietnamese": "Đất ruộng"
+          },
+          {
+            "hanzi": "农田",
+            "pinyin": "nóng tián",
+            "hanviet": "Nông điền",
+            "vietnamese": "Ruộng nông"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "疋",
+      "pinyin": "pǐ",
+      "hanviet": "Thất",
+      "vietnamese": "Đơn vị",
+      "char1": {
+        "hanzi": "疋",
+        "pinyin": "pǐ",
+        "hanviet": "Thất",
+        "words": [
+          {
+            "hanzi": "疋",
+            "pinyin": "pǐ",
+            "hanviet": "Thất",
+            "vietnamese": "Đơn vị"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "疒",
+      "pinyin": "nè",
+      "hanviet": "Nạch",
+      "vietnamese": "Bệnh",
+      "char1": {
+        "hanzi": "疒",
+        "pinyin": "nè",
+        "hanviet": "Nạch",
+        "words": [
+          {
+            "hanzi": "疒",
+            "pinyin": "nè",
+            "hanviet": "Nạch",
+            "vietnamese": "Bệnh"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "癶",
+      "pinyin": "bō",
+      "hanviet": "Bát",
+      "vietnamese": "Chân",
+      "char1": {
+        "hanzi": "癶",
+        "pinyin": "bō",
+        "hanviet": "Bát",
+        "words": [
+          {
+            "hanzi": "癶",
+            "pinyin": "bō",
+            "hanviet": "Bát",
+            "vietnamese": "Chân"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "白",
+      "pinyin": "bái",
+      "hanviet": "Bạch",
+      "vietnamese": "Trắng",
+      "char1": {
+        "hanzi": "白",
+        "pinyin": "bái",
+        "hanviet": "Bạch",
+        "words": [
+          {
+            "hanzi": "白",
+            "pinyin": "bái",
+            "hanviet": "Bạch",
+            "vietnamese": "Trắng"
+          },
+          {
+            "hanzi": "白色",
+            "pinyin": "bái sè",
+            "hanviet": "Bạch sắc",
+            "vietnamese": "Màu trắng"
+          },
+          {
+            "hanzi": "白天",
+            "pinyin": "bái tiān",
+            "hanviet": "Bạch thiên",
+            "vietnamese": "Ban ngày"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "皮",
+      "pinyin": "pí",
+      "hanviet": "Bì",
+      "vietnamese": "Da",
+      "char1": {
+        "hanzi": "皮",
+        "pinyin": "pí",
+        "hanviet": "Bì",
+        "words": [
+          {
+            "hanzi": "皮",
+            "pinyin": "pí",
+            "hanviet": "Bì",
+            "vietnamese": "Da"
+          },
+          {
+            "hanzi": "皮肤",
+            "pinyin": "pí fū",
+            "hanviet": "Bì phu",
+            "vietnamese": "Da"
+          },
+          {
+            "hanzi": "皮鞋",
+            "pinyin": "pí xié",
+            "hanviet": "Bì hài",
+            "vietnamese": "Giày da"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "皿",
+      "pinyin": "mǐn",
+      "hanviet": "Mẫn",
+      "vietnamese": "Bát",
+      "char1": {
+        "hanzi": "皿",
+        "pinyin": "mǐn",
+        "hanviet": "Mẫn",
+        "words": [
+          {
+            "hanzi": "皿",
+            "pinyin": "mǐn",
+            "hanviet": "Mẫn",
+            "vietnamese": "Bát"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "目",
+      "pinyin": "mù",
+      "hanviet": "Mục",
+      "vietnamese": "Mắt",
+      "char1": {
+        "hanzi": "目",
+        "pinyin": "mù",
+        "hanviet": "Mục",
+        "words": [
+          {
+            "hanzi": "目",
+            "pinyin": "mù",
+            "hanviet": "Mục",
+            "vietnamese": "Mắt"
+          },
+          {
+            "hanzi": "目标",
+            "pinyin": "mù biāo",
+            "hanviet": "Mục tiêu",
+            "vietnamese": "Mục tiêu"
+          },
+          {
+            "hanzi": "目的",
+            "pinyin": "mù dì",
+            "hanviet": "Mục đích",
+            "vietnamese": "Mục đích"
+          }
+        ]
+      }
     }
   ]
