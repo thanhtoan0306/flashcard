@@ -1453,5 +1453,852 @@
           }
         ]
       }
+    },
+    {
+      "hanzi": "彐",
+      "pinyin": "jì",
+      "hanviet": "Ký",
+      "vietnamese": "Đầu lợn",
+      "char1": {
+        "hanzi": "彐",
+        "pinyin": "jì",
+        "hanviet": "Ký",
+        "words": [
+          {
+            "hanzi": "彐",
+            "pinyin": "jì",
+            "hanviet": "Ký",
+            "vietnamese": "Đầu lợn"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "彡",
+      "pinyin": "shān",
+      "hanviet": "Sam",
+      "vietnamese": "Lông",
+      "char1": {
+        "hanzi": "彡",
+        "pinyin": "shān",
+        "hanviet": "Sam",
+        "words": [
+          {
+            "hanzi": "彡",
+            "pinyin": "shān",
+            "hanviet": "Sam",
+            "vietnamese": "Lông"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "彳",
+      "pinyin": "chì",
+      "hanviet": "Xích",
+      "vietnamese": "Đi bộ",
+      "char1": {
+        "hanzi": "彳",
+        "pinyin": "chì",
+        "hanviet": "Xích",
+        "words": [
+          {
+            "hanzi": "彳",
+            "pinyin": "chì",
+            "hanviet": "Xích",
+            "vietnamese": "Đi bộ"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "心",
+      "pinyin": "xīn",
+      "hanviet": "Tâm",
+      "vietnamese": "Tim",
+      "char1": {
+        "hanzi": "心",
+        "pinyin": "xīn",
+        "hanviet": "Tâm",
+        "words": [
+          {
+            "hanzi": "心",
+            "pinyin": "xīn",
+            "hanviet": "Tâm",
+            "vietnamese": "Tim"
+          },
+          {
+            "hanzi": "心情",
+            "pinyin": "xīn qíng",
+            "hanviet": "Tâm tình",
+            "vietnamese": "Tâm trạng"
+          },
+          {
+            "hanzi": "心里",
+            "pinyin": "xīn lǐ",
+            "hanviet": "Tâm lý",
+            "vietnamese": "Trong lòng"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "戈",
+      "pinyin": "gē",
+      "hanviet": "Qua",
+      "vietnamese": "Mác",
+      "char1": {
+        "hanzi": "戈",
+        "pinyin": "gē",
+        "hanviet": "Qua",
+        "words": [
+          {
+            "hanzi": "戈",
+            "pinyin": "gē",
+            "hanviet": "Qua",
+            "vietnamese": "Mác"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "户",
+      "pinyin": "hù",
+      "hanviet": "Hộ",
+      "vietnamese": "Cửa",
+      "char1": {
+        "hanzi": "户",
+        "pinyin": "hù",
+        "hanviet": "Hộ",
+        "words": [
+          {
+            "hanzi": "户",
+            "pinyin": "hù",
+            "hanviet": "Hộ",
+            "vietnamese": "Cửa"
+          },
+          {
+            "hanzi": "户口",
+            "pinyin": "hù kǒu",
+            "hanviet": "Hộ khẩu",
+            "vietnamese": "Hộ khẩu"
+          },
+          {
+            "hanzi": "用户",
+            "pinyin": "yòng hù",
+            "hanviet": "Dụng hộ",
+            "vietnamese": "Người dùng"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "手",
+      "pinyin": "shǒu",
+      "hanviet": "Thủ",
+      "vietnamese": "Tay",
+      "char1": {
+        "hanzi": "手",
+        "pinyin": "shǒu",
+        "hanviet": "Thủ",
+        "words": [
+          {
+            "hanzi": "手",
+            "pinyin": "shǒu",
+            "hanviet": "Thủ",
+            "vietnamese": "Tay"
+          },
+          {
+            "hanzi": "手机",
+            "pinyin": "shǒu jī",
+            "hanviet": "Thủ cơ",
+            "vietnamese": "Điện thoại"
+          },
+          {
+            "hanzi": "手表",
+            "pinyin": "shǒu biǎo",
+            "hanviet": "Thủ biểu",
+            "vietnamese": "Đồng hồ"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "支",
+      "pinyin": "zhī",
+      "hanviet": "Chi",
+      "vietnamese": "Nhánh",
+      "char1": {
+        "hanzi": "支",
+        "pinyin": "zhī",
+        "hanviet": "Chi",
+        "words": [
+          {
+            "hanzi": "支",
+            "pinyin": "zhī",
+            "hanviet": "Chi",
+            "vietnamese": "Nhánh"
+          },
+          {
+            "hanzi": "支持",
+            "pinyin": "zhī chí",
+            "hanviet": "Chi trì",
+            "vietnamese": "Ủng hộ"
+          },
+          {
+            "hanzi": "支付",
+            "pinyin": "zhī fù",
+            "hanviet": "Chi phó",
+            "vietnamese": "Thanh toán"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "攴",
+      "pinyin": "pū",
+      "hanviet": "Phác",
+      "vietnamese": "Đánh",
+      "char1": {
+        "hanzi": "攴",
+        "pinyin": "pū",
+        "hanviet": "Phác",
+        "words": [
+          {
+            "hanzi": "攴",
+            "pinyin": "pū",
+            "hanviet": "Phác",
+            "vietnamese": "Đánh"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "文",
+      "pinyin": "wén",
+      "hanviet": "Văn",
+      "vietnamese": "Văn",
+      "char1": {
+        "hanzi": "文",
+        "pinyin": "wén",
+        "hanviet": "Văn",
+        "words": [
+          {
+            "hanzi": "文",
+            "pinyin": "wén",
+            "hanviet": "Văn",
+            "vietnamese": "Văn"
+          },
+          {
+            "hanzi": "文化",
+            "pinyin": "wén huà",
+            "hanviet": "Văn hóa",
+            "vietnamese": "Văn hóa"
+          },
+          {
+            "hanzi": "文章",
+            "pinyin": "wén zhāng",
+            "hanviet": "Văn chương",
+            "vietnamese": "Bài viết"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "斗",
+      "pinyin": "dǒu",
+      "hanviet": "Đấu",
+      "vietnamese": "Đấu",
+      "char1": {
+        "hanzi": "斗",
+        "pinyin": "dǒu",
+        "hanviet": "Đấu",
+        "words": [
+          {
+            "hanzi": "斗",
+            "pinyin": "dǒu",
+            "hanviet": "Đấu",
+            "vietnamese": "Đấu"
+          },
+          {
+            "hanzi": "斗争",
+            "pinyin": "dòu zhēng",
+            "hanviet": "Đấu tranh",
+            "vietnamese": "Đấu tranh"
+          },
+          {
+            "hanzi": "北斗",
+            "pinyin": "běi dǒu",
+            "hanviet": "Bắc đấu",
+            "vietnamese": "Bắc Đẩu"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "斤",
+      "pinyin": "jīn",
+      "hanviet": "Cân",
+      "vietnamese": "Cân",
+      "char1": {
+        "hanzi": "斤",
+        "pinyin": "jīn",
+        "hanviet": "Cân",
+        "words": [
+          {
+            "hanzi": "斤",
+            "pinyin": "jīn",
+            "hanviet": "Cân",
+            "vietnamese": "Cân"
+          },
+          {
+            "hanzi": "公斤",
+            "pinyin": "gōng jīn",
+            "hanviet": "Công cân",
+            "vietnamese": "Kilogram"
+          },
+          {
+            "hanzi": "斤两",
+            "pinyin": "jīn liǎng",
+            "hanviet": "Cân lạng",
+            "vietnamese": "Cân lượng"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "方",
+      "pinyin": "fāng",
+      "hanviet": "Phương",
+      "vietnamese": "Phương",
+      "char1": {
+        "hanzi": "方",
+        "pinyin": "fāng",
+        "hanviet": "Phương",
+        "words": [
+          {
+            "hanzi": "方",
+            "pinyin": "fāng",
+            "hanviet": "Phương",
+            "vietnamese": "Phương"
+          },
+          {
+            "hanzi": "方向",
+            "pinyin": "fāng xiàng",
+            "hanviet": "Phương hướng",
+            "vietnamese": "Phương hướng"
+          },
+          {
+            "hanzi": "方法",
+            "pinyin": "fāng fǎ",
+            "hanviet": "Phương pháp",
+            "vietnamese": "Phương pháp"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "无",
+      "pinyin": "wú",
+      "hanviet": "Vô",
+      "vietnamese": "Không",
+      "char1": {
+        "hanzi": "无",
+        "pinyin": "wú",
+        "hanviet": "Vô",
+        "words": [
+          {
+            "hanzi": "无",
+            "pinyin": "wú",
+            "hanviet": "Vô",
+            "vietnamese": "Không"
+          },
+          {
+            "hanzi": "无法",
+            "pinyin": "wú fǎ",
+            "hanviet": "Vô pháp",
+            "vietnamese": "Không thể"
+          },
+          {
+            "hanzi": "无论",
+            "pinyin": "wú lùn",
+            "hanviet": "Vô luận",
+            "vietnamese": "Bất kể"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "日",
+      "pinyin": "rì",
+      "hanviet": "Nhật",
+      "vietnamese": "Mặt trời",
+      "char1": {
+        "hanzi": "日",
+        "pinyin": "rì",
+        "hanviet": "Nhật",
+        "words": [
+          {
+            "hanzi": "日",
+            "pinyin": "rì",
+            "hanviet": "Nhật",
+            "vietnamese": "Mặt trời"
+          },
+          {
+            "hanzi": "日本",
+            "pinyin": "rì běn",
+            "hanviet": "Nhật bản",
+            "vietnamese": "Nhật Bản"
+          },
+          {
+            "hanzi": "日期",
+            "pinyin": "rì qī",
+            "hanviet": "Nhật kỳ",
+            "vietnamese": "Ngày tháng"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "曰",
+      "pinyin": "yuē",
+      "hanviet": "Viết",
+      "vietnamese": "Nói",
+      "char1": {
+        "hanzi": "曰",
+        "pinyin": "yuē",
+        "hanviet": "Viết",
+        "words": [
+          {
+            "hanzi": "曰",
+            "pinyin": "yuē",
+            "hanviet": "Viết",
+            "vietnamese": "Nói"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "月",
+      "pinyin": "yuè",
+      "hanviet": "Nguyệt",
+      "vietnamese": "Mặt trăng",
+      "char1": {
+        "hanzi": "月",
+        "pinyin": "yuè",
+        "hanviet": "Nguyệt",
+        "words": [
+          {
+            "hanzi": "月",
+            "pinyin": "yuè",
+            "hanviet": "Nguyệt",
+            "vietnamese": "Mặt trăng"
+          },
+          {
+            "hanzi": "月亮",
+            "pinyin": "yuè liàng",
+            "hanviet": "Nguyệt lượng",
+            "vietnamese": "Mặt trăng"
+          },
+          {
+            "hanzi": "月份",
+            "pinyin": "yuè fèn",
+            "hanviet": "Nguyệt phần",
+            "vietnamese": "Tháng"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "木",
+      "pinyin": "mù",
+      "hanviet": "Mộc",
+      "vietnamese": "Cây",
+      "char1": {
+        "hanzi": "木",
+        "pinyin": "mù",
+        "hanviet": "Mộc",
+        "words": [
+          {
+            "hanzi": "木",
+            "pinyin": "mù",
+            "hanviet": "Mộc",
+            "vietnamese": "Cây"
+          },
+          {
+            "hanzi": "木头",
+            "pinyin": "mù tou",
+            "hanviet": "Mộc đầu",
+            "vietnamese": "Gỗ"
+          },
+          {
+            "hanzi": "树木",
+            "pinyin": "shù mù",
+            "hanviet": "Thụ mộc",
+            "vietnamese": "Cây cối"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "欠",
+      "pinyin": "qiàn",
+      "hanviet": "Khiếm",
+      "vietnamese": "Thiếu",
+      "char1": {
+        "hanzi": "欠",
+        "pinyin": "qiàn",
+        "hanviet": "Khiếm",
+        "words": [
+          {
+            "hanzi": "欠",
+            "pinyin": "qiàn",
+            "hanviet": "Khiếm",
+            "vietnamese": "Thiếu"
+          },
+          {
+            "hanzi": "欠款",
+            "pinyin": "qiàn kuǎn",
+            "hanviet": "Khiếm khoản",
+            "vietnamese": "Nợ tiền"
+          },
+          {
+            "hanzi": "欠缺",
+            "pinyin": "qiàn quē",
+            "hanviet": "Khiếm khuyết",
+            "vietnamese": "Thiếu sót"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "止",
+      "pinyin": "zhǐ",
+      "hanviet": "Chỉ",
+      "vietnamese": "Dừng",
+      "char1": {
+        "hanzi": "止",
+        "pinyin": "zhǐ",
+        "hanviet": "Chỉ",
+        "words": [
+          {
+            "hanzi": "止",
+            "pinyin": "zhǐ",
+            "hanviet": "Chỉ",
+            "vietnamese": "Dừng"
+          },
+          {
+            "hanzi": "停止",
+            "pinyin": "tíng zhǐ",
+            "hanviet": "Đình chỉ",
+            "vietnamese": "Dừng lại"
+          },
+          {
+            "hanzi": "禁止",
+            "pinyin": "jìn zhǐ",
+            "hanviet": "Cấm chỉ",
+            "vietnamese": "Cấm"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "歹",
+      "pinyin": "dǎi",
+      "hanviet": "Đãi",
+      "vietnamese": "Xấu",
+      "char1": {
+        "hanzi": "歹",
+        "pinyin": "dǎi",
+        "hanviet": "Đãi",
+        "words": [
+          {
+            "hanzi": "歹",
+            "pinyin": "dǎi",
+            "hanviet": "Đãi",
+            "vietnamese": "Xấu"
+          },
+          {
+            "hanzi": "歹徒",
+            "pinyin": "dǎi tú",
+            "hanviet": "Đãi đồ",
+            "vietnamese": "Kẻ xấu"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "殳",
+      "pinyin": "shū",
+      "hanviet": "Thù",
+      "vietnamese": "Cán giáo",
+      "char1": {
+        "hanzi": "殳",
+        "pinyin": "shū",
+        "hanviet": "Thù",
+        "words": [
+          {
+            "hanzi": "殳",
+            "pinyin": "shū",
+            "hanviet": "Thù",
+            "vietnamese": "Cán giáo"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "毋",
+      "pinyin": "wú",
+      "hanviet": "Vô",
+      "vietnamese": "Không",
+      "char1": {
+        "hanzi": "毋",
+        "pinyin": "wú",
+        "hanviet": "Vô",
+        "words": [
+          {
+            "hanzi": "毋",
+            "pinyin": "wú",
+            "hanviet": "Vô",
+            "vietnamese": "Không"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "比",
+      "pinyin": "bǐ",
+      "hanviet": "Tỷ",
+      "vietnamese": "So sánh",
+      "char1": {
+        "hanzi": "比",
+        "pinyin": "bǐ",
+        "hanviet": "Tỷ",
+        "words": [
+          {
+            "hanzi": "比",
+            "pinyin": "bǐ",
+            "hanviet": "Tỷ",
+            "vietnamese": "So sánh"
+          },
+          {
+            "hanzi": "比较",
+            "pinyin": "bǐ jiào",
+            "hanviet": "Tỷ giáo",
+            "vietnamese": "So sánh"
+          },
+          {
+            "hanzi": "比赛",
+            "pinyin": "bǐ sài",
+            "hanviet": "Tỷ tài",
+            "vietnamese": "Thi đấu"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "毛",
+      "pinyin": "máo",
+      "hanviet": "Mao",
+      "vietnamese": "Lông",
+      "char1": {
+        "hanzi": "毛",
+        "pinyin": "máo",
+        "hanviet": "Mao",
+        "words": [
+          {
+            "hanzi": "毛",
+            "pinyin": "máo",
+            "hanviet": "Mao",
+            "vietnamese": "Lông"
+          },
+          {
+            "hanzi": "毛巾",
+            "pinyin": "máo jīn",
+            "hanviet": "Mao cân",
+            "vietnamese": "Khăn tắm"
+          },
+          {
+            "hanzi": "毛衣",
+            "pinyin": "máo yī",
+            "hanviet": "Mao y",
+            "vietnamese": "Áo len"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "氏",
+      "pinyin": "shì",
+      "hanviet": "Thị",
+      "vietnamese": "Họ",
+      "char1": {
+        "hanzi": "氏",
+        "pinyin": "shì",
+        "hanviet": "Thị",
+        "words": [
+          {
+            "hanzi": "氏",
+            "pinyin": "shì",
+            "hanviet": "Thị",
+            "vietnamese": "Họ"
+          },
+          {
+            "hanzi": "姓氏",
+            "pinyin": "xìng shì",
+            "hanviet": "Tính thị",
+            "vietnamese": "Họ tên"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "气",
+      "pinyin": "qì",
+      "hanviet": "Khí",
+      "vietnamese": "Khí",
+      "char1": {
+        "hanzi": "气",
+        "pinyin": "qì",
+        "hanviet": "Khí",
+        "words": [
+          {
+            "hanzi": "气",
+            "pinyin": "qì",
+            "hanviet": "Khí",
+            "vietnamese": "Khí"
+          },
+          {
+            "hanzi": "天气",
+            "pinyin": "tiān qì",
+            "hanviet": "Thiên khí",
+            "vietnamese": "Thời tiết"
+          },
+          {
+            "hanzi": "空气",
+            "pinyin": "kōng qì",
+            "hanviet": "Không khí",
+            "vietnamese": "Không khí"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "水",
+      "pinyin": "shuǐ",
+      "hanviet": "Thủy",
+      "vietnamese": "Nước",
+      "char1": {
+        "hanzi": "水",
+        "pinyin": "shuǐ",
+        "hanviet": "Thủy",
+        "words": [
+          {
+            "hanzi": "水",
+            "pinyin": "shuǐ",
+            "hanviet": "Thủy",
+            "vietnamese": "Nước"
+          },
+          {
+            "hanzi": "水果",
+            "pinyin": "shuǐ guǒ",
+            "hanviet": "Thủy quả",
+            "vietnamese": "Trái cây"
+          },
+          {
+            "hanzi": "水平",
+            "pinyin": "shuǐ píng",
+            "hanviet": "Thủy bình",
+            "vietnamese": "Trình độ"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "火",
+      "pinyin": "huǒ",
+      "hanviet": "Hỏa",
+      "vietnamese": "Lửa",
+      "char1": {
+        "hanzi": "火",
+        "pinyin": "huǒ",
+        "hanviet": "Hỏa",
+        "words": [
+          {
+            "hanzi": "火",
+            "pinyin": "huǒ",
+            "hanviet": "Hỏa",
+            "vietnamese": "Lửa"
+          },
+          {
+            "hanzi": "火车",
+            "pinyin": "huǒ chē",
+            "hanviet": "Hỏa xa",
+            "vietnamese": "Tàu hỏa"
+          },
+          {
+            "hanzi": "火灾",
+            "pinyin": "huǒ zāi",
+            "hanviet": "Hỏa tai",
+            "vietnamese": "Hỏa hoạn"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "爪",
+      "pinyin": "zhǎo",
+      "hanviet": "Trảo",
+      "vietnamese": "Móng vuốt",
+      "char1": {
+        "hanzi": "爪",
+        "pinyin": "zhǎo",
+        "hanviet": "Trảo",
+        "words": [
+          {
+            "hanzi": "爪",
+            "pinyin": "zhǎo",
+            "hanviet": "Trảo",
+            "vietnamese": "Móng vuốt"
+          },
+          {
+            "hanzi": "爪子",
+            "pinyin": "zhuǎ zi",
+            "hanviet": "Trảo tử",
+            "vietnamese": "Móng vuốt"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "父",
+      "pinyin": "fù",
+      "hanviet": "Phụ",
+      "vietnamese": "Cha",
+      "char1": {
+        "hanzi": "父",
+        "pinyin": "fù",
+        "hanviet": "Phụ",
+        "words": [
+          {
+            "hanzi": "父",
+            "pinyin": "fù",
+            "hanviet": "Phụ",
+            "vietnamese": "Cha"
+          },
+          {
+            "hanzi": "父亲",
+            "pinyin": "fù qīn",
+            "hanviet": "Phụ thân",
+            "vietnamese": "Cha"
+          },
+          {
+            "hanzi": "父母",
+            "pinyin": "fù mǔ",
+            "hanviet": "Phụ mẫu",
+            "vietnamese": "Cha mẹ"
+          }
+        ]
+      }
     }
   ]
