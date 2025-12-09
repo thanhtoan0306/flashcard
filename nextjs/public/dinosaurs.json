@@ -1,0 +1,1198 @@
+[
+    {
+      "hanzi": "恐龙",
+      "pinyin": "kǒng lóng",
+      "hanviet": "Khủng long",
+      "vietnamese": "Khủng long",
+      "char1": {
+        "hanzi": "恐",
+        "pinyin": "kǒng",
+        "hanviet": "Khủng",
+        "words": [
+          {
+            "hanzi": "恐龙",
+            "pinyin": "kǒng lóng",
+            "hanviet": "Khủng long",
+            "vietnamese": "Khủng long"
+          },
+          {
+            "hanzi": "恐怖",
+            "pinyin": "kǒng bù",
+            "hanviet": "Khủng bố",
+            "vietnamese": "Kinh hoàng"
+          },
+          {
+            "hanzi": "恐惧",
+            "pinyin": "kǒng jù",
+            "hanviet": "Khủng cụ",
+            "vietnamese": "Sợ hãi"
+          },
+          {
+            "hanzi": "恐怕",
+            "pinyin": "kǒng pà",
+            "hanviet": "Khủng phạ",
+            "vietnamese": "E rằng"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "龙",
+        "pinyin": "lóng",
+        "hanviet": "Long",
+        "words": [
+          {
+            "hanzi": "恐龙",
+            "pinyin": "kǒng lóng",
+            "hanviet": "Khủng long",
+            "vietnamese": "Khủng long"
+          },
+          {
+            "hanzi": "龙",
+            "pinyin": "lóng",
+            "hanviet": "Long",
+            "vietnamese": "Rồng"
+          },
+          {
+            "hanzi": "龙王",
+            "pinyin": "lóng wáng",
+            "hanviet": "Long vương",
+            "vietnamese": "Long vương"
+          },
+          {
+            "hanzi": "龙舟",
+            "pinyin": "lóng zhōu",
+            "hanviet": "Long chu",
+            "vietnamese": "Thuyền rồng"
+          },
+          {
+            "hanzi": "龙卷风",
+            "pinyin": "lóng juǎn fēng",
+            "hanviet": "Long quyển phong",
+            "vietnamese": "Lốc xoáy"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "霸王龙",
+      "pinyin": "bà wáng lóng",
+      "hanviet": "Bá vương long",
+      "vietnamese": "Khủng long bạo chúa",
+      "char1": {
+        "hanzi": "霸",
+        "pinyin": "bà",
+        "hanviet": "Bá",
+        "words": [
+          {
+            "hanzi": "霸王龙",
+            "pinyin": "bà wáng lóng",
+            "hanviet": "Bá vương long",
+            "vietnamese": "Khủng long bạo chúa"
+          },
+          {
+            "hanzi": "霸道",
+            "pinyin": "bà dào",
+            "hanviet": "Bá đạo",
+            "vietnamese": "Bá đạo"
+          },
+          {
+            "hanzi": "霸权",
+            "pinyin": "bà quán",
+            "hanviet": "Bá quyền",
+            "vietnamese": "Bá quyền"
+          },
+          {
+            "hanzi": "霸主",
+            "pinyin": "bà zhǔ",
+            "hanviet": "Bá chủ",
+            "vietnamese": "Bá chủ"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "王",
+        "pinyin": "wáng",
+        "hanviet": "Vương",
+        "words": [
+          {
+            "hanzi": "霸王龙",
+            "pinyin": "bà wáng lóng",
+            "hanviet": "Bá vương long",
+            "vietnamese": "Khủng long bạo chúa"
+          },
+          {
+            "hanzi": "国王",
+            "pinyin": "guó wáng",
+            "hanviet": "Quốc vương",
+            "vietnamese": "Vua"
+          },
+          {
+            "hanzi": "王子",
+            "pinyin": "wáng zǐ",
+            "hanviet": "Vương tử",
+            "vietnamese": "Hoàng tử"
+          },
+          {
+            "hanzi": "王后",
+            "pinyin": "wáng hòu",
+            "hanviet": "Vương hậu",
+            "vietnamese": "Hoàng hậu"
+          }
+        ]
+      },
+      "char3": {
+        "hanzi": "龙",
+        "pinyin": "lóng",
+        "hanviet": "Long",
+        "words": [
+          {
+            "hanzi": "霸王龙",
+            "pinyin": "bà wáng lóng",
+            "hanviet": "Bá vương long",
+            "vietnamese": "Khủng long bạo chúa"
+          },
+          {
+            "hanzi": "龙",
+            "pinyin": "lóng",
+            "hanviet": "Long",
+            "vietnamese": "Rồng"
+          },
+          {
+            "hanzi": "龙王",
+            "pinyin": "lóng wáng",
+            "hanviet": "Long vương",
+            "vietnamese": "Long vương"
+          },
+          {
+            "hanzi": "龙舟",
+            "pinyin": "lóng zhōu",
+            "hanviet": "Long chu",
+            "vietnamese": "Thuyền rồng"
+          },
+          {
+            "hanzi": "龙卷风",
+            "pinyin": "lóng juǎn fēng",
+            "hanviet": "Long quyển phong",
+            "vietnamese": "Lốc xoáy"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "三角龙",
+      "pinyin": "sān jiǎo lóng",
+      "hanviet": "Tam giác long",
+      "vietnamese": "Khủng long ba sừng",
+      "char1": {
+        "hanzi": "三",
+        "pinyin": "sān",
+        "hanviet": "Tam",
+        "words": [
+          {
+            "hanzi": "三角龙",
+            "pinyin": "sān jiǎo lóng",
+            "hanviet": "Tam giác long",
+            "vietnamese": "Khủng long ba sừng"
+          },
+          {
+            "hanzi": "三",
+            "pinyin": "sān",
+            "hanviet": "Tam",
+            "vietnamese": "Ba"
+          },
+          {
+            "hanzi": "三角形",
+            "pinyin": "sān jiǎo xíng",
+            "hanviet": "Tam giác hình",
+            "vietnamese": "Hình tam giác"
+          },
+          {
+            "hanzi": "三月",
+            "pinyin": "sān yuè",
+            "hanviet": "Tam nguyệt",
+            "vietnamese": "Tháng ba"
+          },
+          {
+            "hanzi": "三年级",
+            "pinyin": "sān nián jí",
+            "hanviet": "Tam niên cấp",
+            "vietnamese": "Lớp ba"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "角",
+        "pinyin": "jiǎo",
+        "hanviet": "Giác",
+        "words": [
+          {
+            "hanzi": "三角龙",
+            "pinyin": "sān jiǎo lóng",
+            "hanviet": "Tam giác long",
+            "vietnamese": "Khủng long ba sừng"
+          },
+          {
+            "hanzi": "角度",
+            "pinyin": "jiǎo dù",
+            "hanviet": "Giác độ",
+            "vietnamese": "Góc độ"
+          },
+          {
+            "hanzi": "角落",
+            "pinyin": "jiǎo luò",
+            "hanviet": "Giác lạc",
+            "vietnamese": "Góc"
+          },
+          {
+            "hanzi": "角色",
+            "pinyin": "jué sè",
+            "hanviet": "Giác sắc",
+            "vietnamese": "Vai diễn"
+          },
+          {
+            "hanzi": "牛角",
+            "pinyin": "niú jiǎo",
+            "hanviet": "Ngưu giác",
+            "vietnamese": "Sừng bò"
+          }
+        ]
+      },
+      "char3": {
+        "hanzi": "龙",
+        "pinyin": "lóng",
+        "hanviet": "Long",
+        "words": [
+          {
+            "hanzi": "三角龙",
+            "pinyin": "sān jiǎo lóng",
+            "hanviet": "Tam giác long",
+            "vietnamese": "Khủng long ba sừng"
+          },
+          {
+            "hanzi": "龙",
+            "pinyin": "lóng",
+            "hanviet": "Long",
+            "vietnamese": "Rồng"
+          },
+          {
+            "hanzi": "龙王",
+            "pinyin": "lóng wáng",
+            "hanviet": "Long vương",
+            "vietnamese": "Long vương"
+          },
+          {
+            "hanzi": "龙舟",
+            "pinyin": "lóng zhōu",
+            "hanviet": "Long chu",
+            "vietnamese": "Thuyền rồng"
+          },
+          {
+            "hanzi": "龙卷风",
+            "pinyin": "lóng juǎn fēng",
+            "hanviet": "Long quyển phong",
+            "vietnamese": "Lốc xoáy"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "剑龙",
+      "pinyin": "jiàn lóng",
+      "hanviet": "Kiếm long",
+      "vietnamese": "Khủng long kiếm",
+      "char1": {
+        "hanzi": "剑",
+        "pinyin": "jiàn",
+        "hanviet": "Kiếm",
+        "words": [
+          {
+            "hanzi": "剑龙",
+            "pinyin": "jiàn lóng",
+            "hanviet": "Kiếm long",
+            "vietnamese": "Khủng long kiếm"
+          },
+          {
+            "hanzi": "剑",
+            "pinyin": "jiàn",
+            "hanviet": "Kiếm",
+            "vietnamese": "Kiếm"
+          },
+          {
+            "hanzi": "宝剑",
+            "pinyin": "bǎo jiàn",
+            "hanviet": "Bảo kiếm",
+            "vietnamese": "Bảo kiếm"
+          },
+          {
+            "hanzi": "剑客",
+            "pinyin": "jiàn kè",
+            "hanviet": "Kiếm khách",
+            "vietnamese": "Kiếm khách"
+          },
+          {
+            "hanzi": "击剑",
+            "pinyin": "jī jiàn",
+            "hanviet": "Kích kiếm",
+            "vietnamese": "Đấu kiếm"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "龙",
+        "pinyin": "lóng",
+        "hanviet": "Long",
+        "words": [
+          {
+            "hanzi": "剑龙",
+            "pinyin": "jiàn lóng",
+            "hanviet": "Kiếm long",
+            "vietnamese": "Khủng long kiếm"
+          },
+          {
+            "hanzi": "龙",
+            "pinyin": "lóng",
+            "hanviet": "Long",
+            "vietnamese": "Rồng"
+          },
+          {
+            "hanzi": "龙王",
+            "pinyin": "lóng wáng",
+            "hanviet": "Long vương",
+            "vietnamese": "Long vương"
+          },
+          {
+            "hanzi": "龙舟",
+            "pinyin": "lóng zhōu",
+            "hanviet": "Long chu",
+            "vietnamese": "Thuyền rồng"
+          },
+          {
+            "hanzi": "龙卷风",
+            "pinyin": "lóng juǎn fēng",
+            "hanviet": "Long quyển phong",
+            "vietnamese": "Lốc xoáy"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "翼龙",
+      "pinyin": "yì lóng",
+      "hanviet": "Dực long",
+      "vietnamese": "Thằn lằn bay",
+      "char1": {
+        "hanzi": "翼",
+        "pinyin": "yì",
+        "hanviet": "Dực",
+        "words": [
+          {
+            "hanzi": "翼龙",
+            "pinyin": "yì lóng",
+            "hanviet": "Dực long",
+            "vietnamese": "Thằn lằn bay"
+          },
+          {
+            "hanzi": "翅膀",
+            "pinyin": "chì bǎng",
+            "hanviet": "Dực bảng",
+            "vietnamese": "Cánh"
+          },
+          {
+            "hanzi": "翼翼",
+            "pinyin": "yì yì",
+            "hanviet": "Dực dực",
+            "vietnamese": "Cẩn thận"
+          },
+          {
+            "hanzi": "机翼",
+            "pinyin": "jī yì",
+            "hanviet": "Cơ dực",
+            "vietnamese": "Cánh máy bay"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "龙",
+        "pinyin": "lóng",
+        "hanviet": "Long",
+        "words": [
+          {
+            "hanzi": "翼龙",
+            "pinyin": "yì lóng",
+            "hanviet": "Dực long",
+            "vietnamese": "Thằn lằn bay"
+          },
+          {
+            "hanzi": "龙",
+            "pinyin": "lóng",
+            "hanviet": "Long",
+            "vietnamese": "Rồng"
+          },
+          {
+            "hanzi": "龙王",
+            "pinyin": "lóng wáng",
+            "hanviet": "Long vương",
+            "vietnamese": "Long vương"
+          },
+          {
+            "hanzi": "龙舟",
+            "pinyin": "lóng zhōu",
+            "hanviet": "Long chu",
+            "vietnamese": "Thuyền rồng"
+          },
+          {
+            "hanzi": "龙卷风",
+            "pinyin": "lóng juǎn fēng",
+            "hanviet": "Long quyển phong",
+            "vietnamese": "Lốc xoáy"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "雷龙",
+      "pinyin": "léi lóng",
+      "hanviet": "Lôi long",
+      "vietnamese": "Khủng long sấm sét",
+      "char1": {
+        "hanzi": "雷",
+        "pinyin": "léi",
+        "hanviet": "Lôi",
+        "words": [
+          {
+            "hanzi": "雷龙",
+            "pinyin": "léi lóng",
+            "hanviet": "Lôi long",
+            "vietnamese": "Khủng long sấm sét"
+          },
+          {
+            "hanzi": "雷",
+            "pinyin": "léi",
+            "hanviet": "Lôi",
+            "vietnamese": "Sấm sét"
+          },
+          {
+            "hanzi": "雷电",
+            "pinyin": "léi diàn",
+            "hanviet": "Lôi điện",
+            "vietnamese": "Sấm chớp"
+          },
+          {
+            "hanzi": "雷声",
+            "pinyin": "léi shēng",
+            "hanviet": "Lôi thanh",
+            "vietnamese": "Tiếng sấm"
+          },
+          {
+            "hanzi": "打雷",
+            "pinyin": "dǎ léi",
+            "hanviet": "Đả lôi",
+            "vietnamese": "Sấm sét"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "龙",
+        "pinyin": "lóng",
+        "hanviet": "Long",
+        "words": [
+          {
+            "hanzi": "雷龙",
+            "pinyin": "léi lóng",
+            "hanviet": "Lôi long",
+            "vietnamese": "Khủng long sấm sét"
+          },
+          {
+            "hanzi": "龙",
+            "pinyin": "lóng",
+            "hanviet": "Long",
+            "vietnamese": "Rồng"
+          },
+          {
+            "hanzi": "龙王",
+            "pinyin": "lóng wáng",
+            "hanviet": "Long vương",
+            "vietnamese": "Long vương"
+          },
+          {
+            "hanzi": "龙舟",
+            "pinyin": "lóng zhōu",
+            "hanviet": "Long chu",
+            "vietnamese": "Thuyền rồng"
+          },
+          {
+            "hanzi": "龙卷风",
+            "pinyin": "lóng juǎn fēng",
+            "hanviet": "Long quyển phong",
+            "vietnamese": "Lốc xoáy"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "梁龙",
+      "pinyin": "liáng lóng",
+      "hanviet": "Lương long",
+      "vietnamese": "Khủng long Diplodocus",
+      "char1": {
+        "hanzi": "梁",
+        "pinyin": "liáng",
+        "hanviet": "Lương",
+        "words": [
+          {
+            "hanzi": "梁龙",
+            "pinyin": "liáng lóng",
+            "hanviet": "Lương long",
+            "vietnamese": "Khủng long Diplodocus"
+          },
+          {
+            "hanzi": "房梁",
+            "pinyin": "fáng liáng",
+            "hanviet": "Phòng lương",
+            "vietnamese": "Xà nhà"
+          },
+          {
+            "hanzi": "桥梁",
+            "pinyin": "qiáo liáng",
+            "hanviet": "Kiều lương",
+            "vietnamese": "Cầu"
+          },
+          {
+            "hanzi": "栋梁",
+            "pinyin": "dòng liáng",
+            "hanviet": "Đống lương",
+            "vietnamese": "Cột trụ"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "龙",
+        "pinyin": "lóng",
+        "hanviet": "Long",
+        "words": [
+          {
+            "hanzi": "梁龙",
+            "pinyin": "liáng lóng",
+            "hanviet": "Lương long",
+            "vietnamese": "Khủng long Diplodocus"
+          },
+          {
+            "hanzi": "龙",
+            "pinyin": "lóng",
+            "hanviet": "Long",
+            "vietnamese": "Rồng"
+          },
+          {
+            "hanzi": "龙王",
+            "pinyin": "lóng wáng",
+            "hanviet": "Long vương",
+            "vietnamese": "Long vương"
+          },
+          {
+            "hanzi": "龙舟",
+            "pinyin": "lóng zhōu",
+            "hanviet": "Long chu",
+            "vietnamese": "Thuyền rồng"
+          },
+          {
+            "hanzi": "龙卷风",
+            "pinyin": "lóng juǎn fēng",
+            "hanviet": "Long quyển phong",
+            "vietnamese": "Lốc xoáy"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "甲龙",
+      "pinyin": "jiǎ lóng",
+      "hanviet": "Giáp long",
+      "vietnamese": "Khủng long giáp",
+      "char1": {
+        "hanzi": "甲",
+        "pinyin": "jiǎ",
+        "hanviet": "Giáp",
+        "words": [
+          {
+            "hanzi": "甲龙",
+            "pinyin": "jiǎ lóng",
+            "hanviet": "Giáp long",
+            "vietnamese": "Khủng long giáp"
+          },
+          {
+            "hanzi": "甲",
+            "pinyin": "jiǎ",
+            "hanviet": "Giáp",
+            "vietnamese": "Giáp"
+          },
+          {
+            "hanzi": "指甲",
+            "pinyin": "zhǐ jiǎ",
+            "hanviet": "Chỉ giáp",
+            "vietnamese": "Móng tay"
+          },
+          {
+            "hanzi": "盔甲",
+            "pinyin": "kuī jiǎ",
+            "hanviet": "Khôi giáp",
+            "vietnamese": "Áo giáp"
+          },
+          {
+            "hanzi": "甲板",
+            "pinyin": "jiǎ bǎn",
+            "hanviet": "Giáp bản",
+            "vietnamese": "Boong tàu"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "龙",
+        "pinyin": "lóng",
+        "hanviet": "Long",
+        "words": [
+          {
+            "hanzi": "甲龙",
+            "pinyin": "jiǎ lóng",
+            "hanviet": "Giáp long",
+            "vietnamese": "Khủng long giáp"
+          },
+          {
+            "hanzi": "龙",
+            "pinyin": "lóng",
+            "hanviet": "Long",
+            "vietnamese": "Rồng"
+          },
+          {
+            "hanzi": "龙王",
+            "pinyin": "lóng wáng",
+            "hanviet": "Long vương",
+            "vietnamese": "Long vương"
+          },
+          {
+            "hanzi": "龙舟",
+            "pinyin": "lóng zhōu",
+            "hanviet": "Long chu",
+            "vietnamese": "Thuyền rồng"
+          },
+          {
+            "hanzi": "龙卷风",
+            "pinyin": "lóng juǎn fēng",
+            "hanviet": "Long quyển phong",
+            "vietnamese": "Lốc xoáy"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "迅猛龙",
+      "pinyin": "xùn měng lóng",
+      "hanviet": "Tấn mãnh long",
+      "vietnamese": "Khủng long Velociraptor",
+      "char1": {
+        "hanzi": "迅",
+        "pinyin": "xùn",
+        "hanviet": "Tấn",
+        "words": [
+          {
+            "hanzi": "迅猛龙",
+            "pinyin": "xùn měng lóng",
+            "hanviet": "Tấn mãnh long",
+            "vietnamese": "Khủng long Velociraptor"
+          },
+          {
+            "hanzi": "迅速",
+            "pinyin": "xùn sù",
+            "hanviet": "Tấn tốc",
+            "vietnamese": "Nhanh chóng"
+          },
+          {
+            "hanzi": "迅猛",
+            "pinyin": "xùn měng",
+            "hanviet": "Tấn mãnh",
+            "vietnamese": "Nhanh mạnh"
+          },
+          {
+            "hanzi": "迅雷",
+            "pinyin": "xùn léi",
+            "hanviet": "Tấn lôi",
+            "vietnamese": "Sấm sét nhanh"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "猛",
+        "pinyin": "měng",
+        "hanviet": "Mãnh",
+        "words": [
+          {
+            "hanzi": "迅猛龙",
+            "pinyin": "xùn měng lóng",
+            "hanviet": "Tấn mãnh long",
+            "vietnamese": "Khủng long Velociraptor"
+          },
+          {
+            "hanzi": "猛烈",
+            "pinyin": "měng liè",
+            "hanviet": "Mãnh liệt",
+            "vietnamese": "Mãnh liệt"
+          },
+          {
+            "hanzi": "凶猛",
+            "pinyin": "xiōng měng",
+            "hanviet": "Hung mãnh",
+            "vietnamese": "Hung dữ"
+          },
+          {
+            "hanzi": "猛兽",
+            "pinyin": "měng shòu",
+            "hanviet": "Mãnh thú",
+            "vietnamese": "Thú dữ"
+          }
+        ]
+      },
+      "char3": {
+        "hanzi": "龙",
+        "pinyin": "lóng",
+        "hanviet": "Long",
+        "words": [
+          {
+            "hanzi": "迅猛龙",
+            "pinyin": "xùn měng lóng",
+            "hanviet": "Tấn mãnh long",
+            "vietnamese": "Khủng long Velociraptor"
+          },
+          {
+            "hanzi": "龙",
+            "pinyin": "lóng",
+            "hanviet": "Long",
+            "vietnamese": "Rồng"
+          },
+          {
+            "hanzi": "龙王",
+            "pinyin": "lóng wáng",
+            "hanviet": "Long vương",
+            "vietnamese": "Long vương"
+          },
+          {
+            "hanzi": "龙舟",
+            "pinyin": "lóng zhōu",
+            "hanviet": "Long chu",
+            "vietnamese": "Thuyền rồng"
+          },
+          {
+            "hanzi": "龙卷风",
+            "pinyin": "lóng juǎn fēng",
+            "hanviet": "Long quyển phong",
+            "vietnamese": "Lốc xoáy"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "化石",
+      "pinyin": "huà shí",
+      "hanviet": "Hóa thạch",
+      "vietnamese": "Hóa thạch",
+      "char1": {
+        "hanzi": "化",
+        "pinyin": "huà",
+        "hanviet": "Hóa",
+        "words": [
+          {
+            "hanzi": "化石",
+            "pinyin": "huà shí",
+            "hanviet": "Hóa thạch",
+            "vietnamese": "Hóa thạch"
+          },
+          {
+            "hanzi": "化学",
+            "pinyin": "huà xué",
+            "hanviet": "Hóa học",
+            "vietnamese": "Hóa học"
+          },
+          {
+            "hanzi": "变化",
+            "pinyin": "biàn huà",
+            "hanviet": "Biến hóa",
+            "vietnamese": "Thay đổi"
+          },
+          {
+            "hanzi": "文化",
+            "pinyin": "wén huà",
+            "hanviet": "Văn hóa",
+            "vietnamese": "Văn hóa"
+          },
+          {
+            "hanzi": "现代化",
+            "pinyin": "xiàn dài huà",
+            "hanviet": "Hiện đại hóa",
+            "vietnamese": "Hiện đại hóa"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "石",
+        "pinyin": "shí",
+        "hanviet": "Thạch",
+        "words": [
+          {
+            "hanzi": "化石",
+            "pinyin": "huà shí",
+            "hanviet": "Hóa thạch",
+            "vietnamese": "Hóa thạch"
+          },
+          {
+            "hanzi": "石头",
+            "pinyin": "shí tou",
+            "hanviet": "Thạch đầu",
+            "vietnamese": "Đá"
+          },
+          {
+            "hanzi": "石油",
+            "pinyin": "shí yóu",
+            "hanviet": "Thạch du",
+            "vietnamese": "Dầu mỏ"
+          },
+          {
+            "hanzi": "钻石",
+            "pinyin": "zuàn shí",
+            "hanviet": "Toàn thạch",
+            "vietnamese": "Kim cương"
+          },
+          {
+            "hanzi": "大理石",
+            "pinyin": "dà lǐ shí",
+            "hanviet": "Đại lý thạch",
+            "vietnamese": "Đá cẩm thạch"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "史前",
+      "pinyin": "shǐ qián",
+      "hanviet": "Sử tiền",
+      "vietnamese": "Thời tiền sử",
+      "char1": {
+        "hanzi": "史",
+        "pinyin": "shǐ",
+        "hanviet": "Sử",
+        "words": [
+          {
+            "hanzi": "史前",
+            "pinyin": "shǐ qián",
+            "hanviet": "Sử tiền",
+            "vietnamese": "Thời tiền sử"
+          },
+          {
+            "hanzi": "历史",
+            "pinyin": "lì shǐ",
+            "hanviet": "Lịch sử",
+            "vietnamese": "Lịch sử"
+          },
+          {
+            "hanzi": "史书",
+            "pinyin": "shǐ shū",
+            "hanviet": "Sử thư",
+            "vietnamese": "Sách sử"
+          },
+          {
+            "hanzi": "史学家",
+            "pinyin": "shǐ xué jiā",
+            "hanviet": "Sử học gia",
+            "vietnamese": "Nhà sử học"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "前",
+        "pinyin": "qián",
+        "hanviet": "Tiền",
+        "words": [
+          {
+            "hanzi": "史前",
+            "pinyin": "shǐ qián",
+            "hanviet": "Sử tiền",
+            "vietnamese": "Thời tiền sử"
+          },
+          {
+            "hanzi": "前面",
+            "pinyin": "qián miàn",
+            "hanviet": "Tiền diện",
+            "vietnamese": "Phía trước"
+          },
+          {
+            "hanzi": "以前",
+            "pinyin": "yǐ qián",
+            "hanviet": "Dĩ tiền",
+            "vietnamese": "Trước đây"
+          },
+          {
+            "hanzi": "前进",
+            "pinyin": "qián jìn",
+            "hanviet": "Tiền tiến",
+            "vietnamese": "Tiến lên"
+          },
+          {
+            "hanzi": "前天",
+            "pinyin": "qián tiān",
+            "hanviet": "Tiền thiên",
+            "vietnamese": "Hôm kia"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "灭绝",
+      "pinyin": "miè jué",
+      "hanviet": "Diệt tuyệt",
+      "vietnamese": "Tuyệt chủng",
+      "char1": {
+        "hanzi": "灭",
+        "pinyin": "miè",
+        "hanviet": "Diệt",
+        "words": [
+          {
+            "hanzi": "灭绝",
+            "pinyin": "miè jué",
+            "hanviet": "Diệt tuyệt",
+            "vietnamese": "Tuyệt chủng"
+          },
+          {
+            "hanzi": "消灭",
+            "pinyin": "xiāo miè",
+            "hanviet": "Tiêu diệt",
+            "vietnamese": "Tiêu diệt"
+          },
+          {
+            "hanzi": "灭火",
+            "pinyin": "miè huǒ",
+            "hanviet": "Diệt hỏa",
+            "vietnamese": "Dập lửa"
+          },
+          {
+            "hanzi": "灭亡",
+            "pinyin": "miè wáng",
+            "hanviet": "Diệt vong",
+            "vietnamese": "Diệt vong"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "绝",
+        "pinyin": "jué",
+        "hanviet": "Tuyệt",
+        "words": [
+          {
+            "hanzi": "灭绝",
+            "pinyin": "miè jué",
+            "hanviet": "Diệt tuyệt",
+            "vietnamese": "Tuyệt chủng"
+          },
+          {
+            "hanzi": "绝对",
+            "pinyin": "jué duì",
+            "hanviet": "Tuyệt đối",
+            "vietnamese": "Tuyệt đối"
+          },
+          {
+            "hanzi": "绝望",
+            "pinyin": "jué wàng",
+            "hanviet": "Tuyệt vọng",
+            "vietnamese": "Tuyệt vọng"
+          },
+          {
+            "hanzi": "绝种",
+            "pinyin": "jué zhǒng",
+            "hanviet": "Tuyệt chủng",
+            "vietnamese": "Tuyệt chủng"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "考古",
+      "pinyin": "kǎo gǔ",
+      "hanviet": "Khảo cổ",
+      "vietnamese": "Khảo cổ",
+      "char1": {
+        "hanzi": "考",
+        "pinyin": "kǎo",
+        "hanviet": "Khảo",
+        "words": [
+          {
+            "hanzi": "考古",
+            "pinyin": "kǎo gǔ",
+            "hanviet": "Khảo cổ",
+            "vietnamese": "Khảo cổ"
+          },
+          {
+            "hanzi": "考试",
+            "pinyin": "kǎo shì",
+            "hanviet": "Khảo thí",
+            "vietnamese": "Thi cử"
+          },
+          {
+            "hanzi": "考虑",
+            "pinyin": "kǎo lǜ",
+            "hanviet": "Khảo lự",
+            "vietnamese": "Cân nhắc"
+          },
+          {
+            "hanzi": "考察",
+            "pinyin": "kǎo chá",
+            "hanviet": "Khảo sát",
+            "vietnamese": "Khảo sát"
+          },
+          {
+            "hanzi": "思考",
+            "pinyin": "sī kǎo",
+            "hanviet": "Tư khảo",
+            "vietnamese": "Suy nghĩ"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "古",
+        "pinyin": "gǔ",
+        "hanviet": "Cổ",
+        "words": [
+          {
+            "hanzi": "考古",
+            "pinyin": "kǎo gǔ",
+            "hanviet": "Khảo cổ",
+            "vietnamese": "Khảo cổ"
+          },
+          {
+            "hanzi": "古代",
+            "pinyin": "gǔ dài",
+            "hanviet": "Cổ đại",
+            "vietnamese": "Cổ đại"
+          },
+          {
+            "hanzi": "古老",
+            "pinyin": "gǔ lǎo",
+            "hanviet": "Cổ lão",
+            "vietnamese": "Cổ xưa"
+          },
+          {
+            "hanzi": "古典",
+            "pinyin": "gǔ diǎn",
+            "hanviet": "Cổ điển",
+            "vietnamese": "Cổ điển"
+          },
+          {
+            "hanzi": "古物",
+            "pinyin": "gǔ wù",
+            "hanviet": "Cổ vật",
+            "vietnamese": "Cổ vật"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "博物馆",
+      "pinyin": "bó wù guǎn",
+      "hanviet": "Bác vật quán",
+      "vietnamese": "Bảo tàng",
+      "char1": {
+        "hanzi": "博",
+        "pinyin": "bó",
+        "hanviet": "Bác",
+        "words": [
+          {
+            "hanzi": "博物馆",
+            "pinyin": "bó wù guǎn",
+            "hanviet": "Bác vật quán",
+            "vietnamese": "Bảo tàng"
+          },
+          {
+            "hanzi": "博士",
+            "pinyin": "bó shì",
+            "hanviet": "Bác sĩ",
+            "vietnamese": "Tiến sĩ"
+          },
+          {
+            "hanzi": "博学",
+            "pinyin": "bó xué",
+            "hanviet": "Bác học",
+            "vietnamese": "Học rộng"
+          },
+          {
+            "hanzi": "博客",
+            "pinyin": "bó kè",
+            "hanviet": "Bác khách",
+            "vietnamese": "Blog"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "物",
+        "pinyin": "wù",
+        "hanviet": "Vật",
+        "words": [
+          {
+            "hanzi": "博物馆",
+            "pinyin": "bó wù guǎn",
+            "hanviet": "Bác vật quán",
+            "vietnamese": "Bảo tàng"
+          },
+          {
+            "hanzi": "动物",
+            "pinyin": "dòng wù",
+            "hanviet": "Động vật",
+            "vietnamese": "Động vật"
+          },
+          {
+            "hanzi": "植物",
+            "pinyin": "zhí wù",
+            "hanviet": "Thực vật",
+            "vietnamese": "Thực vật"
+          },
+          {
+            "hanzi": "物品",
+            "pinyin": "wù pǐn",
+            "hanviet": "Vật phẩm",
+            "vietnamese": "Vật phẩm"
+          },
+          {
+            "hanzi": "物理",
+            "pinyin": "wù lǐ",
+            "hanviet": "Vật lý",
+            "vietnamese": "Vật lý"
+          }
+        ]
+      },
+      "char3": {
+        "hanzi": "馆",
+        "pinyin": "guǎn",
+        "hanviet": "Quán",
+        "words": [
+          {
+            "hanzi": "博物馆",
+            "pinyin": "bó wù guǎn",
+            "hanviet": "Bác vật quán",
+            "vietnamese": "Bảo tàng"
+          },
+          {
+            "hanzi": "图书馆",
+            "pinyin": "tú shū guǎn",
+            "hanviet": "Đồ thư quán",
+            "vietnamese": "Thư viện"
+          },
+          {
+            "hanzi": "旅馆",
+            "pinyin": "lǚ guǎn",
+            "hanviet": "Lữ quán",
+            "vietnamese": "Khách sạn"
+          },
+          {
+            "hanzi": "饭馆",
+            "pinyin": "fàn guǎn",
+            "hanviet": "Phạn quán",
+            "vietnamese": "Nhà hàng"
+          }
+        ]
+      }
+    }
+  ]

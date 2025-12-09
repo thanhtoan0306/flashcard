@@ -1,0 +1,962 @@
+[
+    {
+      "hanzi": "蔬菜",
+      "pinyin": "shū cài",
+      "hanviet": "Thư thái",
+      "vietnamese": "Rau củ",
+      "char1": {
+        "hanzi": "蔬",
+        "pinyin": "shū",
+        "hanviet": "Thư",
+        "words": [
+          {
+            "hanzi": "蔬菜",
+            "pinyin": "shū cài",
+            "hanviet": "Thư thái",
+            "vietnamese": "Rau củ"
+          },
+          {
+            "hanzi": "果蔬",
+            "pinyin": "guǒ shū",
+            "hanviet": "Quả thư",
+            "vietnamese": "Rau quả"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "菜",
+        "pinyin": "cài",
+        "hanviet": "Thái",
+        "words": [
+          {
+            "hanzi": "蔬菜",
+            "pinyin": "shū cài",
+            "hanviet": "Thư thái",
+            "vietnamese": "Rau củ"
+          },
+          {
+            "hanzi": "菜谱",
+            "pinyin": "cài pǔ",
+            "hanviet": "Thái phổ",
+            "vietnamese": "Thực đơn"
+          },
+          {
+            "hanzi": "炒菜",
+            "pinyin": "chǎo cài",
+            "hanviet": "Xào thái",
+            "vietnamese": "Xào rau"
+          },
+          {
+            "hanzi": "家常菜",
+            "pinyin": "jiā cháng cài",
+            "hanviet": "Gia thường thái",
+            "vietnamese": "Món ăn gia đình"
+          },
+          {
+            "hanzi": "青菜",
+            "pinyin": "qīng cài",
+            "hanviet": "Thanh thái",
+            "vietnamese": "Rau xanh"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "白菜",
+      "pinyin": "bái cài",
+      "hanviet": "Bạch thái",
+      "vietnamese": "Cải bắp",
+      "char1": {
+        "hanzi": "白",
+        "pinyin": "bái",
+        "hanviet": "Bạch",
+        "words": [
+          {
+            "hanzi": "白菜",
+            "pinyin": "bái cài",
+            "hanviet": "Bạch thái",
+            "vietnamese": "Cải bắp"
+          },
+          {
+            "hanzi": "白色",
+            "pinyin": "bái sè",
+            "hanviet": "Bạch sắc",
+            "vietnamese": "Màu trắng"
+          },
+          {
+            "hanzi": "白天",
+            "pinyin": "bái tiān",
+            "hanviet": "Bạch thiên",
+            "vietnamese": "Ban ngày"
+          },
+          {
+            "hanzi": "明白",
+            "pinyin": "míng bái",
+            "hanviet": "Minh bạch",
+            "vietnamese": "Hiểu rõ"
+          },
+          {
+            "hanzi": "雪白",
+            "pinyin": "xuě bái",
+            "hanviet": "Tuyết bạch",
+            "vietnamese": "Trắng như tuyết"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "菜",
+        "pinyin": "cài",
+        "hanviet": "Thái",
+        "words": [
+          {
+            "hanzi": "白菜",
+            "pinyin": "bái cài",
+            "hanviet": "Bạch thái",
+            "vietnamese": "Cải bắp"
+          },
+          {
+            "hanzi": "菜谱",
+            "pinyin": "cài pǔ",
+            "hanviet": "Thái phổ",
+            "vietnamese": "Thực đơn"
+          },
+          {
+            "hanzi": "炒菜",
+            "pinyin": "chǎo cài",
+            "hanviet": "Xào thái",
+            "vietnamese": "Xào rau"
+          },
+          {
+            "hanzi": "家常菜",
+            "pinyin": "jiā cháng cài",
+            "hanviet": "Gia thường thái",
+            "vietnamese": "Món ăn gia đình"
+          },
+          {
+            "hanzi": "青菜",
+            "pinyin": "qīng cài",
+            "hanviet": "Thanh thái",
+            "vietnamese": "Rau xanh"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "萝卜",
+      "pinyin": "luó bo",
+      "hanviet": "La bặc",
+      "vietnamese": "Củ cải",
+      "char1": {
+        "hanzi": "萝",
+        "pinyin": "luó",
+        "hanviet": "La",
+        "words": [
+          {
+            "hanzi": "萝卜",
+            "pinyin": "luó bo",
+            "hanviet": "La bặc",
+            "vietnamese": "Củ cải"
+          },
+          {
+            "hanzi": "菠萝",
+            "pinyin": "bō luó",
+            "hanviet": "Ba la",
+            "vietnamese": "Dứa"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "卜",
+        "pinyin": "bo",
+        "hanviet": "Bặc",
+        "words": [
+          {
+            "hanzi": "萝卜",
+            "pinyin": "luó bo",
+            "hanviet": "La bặc",
+            "vietnamese": "Củ cải"
+          },
+          {
+            "hanzi": "占卜",
+            "pinyin": "zhān bǔ",
+            "hanviet": "Chiêm bặc",
+            "vietnamese": "Bói toán"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "土豆",
+      "pinyin": "tǔ dòu",
+      "hanviet": "Thổ đậu",
+      "vietnamese": "Khoai tây",
+      "char1": {
+        "hanzi": "土",
+        "pinyin": "tǔ",
+        "hanviet": "Thổ",
+        "words": [
+          {
+            "hanzi": "土豆",
+            "pinyin": "tǔ dòu",
+            "hanviet": "Thổ đậu",
+            "vietnamese": "Khoai tây"
+          },
+          {
+            "hanzi": "土地",
+            "pinyin": "tǔ dì",
+            "hanviet": "Thổ địa",
+            "vietnamese": "Đất đai"
+          },
+          {
+            "hanzi": "泥土",
+            "pinyin": "ní tǔ",
+            "hanviet": "Nê thổ",
+            "vietnamese": "Đất bùn"
+          },
+          {
+            "hanzi": "国土",
+            "pinyin": "guó tǔ",
+            "hanviet": "Quốc thổ",
+            "vietnamese": "Lãnh thổ"
+          },
+          {
+            "hanzi": "本土",
+            "pinyin": "běn tǔ",
+            "hanviet": "Bản thổ",
+            "vietnamese": "Bản địa"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "豆",
+        "pinyin": "dòu",
+        "hanviet": "Đậu",
+        "words": [
+          {
+            "hanzi": "土豆",
+            "pinyin": "tǔ dòu",
+            "hanviet": "Thổ đậu",
+            "vietnamese": "Khoai tây"
+          },
+          {
+            "hanzi": "大豆",
+            "pinyin": "dà dòu",
+            "hanviet": "Đại đậu",
+            "vietnamese": "Đậu tương"
+          },
+          {
+            "hanzi": "绿豆",
+            "pinyin": "lǜ dòu",
+            "hanviet": "Lục đậu",
+            "vietnamese": "Đậu xanh"
+          },
+          {
+            "hanzi": "红豆",
+            "pinyin": "hóng dòu",
+            "hanviet": "Hồng đậu",
+            "vietnamese": "Đậu đỏ"
+          },
+          {
+            "hanzi": "豆腐",
+            "pinyin": "dòu fu",
+            "hanviet": "Đậu phụ",
+            "vietnamese": "Đậu phụ"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "西红柿",
+      "pinyin": "xī hóng shì",
+      "hanviet": "Tây hồng thị",
+      "vietnamese": "Cà chua",
+      "char1": {
+        "hanzi": "西",
+        "pinyin": "xī",
+        "hanviet": "Tây",
+        "words": [
+          {
+            "hanzi": "西红柿",
+            "pinyin": "xī hóng shì",
+            "hanviet": "Tây hồng thị",
+            "vietnamese": "Cà chua"
+          },
+          {
+            "hanzi": "西方",
+            "pinyin": "xī fāng",
+            "hanviet": "Tây phương",
+            "vietnamese": "Phương Tây"
+          },
+          {
+            "hanzi": "西瓜",
+            "pinyin": "xī guā",
+            "hanviet": "Tây qua",
+            "vietnamese": "Dưa hấu"
+          },
+          {
+            "hanzi": "西餐",
+            "pinyin": "xī cān",
+            "hanviet": "Tây xan",
+            "vietnamese": "Món Tây"
+          },
+          {
+            "hanzi": "西服",
+            "pinyin": "xī fú",
+            "hanviet": "Tây phục",
+            "vietnamese": "Áo vest"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "红",
+        "pinyin": "hóng",
+        "hanviet": "Hồng",
+        "words": [
+          {
+            "hanzi": "西红柿",
+            "pinyin": "xī hóng shì",
+            "hanviet": "Tây hồng thị",
+            "vietnamese": "Cà chua"
+          },
+          {
+            "hanzi": "红色",
+            "pinyin": "hóng sè",
+            "hanviet": "Hồng sắc",
+            "vietnamese": "Màu đỏ"
+          },
+          {
+            "hanzi": "红花",
+            "pinyin": "hóng huā",
+            "hanviet": "Hồng hoa",
+            "vietnamese": "Hoa đỏ"
+          },
+          {
+            "hanzi": "脸红",
+            "pinyin": "liǎn hóng",
+            "hanviet": "Liễn hồng",
+            "vietnamese": "Đỏ mặt"
+          },
+          {
+            "hanzi": "红豆",
+            "pinyin": "hóng dòu",
+            "hanviet": "Hồng đậu",
+            "vietnamese": "Đậu đỏ"
+          }
+        ]
+      },
+      "char3": {
+        "hanzi": "柿",
+        "pinyin": "shì",
+        "hanviet": "Thị",
+        "words": [
+          {
+            "hanzi": "西红柿",
+            "pinyin": "xī hóng shì",
+            "hanviet": "Tây hồng thị",
+            "vietnamese": "Cà chua"
+          },
+          {
+            "hanzi": "柿子",
+            "pinyin": "shì zi",
+            "hanviet": "Thị tử",
+            "vietnamese": "Quả hồng"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "黄瓜",
+      "pinyin": "huáng guā",
+      "hanviet": "Hoàng qua",
+      "vietnamese": "Dưa chuột",
+      "char1": {
+        "hanzi": "黄",
+        "pinyin": "huáng",
+        "hanviet": "Hoàng",
+        "words": [
+          {
+            "hanzi": "黄瓜",
+            "pinyin": "huáng guā",
+            "hanviet": "Hoàng qua",
+            "vietnamese": "Dưa chuột"
+          },
+          {
+            "hanzi": "黄色",
+            "pinyin": "huáng sè",
+            "hanviet": "Hoàng sắc",
+            "vietnamese": "Màu vàng"
+          },
+          {
+            "hanzi": "黄金",
+            "pinyin": "huáng jīn",
+            "hanviet": "Hoàng kim",
+            "vietnamese": "Vàng"
+          },
+          {
+            "hanzi": "黄昏",
+            "pinyin": "huáng hūn",
+            "hanviet": "Hoàng hôn",
+            "vietnamese": "Hoàng hôn"
+          },
+          {
+            "hanzi": "黄河",
+            "pinyin": "huáng hé",
+            "hanviet": "Hoàng hà",
+            "vietnamese": "Sông Hoàng Hà"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "瓜",
+        "pinyin": "guā",
+        "hanviet": "Qua",
+        "words": [
+          {
+            "hanzi": "黄瓜",
+            "pinyin": "huáng guā",
+            "hanviet": "Hoàng qua",
+            "vietnamese": "Dưa chuột"
+          },
+          {
+            "hanzi": "西瓜",
+            "pinyin": "xī guā",
+            "hanviet": "Tây qua",
+            "vietnamese": "Dưa hấu"
+          },
+          {
+            "hanzi": "南瓜",
+            "pinyin": "nán guā",
+            "hanviet": "Nam qua",
+            "vietnamese": "Bí đỏ"
+          },
+          {
+            "hanzi": "冬瓜",
+            "pinyin": "dōng guā",
+            "hanviet": "Đông qua",
+            "vietnamese": "Bí xanh"
+          },
+          {
+            "hanzi": "甜瓜",
+            "pinyin": "tián guā",
+            "hanviet": "Điền qua",
+            "vietnamese": "Dưa ngọt"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "胡萝卜",
+      "pinyin": "hú luó bo",
+      "hanviet": "Hồ la bặc",
+      "vietnamese": "Cà rốt",
+      "char1": {
+        "hanzi": "胡",
+        "pinyin": "hú",
+        "hanviet": "Hồ",
+        "words": [
+          {
+            "hanzi": "胡萝卜",
+            "pinyin": "hú luó bo",
+            "hanviet": "Hồ la bặc",
+            "vietnamese": "Cà rốt"
+          },
+          {
+            "hanzi": "胡子",
+            "pinyin": "hú zi",
+            "hanviet": "Hồ tử",
+            "vietnamese": "Râu"
+          },
+          {
+            "hanzi": "胡须",
+            "pinyin": "hú xū",
+            "hanviet": "Hồ tu",
+            "vietnamese": "Râu ria"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "萝",
+        "pinyin": "luó",
+        "hanviet": "La",
+        "words": [
+          {
+            "hanzi": "胡萝卜",
+            "pinyin": "hú luó bo",
+            "hanviet": "Hồ la bặc",
+            "vietnamese": "Cà rốt"
+          },
+          {
+            "hanzi": "萝卜",
+            "pinyin": "luó bo",
+            "hanviet": "La bặc",
+            "vietnamese": "Củ cải"
+          },
+          {
+            "hanzi": "菠萝",
+            "pinyin": "bō luó",
+            "hanviet": "Ba la",
+            "vietnamese": "Dứa"
+          }
+        ]
+      },
+      "char3": {
+        "hanzi": "卜",
+        "pinyin": "bo",
+        "hanviet": "Bặc",
+        "words": [
+          {
+            "hanzi": "胡萝卜",
+            "pinyin": "hú luó bo",
+            "hanviet": "Hồ la bặc",
+            "vietnamese": "Cà rốt"
+          },
+          {
+            "hanzi": "萝卜",
+            "pinyin": "luó bo",
+            "hanviet": "La bặc",
+            "vietnamese": "Củ cải"
+          },
+          {
+            "hanzi": "占卜",
+            "pinyin": "zhān bǔ",
+            "hanviet": "Chiêm bặc",
+            "vietnamese": "Bói toán"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "洋葱",
+      "pinyin": "yáng cōng",
+      "hanviet": "Dương thông",
+      "vietnamese": "Hành tây",
+      "char1": {
+        "hanzi": "洋",
+        "pinyin": "yáng",
+        "hanviet": "Dương",
+        "words": [
+          {
+            "hanzi": "洋葱",
+            "pinyin": "yáng cōng",
+            "hanviet": "Dương thông",
+            "vietnamese": "Hành tây"
+          },
+          {
+            "hanzi": "海洋",
+            "pinyin": "hǎi yáng",
+            "hanviet": "Hải dương",
+            "vietnamese": "Đại dương"
+          },
+          {
+            "hanzi": "洋人",
+            "pinyin": "yáng rén",
+            "hanviet": "Dương nhân",
+            "vietnamese": "Người nước ngoài"
+          },
+          {
+            "hanzi": "洋房",
+            "pinyin": "yáng fáng",
+            "hanviet": "Dương phòng",
+            "vietnamese": "Nhà kiểu Tây"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "葱",
+        "pinyin": "cōng",
+        "hanviet": "Thông",
+        "words": [
+          {
+            "hanzi": "洋葱",
+            "pinyin": "yáng cōng",
+            "hanviet": "Dương thông",
+            "vietnamese": "Hành tây"
+          },
+          {
+            "hanzi": "大葱",
+            "pinyin": "dà cōng",
+            "hanviet": "Đại thông",
+            "vietnamese": "Hành lá"
+          },
+          {
+            "hanzi": "小葱",
+            "pinyin": "xiǎo cōng",
+            "hanviet": "Tiểu thông",
+            "vietnamese": "Hành nhỏ"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "茄子",
+      "pinyin": "qié zi",
+      "hanviet": "Gia tử",
+      "vietnamese": "Cà tím",
+      "char1": {
+        "hanzi": "茄",
+        "pinyin": "qié",
+        "hanviet": "Gia",
+        "words": [
+          {
+            "hanzi": "茄子",
+            "pinyin": "qié zi",
+            "hanviet": "Gia tử",
+            "vietnamese": "Cà tím"
+          },
+          {
+            "hanzi": "番茄",
+            "pinyin": "fān qié",
+            "hanviet": "Phiên gia",
+            "vietnamese": "Cà chua"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "子",
+        "pinyin": "zi",
+        "hanviet": "Tử",
+        "words": [
+          {
+            "hanzi": "茄子",
+            "pinyin": "qié zi",
+            "hanviet": "Gia tử",
+            "vietnamese": "Cà tím"
+          },
+          {
+            "hanzi": "孩子",
+            "pinyin": "hái zi",
+            "hanviet": "Hài tử",
+            "vietnamese": "Đứa trẻ"
+          },
+          {
+            "hanzi": "桌子",
+            "pinyin": "zhuō zi",
+            "hanviet": "Trác tử",
+            "vietnamese": "Cái bàn"
+          },
+          {
+            "hanzi": "椅子",
+            "pinyin": "yǐ zi",
+            "hanviet": "Ỷ tử",
+            "vietnamese": "Cái ghế"
+          },
+          {
+            "hanzi": "筷子",
+            "pinyin": "kuài zi",
+            "hanviet": "Khoái tử",
+            "vietnamese": "Đũa"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "菠菜",
+      "pinyin": "bō cài",
+      "hanviet": "Ba thái",
+      "vietnamese": "Rau chân vịt",
+      "char1": {
+        "hanzi": "菠",
+        "pinyin": "bō",
+        "hanviet": "Ba",
+        "words": [
+          {
+            "hanzi": "菠菜",
+            "pinyin": "bō cài",
+            "hanviet": "Ba thái",
+            "vietnamese": "Rau chân vịt"
+          },
+          {
+            "hanzi": "菠萝",
+            "pinyin": "bō luó",
+            "hanviet": "Ba la",
+            "vietnamese": "Dứa"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "菜",
+        "pinyin": "cài",
+        "hanviet": "Thái",
+        "words": [
+          {
+            "hanzi": "菠菜",
+            "pinyin": "bō cài",
+            "hanviet": "Ba thái",
+            "vietnamese": "Rau chân vịt"
+          },
+          {
+            "hanzi": "菜谱",
+            "pinyin": "cài pǔ",
+            "hanviet": "Thái phổ",
+            "vietnamese": "Thực đơn"
+          },
+          {
+            "hanzi": "炒菜",
+            "pinyin": "chǎo cài",
+            "hanviet": "Xào thái",
+            "vietnamese": "Xào rau"
+          },
+          {
+            "hanzi": "家常菜",
+            "pinyin": "jiā cháng cài",
+            "hanviet": "Gia thường thái",
+            "vietnamese": "Món ăn gia đình"
+          },
+          {
+            "hanzi": "青菜",
+            "pinyin": "qīng cài",
+            "hanviet": "Thanh thái",
+            "vietnamese": "Rau xanh"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "芹菜",
+      "pinyin": "qín cài",
+      "hanviet": "Cần thái",
+      "vietnamese": "Cần tây",
+      "char1": {
+        "hanzi": "芹",
+        "pinyin": "qín",
+        "hanviet": "Cần",
+        "words": [
+          {
+            "hanzi": "芹菜",
+            "pinyin": "qín cài",
+            "hanviet": "Cần thái",
+            "vietnamese": "Cần tây"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "菜",
+        "pinyin": "cài",
+        "hanviet": "Thái",
+        "words": [
+          {
+            "hanzi": "芹菜",
+            "pinyin": "qín cài",
+            "hanviet": "Cần thái",
+            "vietnamese": "Cần tây"
+          },
+          {
+            "hanzi": "菜谱",
+            "pinyin": "cài pǔ",
+            "hanviet": "Thái phổ",
+            "vietnamese": "Thực đơn"
+          },
+          {
+            "hanzi": "炒菜",
+            "pinyin": "chǎo cài",
+            "hanviet": "Xào thái",
+            "vietnamese": "Xào rau"
+          },
+          {
+            "hanzi": "家常菜",
+            "pinyin": "jiā cháng cài",
+            "hanviet": "Gia thường thái",
+            "vietnamese": "Món ăn gia đình"
+          },
+          {
+            "hanzi": "青菜",
+            "pinyin": "qīng cài",
+            "hanviet": "Thanh thái",
+            "vietnamese": "Rau xanh"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "豆角",
+      "pinyin": "dòu jiǎo",
+      "hanviet": "Đậu giác",
+      "vietnamese": "Đậu đũa",
+      "char1": {
+        "hanzi": "豆",
+        "pinyin": "dòu",
+        "hanviet": "Đậu",
+        "words": [
+          {
+            "hanzi": "豆角",
+            "pinyin": "dòu jiǎo",
+            "hanviet": "Đậu giác",
+            "vietnamese": "Đậu đũa"
+          },
+          {
+            "hanzi": "大豆",
+            "pinyin": "dà dòu",
+            "hanviet": "Đại đậu",
+            "vietnamese": "Đậu tương"
+          },
+          {
+            "hanzi": "绿豆",
+            "pinyin": "lǜ dòu",
+            "hanviet": "Lục đậu",
+            "vietnamese": "Đậu xanh"
+          },
+          {
+            "hanzi": "红豆",
+            "pinyin": "hóng dòu",
+            "hanviet": "Hồng đậu",
+            "vietnamese": "Đậu đỏ"
+          },
+          {
+            "hanzi": "豆腐",
+            "pinyin": "dòu fu",
+            "hanviet": "Đậu phụ",
+            "vietnamese": "Đậu phụ"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "角",
+        "pinyin": "jiǎo",
+        "hanviet": "Giác",
+        "words": [
+          {
+            "hanzi": "豆角",
+            "pinyin": "dòu jiǎo",
+            "hanviet": "Đậu giác",
+            "vietnamese": "Đậu đũa"
+          },
+          {
+            "hanzi": "角度",
+            "pinyin": "jiǎo dù",
+            "hanviet": "Giác độ",
+            "vietnamese": "Góc độ"
+          },
+          {
+            "hanzi": "角落",
+            "pinyin": "jiǎo luò",
+            "hanviet": "Giác lạc",
+            "vietnamese": "Góc"
+          },
+          {
+            "hanzi": "角色",
+            "pinyin": "jué sè",
+            "hanviet": "Giác sắc",
+            "vietnamese": "Vai diễn"
+          },
+          {
+            "hanzi": "牛角",
+            "pinyin": "niú jiǎo",
+            "hanviet": "Ngưu giác",
+            "vietnamese": "Sừng bò"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "青椒",
+      "pinyin": "qīng jiāo",
+      "hanviet": "Thanh tiêu",
+      "vietnamese": "Ớt xanh",
+      "char1": {
+        "hanzi": "青",
+        "pinyin": "qīng",
+        "hanviet": "Thanh",
+        "words": [
+          {
+            "hanzi": "青椒",
+            "pinyin": "qīng jiāo",
+            "hanviet": "Thanh tiêu",
+            "vietnamese": "Ớt xanh"
+          },
+          {
+            "hanzi": "青色",
+            "pinyin": "qīng sè",
+            "hanviet": "Thanh sắc",
+            "vietnamese": "Màu xanh"
+          },
+          {
+            "hanzi": "青年",
+            "pinyin": "qīng nián",
+            "hanviet": "Thanh niên",
+            "vietnamese": "Thanh niên"
+          },
+          {
+            "hanzi": "青菜",
+            "pinyin": "qīng cài",
+            "hanviet": "Thanh thái",
+            "vietnamese": "Rau xanh"
+          },
+          {
+            "hanzi": "青春",
+            "pinyin": "qīng chūn",
+            "hanviet": "Thanh xuân",
+            "vietnamese": "Tuổi trẻ"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "椒",
+        "pinyin": "jiāo",
+        "hanviet": "Tiêu",
+        "words": [
+          {
+            "hanzi": "青椒",
+            "pinyin": "qīng jiāo",
+            "hanviet": "Thanh tiêu",
+            "vietnamese": "Ớt xanh"
+          },
+          {
+            "hanzi": "胡椒",
+            "pinyin": "hú jiāo",
+            "hanviet": "Hồ tiêu",
+            "vietnamese": "Hạt tiêu"
+          },
+          {
+            "hanzi": "花椒",
+            "pinyin": "huā jiāo",
+            "hanviet": "Hoa tiêu",
+            "vietnamese": "Hoa tiêu"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "蘑菇",
+      "pinyin": "mó gu",
+      "hanviet": "Ma cô",
+      "vietnamese": "Nấm",
+      "char1": {
+        "hanzi": "蘑",
+        "pinyin": "mó",
+        "hanviet": "Ma",
+        "words": [
+          {
+            "hanzi": "蘑菇",
+            "pinyin": "mó gu",
+            "hanviet": "Ma cô",
+            "vietnamese": "Nấm"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "菇",
+        "pinyin": "gu",
+        "hanviet": "Cô",
+        "words": [
+          {
+            "hanzi": "蘑菇",
+            "pinyin": "mó gu",
+            "hanviet": "Ma cô",
+            "vietnamese": "Nấm"
+          },
+          {
+            "hanzi": "香菇",
+            "pinyin": "xiāng gu",
+            "hanviet": "Hương cô",
+            "vietnamese": "Nấm hương"
+          },
+          {
+            "hanzi": "金针菇",
+            "pinyin": "jīn zhēn gu",
+            "hanviet": "Kim châm cô",
+            "vietnamese": "Nấm kim châm"
+          }
+        ]
+      }
+    }
+  ]
