@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flashcard Hán Việt - Tính năng Phát âm (Web Speech) - HTMX + Go</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/htmx.org@1.9.10"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;700&family=Quicksand:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Quicksand', sans-serif;
+            -webkit-tap-highlight-color: transparent;
+        }
+        .chinese-font {
+            font-family: 'Noto Sans SC', sans-serif;
+        }
+        /* Styling cho Slider */
+        input[type="range"]::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 20px;
+            height: 20px;
+            background: #2563eb;
+            cursor: pointer;
+            border-radius: 50%;
+            border: 3px solid white;
+            box-shadow: 0 0 0 1px #2563eb;
+        }
+        input[type="range"]::-moz-range-thumb {
+            width: 20px;
+            height: 20px;
+            background: #2563eb;
+            cursor: pointer;
+            border-radius: 50%;
+            border: 3px solid white;
+            box-shadow: 0 0 0 1px #2563eb;
+        }
+        .card-display {
+            display: block;
+            min-height: 25rem; 
+        }
+        .speak-btn {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+        }
+    </style>
+</head>
+<body class="bg-slate-100 flex flex-col items-center justify-center min-h-screen p-4">
+
+    <!-- Controls Container -->
+    <div id="controls-container" hx-get="/controls?topic={{.TopicIndex}}&card={{.CardIndex}}" hx-trigger="load" hx-swap="innerHTML">
+        <!-- Controls will be loaded here -->
+    </div>
+    
+    <!-- Flashcard Container -->
+    <div id="flashcard-container" hx-get="/card?topic={{.TopicIndex}}&card={{.CardIndex}}" hx-trigger="load" hx-swap="innerHTML">
+        <!-- Flashcard will be loaded here -->
+    </div>
+
+    <script>
+        // Web Speech API
+        let chineseVoice = null;
+        let isSpeaking = false;
+
+        function loadChineseVoice() {
+            if (!window.speechSynthesis) return;
+            
+            const voices = window.speechSynthesis.getVoices();
+            const voice = voices.find(
+                v => v.lang.startsWith('zh-') ||
+                     v.lang.includes('cmn-') ||
+                     v.name.toLowerCase().includes('chinese') ||
+                     v.name.toLowerCase().includes('mandarin')
+            );
+
+            if (voice) {
+                chineseVoice = voice;
+            } else {
+                console.warn('Không tìm thấy giọng tiếng Trung cụ thể. Sử dụng giọng mặc định.');
+            }
+        }
+
+        // Initialize voice
+        loadChineseVoice();
+        if (window.speechSynthesis && 'onvoiceschanged' in window.speechSynthesis) {
+            window.speechSynthesis.onvoiceschanged = loadChineseVoice;
+        }
+
+        function speakChinese(textToSpeak) {
+            if (!window.speechSynthesis) {
+                console.error('Trình duyệt không hỗ trợ Web Speech API.');
+                return;
+            }
+
+            // Dừng phát âm cũ nếu đang có
+            if (isSpeaking) {
+                window.speechSynthesis.cancel();
+                isSpeaking = false;
+            }
+
+            const utterance = new SpeechSynthesisUtterance(textToSpeak.replace(/ /g, ''));
+
+            if (chineseVoice) {
+                utterance.voice = chineseVoice;
+            } else {
+                utterance.lang = 'zh-CN';
+            }
+
+            utterance.rate = 0.8;
+
+            utterance.onstart = () => {
+                isSpeaking = true;
+            };
+
+            utterance.onend = () => {
+                isSpeaking = false;
+            };
+
+            utterance.onerror = (event) => {
+                isSpeaking = false;
+                console.error('Lỗi phát âm Web Speech:', event.error);
+            };
+
+            window.speechSynthesis.speak(utterance);
+        }
+
+        function stopSpeaking() {
+            if (window.speechSynthesis) {
+                window.speechSynthesis.cancel();
+                isSpeaking = false;
+            }
+        }
+
+        // Make functions globally available
+        window.speakChinese = speakChinese;
+        window.stopSpeaking = stopSpeaking;
+
+        // Stop speaking when HTMX swaps content
+        document.body.addEventListener('htmx:afterSwap', function() {
+            stopSpeaking();
+        });
+    </script>
+</body>
+</html>

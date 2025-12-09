@@ -1,0 +1,551 @@
+[
+    {
+      "hanzi": "身体",
+      "pinyin": "shēn tǐ",
+      "hanviet": "Thân thể",
+      "vietnamese": "Cơ thể",
+      "char1": {
+        "hanzi": "身",
+        "pinyin": "shēn",
+        "hanviet": "Thân",
+        "words": [
+          {
+            "hanzi": "身体",
+            "pinyin": "shēn tǐ",
+            "hanviet": "Thân thể",
+            "vietnamese": "Cơ thể"
+          },
+          {
+            "hanzi": "出身",
+            "pinyin": "chū shēn",
+            "hanviet": "Xuất thân",
+            "vietnamese": "Xuất thân"
+          },
+          {
+            "hanzi": "亲身",
+            "pinyin": "qīn shēn",
+            "hanviet": "Thân thân",
+            "vietnamese": "Trực tiếp, đích thân"
+          },
+          {
+            "hanzi": "自身",
+            "pinyin": "zì shēn",
+            "hanviet": "Tự thân",
+            "vietnamese": "Bản thân"
+          },
+          {
+            "hanzi": "身材",
+            "pinyin": "shēn cái",
+            "hanviet": "Thân tài",
+            "vietnamese": "Vóc dáng"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "体",
+        "pinyin": "tǐ",
+        "hanviet": "Thể",
+        "words": [
+          {
+            "hanzi": "身体",
+            "pinyin": "shēn tǐ",
+            "hanviet": "Thân thể",
+            "vietnamese": "Cơ thể"
+          },
+          {
+            "hanzi": "体重",
+            "pinyin": "tǐ zhòng",
+            "hanviet": "Thể trọng",
+            "vietnamese": "Cân nặng"
+          },
+          {
+            "hanzi": "体操",
+            "pinyin": "tǐ cāo",
+            "hanviet": "Thể thao",
+            "vietnamese": "Thể dục dụng cụ"
+          },
+          {
+            "hanzi": "体育",
+            "pinyin": "tǐ yù",
+            "hanviet": "Thể dục",
+            "vietnamese": "Thể dục, thể thao"
+          },
+          {
+            "hanzi": "物体",
+            "pinyin": "wù tǐ",
+            "hanviet": "Vật thể",
+            "vietnamese": "Vật thể"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "头部",
+      "pinyin": "tóu bù",
+      "hanviet": "Đầu bộ",
+      "vietnamese": "Đầu",
+      "char1": {
+        "hanzi": "头",
+        "pinyin": "tóu",
+        "hanviet": "Đầu",
+        "words": [
+          {
+            "hanzi": "头部",
+            "pinyin": "tóu bù",
+            "hanviet": "Đầu bộ",
+            "vietnamese": "Đầu"
+          },
+          {
+            "hanzi": "头发",
+            "pinyin": "tóu fa",
+            "hanviet": "Đầu phát",
+            "vietnamese": "Tóc"
+          },
+          {
+            "hanzi": "头脑",
+            "pinyin": "tóu nǎo",
+            "hanviet": "Đầu não",
+            "vietnamese": "Đầu óc"
+          },
+          {
+            "hanzi": "点头",
+            "pinyin": "diǎn tóu",
+            "hanviet": "Điểm đầu",
+            "vietnamese": "Gật đầu"
+          },
+          {
+            "hanzi": "石头",
+            "pinyin": "shí tou",
+            "hanviet": "Thạch đầu",
+            "vietnamese": "Hòn đá"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "部",
+        "pinyin": "bù",
+        "hanviet": "Bộ",
+        "words": [
+          {
+            "hanzi": "部分",
+            "pinyin": "bù fèn",
+            "hanviet": "Bộ phận",
+            "vietnamese": "Bộ phận, phần"
+          },
+          {
+            "hanzi": "部门",
+            "pinyin": "bù mén",
+            "hanviet": "Bộ môn",
+            "vietnamese": "Ban ngành"
+          },
+          {
+            "hanzi": "部队",
+            "pinyin": "bù duì",
+            "hanviet": "Bộ đội",
+            "vietnamese": "Bộ đội, quân đội"
+          },
+          {
+            "hanzi": "头部",
+            "pinyin": "tóu bù",
+            "hanviet": "Đầu bộ",
+            "vietnamese": "Đầu"
+          },
+          {
+            "hanzi": "内部",
+            "pinyin": "nèi bù",
+            "hanviet": "Nội bộ",
+            "vietnamese": "Nội bộ"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "眼睛",
+      "pinyin": "yǎn jīng",
+      "hanviet": "Nhãn tinh",
+      "vietnamese": "Mắt",
+      "char1": {
+        "hanzi": "眼",
+        "pinyin": "yǎn",
+        "hanviet": "Nhãn",
+        "words": [
+          {
+            "hanzi": "眼睛",
+            "pinyin": "yǎn jīng",
+            "hanviet": "Nhãn tinh",
+            "vietnamese": "Mắt"
+          },
+          {
+            "hanzi": "眼泪",
+            "pinyin": "yǎn lèi",
+            "hanviet": "Nhãn lệ",
+            "vietnamese": "Nước mắt"
+          },
+          {
+            "hanzi": "眼光",
+            "pinyin": "yǎn guāng",
+            "hanviet": "Nhãn quang",
+            "vietnamese": "Ánh mắt"
+          },
+          {
+            "hanzi": "眼科",
+            "pinyin": "yǎn kē",
+            "hanviet": "Nhãn khoa",
+            "vietnamese": "Khoa mắt"
+          },
+          {
+            "hanzi": "眼前",
+            "pinyin": "yǎn qián",
+            "hanviet": "Nhãn tiền",
+            "vietnamese": "Trước mắt"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "睛",
+        "pinyin": "jīng",
+        "hanviet": "Tinh",
+        "words": [
+          {
+            "hanzi": "眼睛",
+            "pinyin": "yǎn jīng",
+            "hanviet": "Nhãn tinh",
+            "vietnamese": "Mắt"
+          },
+          {
+            "hanzi": "眼珠",
+            "pinyin": "yǎn zhū",
+            "hanviet": "Nhãn châu",
+            "vietnamese": "Con ngươi"
+          },
+          {
+            "hanzi": "画龙点睛",
+            "pinyin": "huà lóng diǎn jīng",
+            "hanviet": "Họa long điểm tinh",
+            "vietnamese": "Vẽ rồng điểm mắt"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "手",
+      "pinyin": "shǒu",
+      "hanviet": "Thủ",
+      "vietnamese": "Tay",
+      "char1": {
+        "hanzi": "手",
+        "pinyin": "shǒu",
+        "hanviet": "Thủ",
+        "words": [
+          {
+            "hanzi": "手",
+            "pinyin": "shǒu",
+            "hanviet": "Thủ",
+            "vietnamese": "Tay"
+          },
+          {
+            "hanzi": "手指",
+            "pinyin": "shǒu zhǐ",
+            "hanviet": "Thủ chỉ",
+            "vietnamese": "Ngón tay"
+          },
+          {
+            "hanzi": "手机",
+            "pinyin": "shǒu jī",
+            "hanviet": "Thủ cơ",
+            "vietnamese": "Điện thoại"
+          },
+          {
+            "hanzi": "手套",
+            "pinyin": "shǒu tào",
+            "hanviet": "Thủ sáo",
+            "vietnamese": "Găng tay"
+          },
+          {
+            "hanzi": "人手",
+            "pinyin": "rén shǒu",
+            "hanviet": "Nhân thủ",
+            "vietnamese": "Nhân lực"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "脚",
+      "pinyin": "jiǎo",
+      "hanviet": "Cước",
+      "vietnamese": "Chân, bàn chân",
+      "char1": {
+        "hanzi": "脚",
+        "pinyin": "jiǎo",
+        "hanviet": "Cước",
+        "words": [
+          {
+            "hanzi": "脚",
+            "pinyin": "jiǎo",
+            "hanviet": "Cước",
+            "vietnamese": "Chân, bàn chân"
+          },
+          {
+            "hanzi": "脚趾",
+            "pinyin": "jiǎo zhǐ",
+            "hanviet": "Cước chỉ",
+            "vietnamese": "Ngón chân"
+          },
+          {
+            "hanzi": "脚步",
+            "pinyin": "jiǎo bù",
+            "hanviet": "Cước bộ",
+            "vietnamese": "Bước chân"
+          },
+          {
+            "hanzi": "赤脚",
+            "pinyin": "chì jiǎo",
+            "hanviet": "Xích cước",
+            "vietnamese": "Chân trần"
+          },
+          {
+            "hanzi": "脚下",
+            "pinyin": "jiǎo xià",
+            "hanviet": "Cước hạ",
+            "vietnamese": "Dưới chân"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "心脏",
+      "pinyin": "xīn zàng",
+      "hanviet": "Tâm tạng",
+      "vietnamese": "Tim",
+      "char1": {
+        "hanzi": "心",
+        "pinyin": "xīn",
+        "hanviet": "Tâm",
+        "words": [
+          {
+            "hanzi": "心脏",
+            "pinyin": "xīn zàng",
+            "hanviet": "Tâm tạng",
+            "vietnamese": "Tim"
+          },
+          {
+            "hanzi": "心理",
+            "pinyin": "xīn lǐ",
+            "hanviet": "Tâm lý",
+            "vietnamese": "Tâm lý"
+          },
+          {
+            "hanzi": "心情",
+            "pinyin": "xīn qíng",
+            "hanviet": "Tâm tình",
+            "vietnamese": "Tâm trạng"
+          },
+          {
+            "hanzi": "爱心",
+            "pinyin": "ài xīn",
+            "hanviet": "Ái tâm",
+            "vietnamese": "Lòng yêu thương"
+          },
+          {
+            "hanzi": "中心",
+            "pinyin": "zhōng xīn",
+            "hanviet": "Trung tâm",
+            "vietnamese": "Trung tâm"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "脏",
+        "pinyin": "zàng",
+        "hanviet": "Tạng",
+        "words": [
+          {
+            "hanzi": "心脏",
+            "pinyin": "xīn zàng",
+            "hanviet": "Tâm tạng",
+            "vietnamese": "Tim"
+          },
+          {
+            "hanzi": "脏腑",
+            "pinyin": "zàng fǔ",
+            "hanviet": "Tạng phủ",
+            "vietnamese": "Nội tạng"
+          },
+          {
+            "hanzi": "肝脏",
+            "pinyin": "gān zàng",
+            "hanviet": "Can tạng",
+            "vietnamese": "Gan"
+          },
+          {
+            "hanzi": "肾脏",
+            "pinyin": "shèn zàng",
+            "hanviet": "Thận tạng",
+            "vietnamese": "Thận"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "肺",
+      "pinyin": "fèi",
+      "hanviet": "Phế",
+      "vietnamese": "Phổi",
+      "char1": {
+        "hanzi": "肺",
+        "pinyin": "fèi",
+        "hanviet": "Phế",
+        "words": [
+          {
+            "hanzi": "肺部",
+            "pinyin": "fèi bù",
+            "hanviet": "Phế bộ",
+            "vietnamese": "Phổi"
+          },
+          {
+            "hanzi": "肺炎",
+            "pinyin": "fèi yán",
+            "hanviet": "Phế viêm",
+            "vietnamese": "Viêm phổi"
+          },
+          {
+            "hanzi": "心肺",
+            "pinyin": "xīn fèi",
+            "hanviet": "Tâm phế",
+            "vietnamese": "Tim phổi"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "大脑",
+      "pinyin": "dà nǎo",
+      "hanviet": "Đại não",
+      "vietnamese": "Não",
+      "char1": {
+        "hanzi": "大",
+        "pinyin": "dà",
+        "hanviet": "Đại",
+        "words": [
+          {
+            "hanzi": "大",
+            "pinyin": "dà",
+            "hanviet": "Đại",
+            "vietnamese": "Lớn"
+          },
+          {
+            "hanzi": "大学",
+            "pinyin": "dà xué",
+            "hanviet": "Đại học",
+            "vietnamese": "Đại học"
+          },
+          {
+            "hanzi": "大家",
+            "pinyin": "dà jiā",
+            "hanviet": "Đại gia",
+            "vietnamese": "Mọi người"
+          },
+          {
+            "hanzi": "大脑",
+            "pinyin": "dà nǎo",
+            "hanviet": "Đại não",
+            "vietnamese": "Não"
+          },
+          {
+            "hanzi": "大约",
+            "pinyin": "dà yuē",
+            "hanviet": "Đại ước",
+            "vietnamese": "Khoảng"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "脑",
+        "pinyin": "nǎo",
+        "hanviet": "Não",
+        "words": [
+          {
+            "hanzi": "大脑",
+            "pinyin": "dà nǎo",
+            "hanviet": "Đại não",
+            "vietnamese": "Não"
+          },
+          {
+            "hanzi": "头脑",
+            "pinyin": "tóu nǎo",
+            "hanviet": "Đầu não",
+            "vietnamese": "Đầu óc"
+          },
+          {
+            "hanzi": "脑力",
+            "pinyin": "nǎo lì",
+            "hanviet": "Não lực",
+            "vietnamese": "Trí lực"
+          },
+          {
+            "hanzi": "电脑",
+            "pinyin": "diàn nǎo",
+            "hanviet": "Điện não",
+            "vietnamese": "Máy tính"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "皮肤",
+      "pinyin": "pí fū",
+      "hanviet": "Bì phu",
+      "vietnamese": "Da",
+      "char1": {
+        "hanzi": "皮",
+        "pinyin": "pí",
+        "hanviet": "Bì",
+        "words": [
+          {
+            "hanzi": "皮肤",
+            "pinyin": "pí fū",
+            "hanviet": "Bì phu",
+            "vietnamese": "Da"
+          },
+          {
+            "hanzi": "皮鞋",
+            "pinyin": "pí xié",
+            "hanviet": "Bì hài",
+            "vietnamese": "Giày da"
+          },
+          {
+            "hanzi": "西瓜皮",
+            "pinyin": "xī guā pí",
+            "hanviet": "Tây qua bì",
+            "vietnamese": "Vỏ dưa hấu"
+          },
+          {
+            "hanzi": "皮带",
+            "pinyin": "pí dài",
+            "hanviet": "Bì đới",
+            "vietnamese": "Thắt lưng da"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "肤",
+        "pinyin": "fū",
+        "hanviet": "Phu",
+        "words": [
+          {
+            "hanzi": "皮肤",
+            "pinyin": "pí fū",
+            "hanviet": "Bì phu",
+            "vietnamese": "Da"
+          },
+          {
+            "hanzi": "肌肤",
+            "pinyin": "jī fū",
+            "hanviet": "Cơ phu",
+            "vietnamese": "Da dẻ"
+          }
+        ]
+      }
+    }
+  ]

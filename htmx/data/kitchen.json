@@ -1,0 +1,522 @@
+[
+    {
+      "hanzi": "厨房",
+      "pinyin": "chú fáng",
+      "hanviet": "Trù phòng",
+      "vietnamese": "Nhà bếp",
+      "char1": {
+        "hanzi": "厨",
+        "pinyin": "chú",
+        "hanviet": "Trù",
+        "words": [
+          {
+            "hanzi": "厨房",
+            "pinyin": "chú fáng",
+            "hanviet": "Trù phòng",
+            "vietnamese": "Nhà bếp"
+          },
+          {
+            "hanzi": "厨师",
+            "pinyin": "chú shī",
+            "hanviet": "Trù sư",
+            "vietnamese": "Đầu bếp"
+          },
+          {
+            "hanzi": "厨具",
+            "pinyin": "chú jù",
+            "hanviet": "Trù cụ",
+            "vietnamese": "Dụng cụ nhà bếp"
+          },
+          {
+            "hanzi": "烹饪",
+            "pinyin": "pēng rèn",
+            "hanviet": "Phanh nhậm",
+            "vietnamese": "Nấu ăn"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "房",
+        "pinyin": "fáng",
+        "hanviet": "Phòng",
+        "words": [
+          {
+            "hanzi": "房间",
+            "pinyin": "fáng jiān",
+            "hanviet": "Phòng gian",
+            "vietnamese": "Phòng"
+          },
+          {
+            "hanzi": "房子",
+            "pinyin": "fáng zi",
+            "hanviet": "Phòng tử",
+            "vietnamese": "Nhà"
+          },
+          {
+            "hanzi": "厨房",
+            "pinyin": "chú fáng",
+            "hanviet": "Trù phòng",
+            "vietnamese": "Nhà bếp"
+          },
+          {
+            "hanzi": "书房",
+            "pinyin": "shū fáng",
+            "hanviet": "Thư phòng",
+            "vietnamese": "Phòng sách"
+          },
+          {
+            "hanzi": "住房",
+            "pinyin": "zhù fáng",
+            "hanviet": "Trú phòng",
+            "vietnamese": "Nhà ở"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "厨师",
+      "pinyin": "chú shī",
+      "hanviet": "Trù sư",
+      "vietnamese": "Đầu bếp",
+      "char1": {
+        "hanzi": "厨",
+        "pinyin": "chú",
+        "hanviet": "Trù",
+        "words": [
+          {
+            "hanzi": "厨师",
+            "pinyin": "chú shī",
+            "hanviet": "Trù sư",
+            "vietnamese": "Đầu bếp"
+          },
+          {
+            "hanzi": "厨房",
+            "pinyin": "chú fáng",
+            "hanviet": "Trù phòng",
+            "vietnamese": "Nhà bếp"
+          },
+          {
+            "hanzi": "厨具",
+            "pinyin": "chú jù",
+            "hanviet": "Trù cụ",
+            "vietnamese": "Dụng cụ nhà bếp"
+          },
+          {
+            "hanzi": "主厨",
+            "pinyin": "zhǔ chú",
+            "hanviet": "Chủ trù",
+            "vietnamese": "Bếp trưởng"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "师",
+        "pinyin": "shī",
+        "hanviet": "Sư",
+        "words": [
+          {
+            "hanzi": "老师",
+            "pinyin": "lǎo shī",
+            "hanviet": "Lão sư",
+            "vietnamese": "Giáo viên"
+          },
+          {
+            "hanzi": "厨师",
+            "pinyin": "chú shī",
+            "hanviet": "Trù sư",
+            "vietnamese": "Đầu bếp"
+          },
+          {
+            "hanzi": "师傅",
+            "pinyin": "shī fù",
+            "hanviet": "Sư phụ",
+            "vietnamese": "Thầy, thợ"
+          },
+          {
+            "hanzi": "工程师",
+            "pinyin": "gōng chéng shī",
+            "hanviet": "Công trình sư",
+            "vietnamese": "Kỹ sư"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "炒菜",
+      "pinyin": "chǎo cài",
+      "hanviet": "Xào thái",
+      "vietnamese": "Xào rau",
+      "char1": {
+        "hanzi": "炒",
+        "pinyin": "chǎo",
+        "hanviet": "Xào",
+        "words": [
+          {
+            "hanzi": "炒菜",
+            "pinyin": "chǎo cài",
+            "hanviet": "Xào thái",
+            "vietnamese": "Xào rau"
+          },
+          {
+            "hanzi": "炒饭",
+            "pinyin": "chǎo fàn",
+            "hanviet": "Xào phạn",
+            "vietnamese": "Cơm chiên"
+          },
+          {
+            "hanzi": "炒面",
+            "pinyin": "chǎo miàn",
+            "hanviet": "Xào diện",
+            "vietnamese": "Mì xào"
+          },
+          {
+            "hanzi": "炒作",
+            "pinyin": "chǎo zuò",
+            "hanviet": "Xào tác",
+            "vietnamese": "Lăng xê"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "菜",
+        "pinyin": "cài",
+        "hanviet": "Thái",
+        "words": [
+          {
+            "hanzi": "蔬菜",
+            "pinyin": "shū cài",
+            "hanviet": "Thư thái",
+            "vietnamese": "Rau củ"
+          },
+          {
+            "hanzi": "菜谱",
+            "pinyin": "cài pǔ",
+            "hanviet": "Thái phổ",
+            "vietnamese": "Thực đơn"
+          },
+          {
+            "hanzi": "炒菜",
+            "pinyin": "chǎo cài",
+            "hanviet": "Xào thái",
+            "vietnamese": "Xào rau"
+          },
+          {
+            "hanzi": "家常菜",
+            "pinyin": "jiā cháng cài",
+            "hanviet": "Gia thường thái",
+            "vietnamese": "Món ăn gia đình"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "锅",
+      "pinyin": "guō",
+      "hanviet": "Oa",
+      "vietnamese": "Nồi, chảo",
+      "char1": {
+        "hanzi": "锅",
+        "pinyin": "guō",
+        "hanviet": "Oa",
+        "words": [
+          {
+            "hanzi": "火锅",
+            "pinyin": "huǒ guō",
+            "hanviet": "Hỏa oa",
+            "vietnamese": "Lẩu"
+          },
+          {
+            "hanzi": "炒锅",
+            "pinyin": "chǎo guō",
+            "hanviet": "Xào oa",
+            "vietnamese": "Chảo xào"
+          },
+          {
+            "hanzi": "电饭锅",
+            "pinyin": "diàn fàn guō",
+            "hanviet": "Điện phạn oa",
+            "vietnamese": "Nồi cơm điện"
+          },
+          {
+            "hanzi": "锅盖",
+            "pinyin": "guō gài",
+            "hanviet": "Oa cái",
+            "vietnamese": "Nắp nồi"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "碗",
+      "pinyin": "wǎn",
+      "hanviet": "Oản",
+      "vietnamese": "Bát, chén",
+      "char1": {
+        "hanzi": "碗",
+        "pinyin": "wǎn",
+        "hanviet": "Oản",
+        "words": [
+          {
+            "hanzi": "饭碗",
+            "pinyin": "fàn wǎn",
+            "hanviet": "Phạn oản",
+            "vietnamese": "Bát cơm"
+          },
+          {
+            "hanzi": "茶碗",
+            "pinyin": "chá wǎn",
+            "hanviet": "Trà oản",
+            "vietnamese": "Chén trà"
+          },
+          {
+            "hanzi": "洗碗",
+            "pinyin": "xǐ wǎn",
+            "hanviet": "Tẩy oản",
+            "vietnamese": "Rửa bát"
+          },
+          {
+            "hanzi": "一碗面",
+            "pinyin": "yì wǎn miàn",
+            "hanviet": "Nhất oản diện",
+            "vietnamese": "Một bát mì"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "筷子",
+      "pinyin": "kuài zi",
+      "hanviet": "Khoái tử",
+      "vietnamese": "Đũa",
+      "char1": {
+        "hanzi": "筷",
+        "pinyin": "kuài",
+        "hanviet": "Khoái",
+        "words": [
+          {
+            "hanzi": "筷子",
+            "pinyin": "kuài zi",
+            "hanviet": "Khoái tử",
+            "vietnamese": "Đũa"
+          },
+          {
+            "hanzi": "竹筷",
+            "pinyin": "zhú kuài",
+            "hanviet": "Trúc khoái",
+            "vietnamese": "Đũa tre"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "子",
+        "pinyin": "zi",
+        "hanviet": "Tử",
+        "words": [
+          {
+            "hanzi": "孩子",
+            "pinyin": "hái zi",
+            "hanviet": "Hài tử",
+            "vietnamese": "Đứa trẻ"
+          },
+          {
+            "hanzi": "桌子",
+            "pinyin": "zhuō zi",
+            "hanviet": "Trác tử",
+            "vietnamese": "Cái bàn"
+          },
+          {
+            "hanzi": "椅子",
+            "pinyin": "yǐ zi",
+            "hanviet": "Ỷ tử",
+            "vietnamese": "Cái ghế"
+          },
+          {
+            "hanzi": "筷子",
+            "pinyin": "kuài zi",
+            "hanviet": "Khoái tử",
+            "vietnamese": "Đũa"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "冰箱",
+      "pinyin": "bīng xiāng",
+      "hanviet": "Băng sương",
+      "vietnamese": "Tủ lạnh",
+      "char1": {
+        "hanzi": "冰",
+        "pinyin": "bīng",
+        "hanviet": "Băng",
+        "words": [
+          {
+            "hanzi": "冰块",
+            "pinyin": "bīng kuài",
+            "hanviet": "Băng khối",
+            "vietnamese": "Đá viên"
+          },
+          {
+            "hanzi": "冰淇淋",
+            "pinyin": "bīng qí lín",
+            "hanviet": "Băng kỳ lâm",
+            "vietnamese": "Kem"
+          },
+          {
+            "hanzi": "冰箱",
+            "pinyin": "bīng xiāng",
+            "hanviet": "Băng sương",
+            "vietnamese": "Tủ lạnh"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "箱",
+        "pinyin": "xiāng",
+        "hanviet": "Sương",
+        "words": [
+          {
+            "hanzi": "箱子",
+            "pinyin": "xiāng zi",
+            "hanviet": "Sương tử",
+            "vietnamese": "Cái hộp"
+          },
+          {
+            "hanzi": "冰箱",
+            "pinyin": "bīng xiāng",
+            "hanviet": "Băng sương",
+            "vietnamese": "Tủ lạnh"
+          },
+          {
+            "hanzi": "行李箱",
+            "pinyin": "xíng lǐ xiāng",
+            "hanviet": "Hành lý sương",
+            "vietnamese": "Vali"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "烤箱",
+      "pinyin": "kǎo xiāng",
+      "hanviet": "Khảo sương",
+      "vietnamese": "Lò nướng",
+      "char1": {
+        "hanzi": "烤",
+        "pinyin": "kǎo",
+        "hanviet": "Khảo",
+        "words": [
+          {
+            "hanzi": "烤箱",
+            "pinyin": "kǎo xiāng",
+            "hanviet": "Khảo sương",
+            "vietnamese": "Lò nướng"
+          },
+          {
+            "hanzi": "烧烤",
+            "pinyin": "shāo kǎo",
+            "hanviet": "Thiêu khảo",
+            "vietnamese": "Thịt nướng"
+          },
+          {
+            "hanzi": "烤肉",
+            "pinyin": "kǎo ròu",
+            "hanviet": "Khảo nhục",
+            "vietnamese": "Thịt nướng"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "箱",
+        "pinyin": "xiāng",
+        "hanviet": "Sương",
+        "words": [
+          {
+            "hanzi": "箱子",
+            "pinyin": "xiāng zi",
+            "hanviet": "Sương tử",
+            "vietnamese": "Cái hộp"
+          },
+          {
+            "hanzi": "烤箱",
+            "pinyin": "kǎo xiāng",
+            "hanviet": "Khảo sương",
+            "vietnamese": "Lò nướng"
+          },
+          {
+            "hanzi": "行李箱",
+            "pinyin": "xíng lǐ xiāng",
+            "hanviet": "Hành lý sương",
+            "vietnamese": "Vali"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "调料",
+      "pinyin": "tiáo liào",
+      "hanviet": "Điều liệu",
+      "vietnamese": "Gia vị",
+      "char1": {
+        "hanzi": "调",
+        "pinyin": "tiáo",
+        "hanviet": "Điều",
+        "words": [
+          {
+            "hanzi": "调料",
+            "pinyin": "tiáo liào",
+            "hanviet": "Điều liệu",
+            "vietnamese": "Gia vị"
+          },
+          {
+            "hanzi": "调味",
+            "pinyin": "tiáo wèi",
+            "hanviet": "Điều vị",
+            "vietnamese": "Nêm nếm"
+          },
+          {
+            "hanzi": "调整",
+            "pinyin": "tiáo zhěng",
+            "hanviet": "Điều chỉnh",
+            "vietnamese": "Điều chỉnh"
+          },
+          {
+            "hanzi": "空调",
+            "pinyin": "kōng tiáo",
+            "hanviet": "Không điều",
+            "vietnamese": "Điều hòa"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "料",
+        "pinyin": "liào",
+        "hanviet": "Liệu",
+        "words": [
+          {
+            "hanzi": "材料",
+            "pinyin": "cái liào",
+            "hanviet": "Tài liệu",
+            "vietnamese": "Tài liệu"
+          },
+          {
+            "hanzi": "原料",
+            "pinyin": "yuán liào",
+            "hanviet": "Nguyên liệu",
+            "vietnamese": "Nguyên liệu"
+          },
+          {
+            "hanzi": "调料",
+            "pinyin": "tiáo liào",
+            "hanviet": "Điều liệu",
+            "vietnamese": "Gia vị"
+          },
+          {
+            "hanzi": "饮料",
+            "pinyin": "yǐn liào",
+            "hanviet": "Ẩm liệu",
+            "vietnamese": "Đồ uống"
+          }
+        ]
+      }
+    }
+  ]
