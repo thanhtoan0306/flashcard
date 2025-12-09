@@ -1,0 +1,1187 @@
+[
+    {
+      "hanzi": "书包",
+      "pinyin": "shū bāo",
+      "hanviet": "Thư bao",
+      "vietnamese": "Cặp sách",
+      "char1": {
+        "hanzi": "书",
+        "pinyin": "shū",
+        "hanviet": "Thư",
+        "words": [
+          {
+            "hanzi": "书包",
+            "pinyin": "shū bāo",
+            "hanviet": "Thư bao",
+            "vietnamese": "Cặp sách"
+          },
+          {
+            "hanzi": "书本",
+            "pinyin": "shū běn",
+            "hanviet": "Thư bản",
+            "vietnamese": "Sách"
+          },
+          {
+            "hanzi": "书店",
+            "pinyin": "shū diàn",
+            "hanviet": "Thư điếm",
+            "vietnamese": "Hiệu sách"
+          },
+          {
+            "hanzi": "读书",
+            "pinyin": "dú shū",
+            "hanviet": "Độc thư",
+            "vietnamese": "Đọc sách"
+          },
+          {
+            "hanzi": "图书馆",
+            "pinyin": "tú shū guǎn",
+            "hanviet": "Đồ thư quán",
+            "vietnamese": "Thư viện"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "包",
+        "pinyin": "bāo",
+        "hanviet": "Bao",
+        "words": [
+          {
+            "hanzi": "书包",
+            "pinyin": "shū bāo",
+            "hanviet": "Thư bao",
+            "vietnamese": "Cặp sách"
+          },
+          {
+            "hanzi": "钱包",
+            "pinyin": "qián bāo",
+            "hanviet": "Tiền bao",
+            "vietnamese": "Ví tiền"
+          },
+          {
+            "hanzi": "背包",
+            "pinyin": "bēi bāo",
+            "hanviet": "Bị bao",
+            "vietnamese": "Ba lô"
+          },
+          {
+            "hanzi": "包装",
+            "pinyin": "bāo zhuāng",
+            "hanviet": "Bao trang",
+            "vietnamese": "Đóng gói"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "铅笔",
+      "pinyin": "qiān bǐ",
+      "hanviet": "Tiên bút",
+      "vietnamese": "Bút chì",
+      "char1": {
+        "hanzi": "铅",
+        "pinyin": "qiān",
+        "hanviet": "Tiên",
+        "words": [
+          {
+            "hanzi": "铅笔",
+            "pinyin": "qiān bǐ",
+            "hanviet": "Tiên bút",
+            "vietnamese": "Bút chì"
+          },
+          {
+            "hanzi": "铅球",
+            "pinyin": "qiān qiú",
+            "hanviet": "Tiên cầu",
+            "vietnamese": "Tạ xích"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "笔",
+        "pinyin": "bǐ",
+        "hanviet": "Bút",
+        "words": [
+          {
+            "hanzi": "铅笔",
+            "pinyin": "qiān bǐ",
+            "hanviet": "Tiên bút",
+            "vietnamese": "Bút chì"
+          },
+          {
+            "hanzi": "钢笔",
+            "pinyin": "gāng bǐ",
+            "hanviet": "Cương bút",
+            "vietnamese": "Bút máy"
+          },
+          {
+            "hanzi": "毛笔",
+            "pinyin": "máo bǐ",
+            "hanviet": "Mao bút",
+            "vietnamese": "Bút lông"
+          },
+          {
+            "hanzi": "笔记",
+            "pinyin": "bǐ jì",
+            "hanviet": "Bút ký",
+            "vietnamese": "Ghi chú"
+          },
+          {
+            "hanzi": "笔迹",
+            "pinyin": "bǐ jì",
+            "hanviet": "Bút tích",
+            "vietnamese": "Chữ viết"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "橡皮",
+      "pinyin": "xiàng pí",
+      "hanviet": "Tượng bì",
+      "vietnamese": "Cục tẩy",
+      "char1": {
+        "hanzi": "橡",
+        "pinyin": "xiàng",
+        "hanviet": "Tượng",
+        "words": [
+          {
+            "hanzi": "橡皮",
+            "pinyin": "xiàng pí",
+            "hanviet": "Tượng bì",
+            "vietnamese": "Cục tẩy"
+          },
+          {
+            "hanzi": "橡胶",
+            "pinyin": "xiàng jiāo",
+            "hanviet": "Tượng giao",
+            "vietnamese": "Cao su"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "皮",
+        "pinyin": "pí",
+        "hanviet": "Bì",
+        "words": [
+          {
+            "hanzi": "橡皮",
+            "pinyin": "xiàng pí",
+            "hanviet": "Tượng bì",
+            "vietnamese": "Cục tẩy"
+          },
+          {
+            "hanzi": "皮肤",
+            "pinyin": "pí fū",
+            "hanviet": "Bì phu",
+            "vietnamese": "Da"
+          },
+          {
+            "hanzi": "皮鞋",
+            "pinyin": "pí xié",
+            "hanviet": "Bì hài",
+            "vietnamese": "Giày da"
+          },
+          {
+            "hanzi": "西瓜皮",
+            "pinyin": "xī guā pí",
+            "hanviet": "Tây qua bì",
+            "vietnamese": "Vỏ dưa hấu"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "尺子",
+      "pinyin": "chǐ zi",
+      "hanviet": "Xích tử",
+      "vietnamese": "Thước kẻ",
+      "char1": {
+        "hanzi": "尺",
+        "pinyin": "chǐ",
+        "hanviet": "Xích",
+        "words": [
+          {
+            "hanzi": "尺子",
+            "pinyin": "chǐ zi",
+            "hanviet": "Xích tử",
+            "vietnamese": "Thước kẻ"
+          },
+          {
+            "hanzi": "公尺",
+            "pinyin": "gōng chǐ",
+            "hanviet": "Công xích",
+            "vietnamese": "Mét"
+          },
+          {
+            "hanzi": "英尺",
+            "pinyin": "yīng chǐ",
+            "hanviet": "Anh xích",
+            "vietnamese": "Foot"
+          },
+          {
+            "hanzi": "尺寸",
+            "pinyin": "chǐ cùn",
+            "hanviet": "Xích thốn",
+            "vietnamese": "Kích thước"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "子",
+        "pinyin": "zi",
+        "hanviet": "Tử",
+        "words": [
+          {
+            "hanzi": "尺子",
+            "pinyin": "chǐ zi",
+            "hanviet": "Xích tử",
+            "vietnamese": "Thước kẻ"
+          },
+          {
+            "hanzi": "孩子",
+            "pinyin": "hái zi",
+            "hanviet": "Hài tử",
+            "vietnamese": "Đứa trẻ"
+          },
+          {
+            "hanzi": "桌子",
+            "pinyin": "zhuō zi",
+            "hanviet": "Trác tử",
+            "vietnamese": "Cái bàn"
+          },
+          {
+            "hanzi": "椅子",
+            "pinyin": "yǐ zi",
+            "hanviet": "Ỷ tử",
+            "vietnamese": "Cái ghế"
+          },
+          {
+            "hanzi": "筷子",
+            "pinyin": "kuài zi",
+            "hanviet": "Khoái tử",
+            "vietnamese": "Đũa"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "笔记本",
+      "pinyin": "bǐ jì běn",
+      "hanviet": "Bút ký bản",
+      "vietnamese": "Vở ghi chú",
+      "char1": {
+        "hanzi": "笔",
+        "pinyin": "bǐ",
+        "hanviet": "Bút",
+        "words": [
+          {
+            "hanzi": "笔记本",
+            "pinyin": "bǐ jì běn",
+            "hanviet": "Bút ký bản",
+            "vietnamese": "Vở ghi chú"
+          },
+          {
+            "hanzi": "铅笔",
+            "pinyin": "qiān bǐ",
+            "hanviet": "Tiên bút",
+            "vietnamese": "Bút chì"
+          },
+          {
+            "hanzi": "钢笔",
+            "pinyin": "gāng bǐ",
+            "hanviet": "Cương bút",
+            "vietnamese": "Bút máy"
+          },
+          {
+            "hanzi": "毛笔",
+            "pinyin": "máo bǐ",
+            "hanviet": "Mao bút",
+            "vietnamese": "Bút lông"
+          },
+          {
+            "hanzi": "笔记",
+            "pinyin": "bǐ jì",
+            "hanviet": "Bút ký",
+            "vietnamese": "Ghi chú"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "记",
+        "pinyin": "jì",
+        "hanviet": "Ký",
+        "words": [
+          {
+            "hanzi": "笔记本",
+            "pinyin": "bǐ jì běn",
+            "hanviet": "Bút ký bản",
+            "vietnamese": "Vở ghi chú"
+          },
+          {
+            "hanzi": "记忆",
+            "pinyin": "jì yì",
+            "hanviet": "Ký ức",
+            "vietnamese": "Trí nhớ"
+          },
+          {
+            "hanzi": "记录",
+            "pinyin": "jì lù",
+            "hanviet": "Ký lục",
+            "vietnamese": "Ghi lại"
+          },
+          {
+            "hanzi": "记者",
+            "pinyin": "jì zhě",
+            "hanviet": "Ký giả",
+            "vietnamese": "Phóng viên"
+          },
+          {
+            "hanzi": "日记",
+            "pinyin": "rì jì",
+            "hanviet": "Nhật ký",
+            "vietnamese": "Nhật ký"
+          }
+        ]
+      },
+      "char3": {
+        "hanzi": "本",
+        "pinyin": "běn",
+        "hanviet": "Bản",
+        "words": [
+          {
+            "hanzi": "笔记本",
+            "pinyin": "bǐ jì běn",
+            "hanviet": "Bút ký bản",
+            "vietnamese": "Vở ghi chú"
+          },
+          {
+            "hanzi": "书本",
+            "pinyin": "shū běn",
+            "hanviet": "Thư bản",
+            "vietnamese": "Sách"
+          },
+          {
+            "hanzi": "课本",
+            "pinyin": "kè běn",
+            "hanviet": "Khóa bản",
+            "vietnamese": "Sách giáo khoa"
+          },
+          {
+            "hanzi": "根本",
+            "pinyin": "gēn běn",
+            "hanviet": "Căn bản",
+            "vietnamese": "Căn bản"
+          },
+          {
+            "hanzi": "本来",
+            "pinyin": "běn lái",
+            "hanviet": "Bản lai",
+            "vietnamese": "Vốn dĩ"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "圆规",
+      "pinyin": "yuán guī",
+      "hanviet": "Viên quy",
+      "vietnamese": "Compa",
+      "char1": {
+        "hanzi": "圆",
+        "pinyin": "yuán",
+        "hanviet": "Viên",
+        "words": [
+          {
+            "hanzi": "圆规",
+            "pinyin": "yuán guī",
+            "hanviet": "Viên quy",
+            "vietnamese": "Compa"
+          },
+          {
+            "hanzi": "圆形",
+            "pinyin": "yuán xíng",
+            "hanviet": "Viên hình",
+            "vietnamese": "Hình tròn"
+          },
+          {
+            "hanzi": "圆满",
+            "pinyin": "yuán mǎn",
+            "hanviet": "Viên mãn",
+            "vietnamese": "Hoàn hảo"
+          },
+          {
+            "hanzi": "团圆",
+            "pinyin": "tuán yuán",
+            "hanviet": "Đoàn viên",
+            "vietnamese": "Đoàn tụ"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "规",
+        "pinyin": "guī",
+        "hanviet": "Quy",
+        "words": [
+          {
+            "hanzi": "圆规",
+            "pinyin": "yuán guī",
+            "hanviet": "Viên quy",
+            "vietnamese": "Compa"
+          },
+          {
+            "hanzi": "规定",
+            "pinyin": "guī dìng",
+            "hanviet": "Quy định",
+            "vietnamese": "Quy định"
+          },
+          {
+            "hanzi": "规则",
+            "pinyin": "guī zé",
+            "hanviet": "Quy tắc",
+            "vietnamese": "Quy tắc"
+          },
+          {
+            "hanzi": "规律",
+            "pinyin": "guī lǜ",
+            "hanviet": "Quy luật",
+            "vietnamese": "Quy luật"
+          },
+          {
+            "hanzi": "规划",
+            "pinyin": "guī huà",
+            "hanviet": "Quy hoạch",
+            "vietnamese": "Quy hoạch"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "计算器",
+      "pinyin": "jì suàn qì",
+      "hanviet": "Ký toán khí",
+      "vietnamese": "Máy tính",
+      "char1": {
+        "hanzi": "计",
+        "pinyin": "jì",
+        "hanviet": "Ký",
+        "words": [
+          {
+            "hanzi": "计算器",
+            "pinyin": "jì suàn qì",
+            "hanviet": "Ký toán khí",
+            "vietnamese": "Máy tính"
+          },
+          {
+            "hanzi": "计算",
+            "pinyin": "jì suàn",
+            "hanviet": "Ký toán",
+            "vietnamese": "Tính toán"
+          },
+          {
+            "hanzi": "计划",
+            "pinyin": "jì huà",
+            "hanviet": "Ký hoạch",
+            "vietnamese": "Kế hoạch"
+          },
+          {
+            "hanzi": "统计",
+            "pinyin": "tǒng jì",
+            "hanviet": "Thống ký",
+            "vietnamese": "Thống kê"
+          },
+          {
+            "hanzi": "设计",
+            "pinyin": "shè jì",
+            "hanviet": "Thiết ký",
+            "vietnamese": "Thiết kế"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "算",
+        "pinyin": "suàn",
+        "hanviet": "Toán",
+        "words": [
+          {
+            "hanzi": "计算器",
+            "pinyin": "jì suàn qì",
+            "hanviet": "Ký toán khí",
+            "vietnamese": "Máy tính"
+          },
+          {
+            "hanzi": "计算",
+            "pinyin": "jì suàn",
+            "hanviet": "Ký toán",
+            "vietnamese": "Tính toán"
+          },
+          {
+            "hanzi": "算数",
+            "pinyin": "suàn shù",
+            "hanviet": "Toán số",
+            "vietnamese": "Số học"
+          },
+          {
+            "hanzi": "打算",
+            "pinyin": "dǎ suàn",
+            "hanviet": "Đả toán",
+            "vietnamese": "Dự định"
+          },
+          {
+            "hanzi": "预算",
+            "pinyin": "yù suàn",
+            "hanviet": "Dự toán",
+            "vietnamese": "Ngân sách"
+          }
+        ]
+      },
+      "char3": {
+        "hanzi": "器",
+        "pinyin": "qì",
+        "hanviet": "Khí",
+        "words": [
+          {
+            "hanzi": "计算器",
+            "pinyin": "jì suàn qì",
+            "hanviet": "Ký toán khí",
+            "vietnamese": "Máy tính"
+          },
+          {
+            "hanzi": "机器",
+            "pinyin": "jī qì",
+            "hanviet": "Cơ khí",
+            "vietnamese": "Máy móc"
+          },
+          {
+            "hanzi": "乐器",
+            "pinyin": "yuè qì",
+            "hanviet": "Nhạc khí",
+            "vietnamese": "Nhạc cụ"
+          },
+          {
+            "hanzi": "武器",
+            "pinyin": "wǔ qì",
+            "hanviet": "Vũ khí",
+            "vietnamese": "Vũ khí"
+          },
+          {
+            "hanzi": "容器",
+            "pinyin": "róng qì",
+            "hanviet": "Dung khí",
+            "vietnamese": "Đồ chứa"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "胶水",
+      "pinyin": "jiāo shuǐ",
+      "hanviet": "Giao thủy",
+      "vietnamese": "Keo dán",
+      "char1": {
+        "hanzi": "胶",
+        "pinyin": "jiāo",
+        "hanviet": "Giao",
+        "words": [
+          {
+            "hanzi": "胶水",
+            "pinyin": "jiāo shuǐ",
+            "hanviet": "Giao thủy",
+            "vietnamese": "Keo dán"
+          },
+          {
+            "hanzi": "胶带",
+            "pinyin": "jiāo dài",
+            "hanviet": "Giao đới",
+            "vietnamese": "Băng dính"
+          },
+          {
+            "hanzi": "橡胶",
+            "pinyin": "xiàng jiāo",
+            "hanviet": "Tượng giao",
+            "vietnamese": "Cao su"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "水",
+        "pinyin": "shuǐ",
+        "hanviet": "Thủy",
+        "words": [
+          {
+            "hanzi": "胶水",
+            "pinyin": "jiāo shuǐ",
+            "hanviet": "Giao thủy",
+            "vietnamese": "Keo dán"
+          },
+          {
+            "hanzi": "水",
+            "pinyin": "shuǐ",
+            "hanviet": "Thủy",
+            "vietnamese": "Nước"
+          },
+          {
+            "hanzi": "水果",
+            "pinyin": "shuǐ guǒ",
+            "hanviet": "Thủy quả",
+            "vietnamese": "Trái cây"
+          },
+          {
+            "hanzi": "水平",
+            "pinyin": "shuǐ píng",
+            "hanviet": "Thủy bình",
+            "vietnamese": "Mức độ"
+          },
+          {
+            "hanzi": "海水",
+            "pinyin": "hǎi shuǐ",
+            "hanviet": "Hải thủy",
+            "vietnamese": "Nước biển"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "订书机",
+      "pinyin": "dìng shū jī",
+      "hanviet": "Đính thư cơ",
+      "vietnamese": "Máy đóng sách",
+      "char1": {
+        "hanzi": "订",
+        "pinyin": "dìng",
+        "hanviet": "Đính",
+        "words": [
+          {
+            "hanzi": "订书机",
+            "pinyin": "dìng shū jī",
+            "hanviet": "Đính thư cơ",
+            "vietnamese": "Máy đóng sách"
+          },
+          {
+            "hanzi": "预订",
+            "pinyin": "yù dìng",
+            "hanviet": "Dự đính",
+            "vietnamese": "Đặt trước"
+          },
+          {
+            "hanzi": "订阅",
+            "pinyin": "dìng yuè",
+            "hanviet": "Đính nguyệt",
+            "vietnamese": "Đăng ký"
+          },
+          {
+            "hanzi": "订单",
+            "pinyin": "dìng dān",
+            "hanviet": "Đính đơn",
+            "vietnamese": "Đơn hàng"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "书",
+        "pinyin": "shū",
+        "hanviet": "Thư",
+        "words": [
+          {
+            "hanzi": "订书机",
+            "pinyin": "dìng shū jī",
+            "hanviet": "Đính thư cơ",
+            "vietnamese": "Máy đóng sách"
+          },
+          {
+            "hanzi": "书本",
+            "pinyin": "shū běn",
+            "hanviet": "Thư bản",
+            "vietnamese": "Sách"
+          },
+          {
+            "hanzi": "书店",
+            "pinyin": "shū diàn",
+            "hanviet": "Thư điếm",
+            "vietnamese": "Hiệu sách"
+          },
+          {
+            "hanzi": "读书",
+            "pinyin": "dú shū",
+            "hanviet": "Độc thư",
+            "vietnamese": "Đọc sách"
+          },
+          {
+            "hanzi": "图书馆",
+            "pinyin": "tú shū guǎn",
+            "hanviet": "Đồ thư quán",
+            "vietnamese": "Thư viện"
+          }
+        ]
+      },
+      "char3": {
+        "hanzi": "机",
+        "pinyin": "jī",
+        "hanviet": "Cơ",
+        "words": [
+          {
+            "hanzi": "订书机",
+            "pinyin": "dìng shū jī",
+            "hanviet": "Đính thư cơ",
+            "vietnamese": "Máy đóng sách"
+          },
+          {
+            "hanzi": "手机",
+            "pinyin": "shǒu jī",
+            "hanviet": "Thủ cơ",
+            "vietnamese": "Điện thoại di động"
+          },
+          {
+            "hanzi": "飞机",
+            "pinyin": "fēi jī",
+            "hanviet": "Phi cơ",
+            "vietnamese": "Máy bay"
+          },
+          {
+            "hanzi": "机会",
+            "pinyin": "jī huì",
+            "hanviet": "Cơ hội",
+            "vietnamese": "Cơ hội"
+          },
+          {
+            "hanzi": "机器",
+            "pinyin": "jī qì",
+            "hanviet": "Cơ khí",
+            "vietnamese": "Máy móc"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "荧光笔",
+      "pinyin": "yíng guāng bǐ",
+      "hanviet": "Huỳnh quang bút",
+      "vietnamese": "Bút highlight",
+      "char1": {
+        "hanzi": "荧",
+        "pinyin": "yíng",
+        "hanviet": "Huỳnh",
+        "words": [
+          {
+            "hanzi": "荧光笔",
+            "pinyin": "yíng guāng bǐ",
+            "hanviet": "Huỳnh quang bút",
+            "vietnamese": "Bút highlight"
+          },
+          {
+            "hanzi": "荧光",
+            "pinyin": "yíng guāng",
+            "hanviet": "Huỳnh quang",
+            "vietnamese": "Huỳnh quang"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "光",
+        "pinyin": "guāng",
+        "hanviet": "Quang",
+        "words": [
+          {
+            "hanzi": "荧光笔",
+            "pinyin": "yíng guāng bǐ",
+            "hanviet": "Huỳnh quang bút",
+            "vietnamese": "Bút highlight"
+          },
+          {
+            "hanzi": "阳光",
+            "pinyin": "yáng guāng",
+            "hanviet": "Dương quang",
+            "vietnamese": "Ánh nắng"
+          },
+          {
+            "hanzi": "月光",
+            "pinyin": "yuè guāng",
+            "hanviet": "Nguyệt quang",
+            "vietnamese": "Ánh trăng"
+          },
+          {
+            "hanzi": "灯光",
+            "pinyin": "dēng guāng",
+            "hanviet": "Đăng quang",
+            "vietnamese": "Ánh đèn"
+          },
+          {
+            "hanzi": "光明",
+            "pinyin": "guāng míng",
+            "hanviet": "Quang minh",
+            "vietnamese": "Sáng sủa"
+          }
+        ]
+      },
+      "char3": {
+        "hanzi": "笔",
+        "pinyin": "bǐ",
+        "hanviet": "Bút",
+        "words": [
+          {
+            "hanzi": "荧光笔",
+            "pinyin": "yíng guāng bǐ",
+            "hanviet": "Huỳnh quang bút",
+            "vietnamese": "Bút highlight"
+          },
+          {
+            "hanzi": "铅笔",
+            "pinyin": "qiān bǐ",
+            "hanviet": "Tiên bút",
+            "vietnamese": "Bút chì"
+          },
+          {
+            "hanzi": "钢笔",
+            "pinyin": "gāng bǐ",
+            "hanviet": "Cương bút",
+            "vietnamese": "Bút máy"
+          },
+          {
+            "hanzi": "毛笔",
+            "pinyin": "máo bǐ",
+            "hanviet": "Mao bút",
+            "vietnamese": "Bút lông"
+          },
+          {
+            "hanzi": "笔记",
+            "pinyin": "bǐ jì",
+            "hanviet": "Bút ký",
+            "vietnamese": "Ghi chú"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "文件夹",
+      "pinyin": "wén jiàn jiā",
+      "hanviet": "Văn kiện gia",
+      "vietnamese": "Tập hồ sơ",
+      "char1": {
+        "hanzi": "文",
+        "pinyin": "wén",
+        "hanviet": "Văn",
+        "words": [
+          {
+            "hanzi": "文件夹",
+            "pinyin": "wén jiàn jiā",
+            "hanviet": "Văn kiện gia",
+            "vietnamese": "Tập hồ sơ"
+          },
+          {
+            "hanzi": "文化",
+            "pinyin": "wén huà",
+            "hanviet": "Văn hóa",
+            "vietnamese": "Văn hóa"
+          },
+          {
+            "hanzi": "文学",
+            "pinyin": "wén xué",
+            "hanviet": "Văn học",
+            "vietnamese": "Văn học"
+          },
+          {
+            "hanzi": "文章",
+            "pinyin": "wén zhāng",
+            "hanviet": "Văn chương",
+            "vietnamese": "Bài viết"
+          },
+          {
+            "hanzi": "文明",
+            "pinyin": "wén míng",
+            "hanviet": "Văn minh",
+            "vietnamese": "Văn minh"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "件",
+        "pinyin": "jiàn",
+        "hanviet": "Kiện",
+        "words": [
+          {
+            "hanzi": "文件夹",
+            "pinyin": "wén jiàn jiā",
+            "hanviet": "Văn kiện gia",
+            "vietnamese": "Tập hồ sơ"
+          },
+          {
+            "hanzi": "文件",
+            "pinyin": "wén jiàn",
+            "hanviet": "Văn kiện",
+            "vietnamese": "Tài liệu"
+          },
+          {
+            "hanzi": "事件",
+            "pinyin": "shì jiàn",
+            "hanviet": "Sự kiện",
+            "vietnamese": "Sự kiện"
+          },
+          {
+            "hanzi": "条件",
+            "pinyin": "tiáo jiàn",
+            "hanviet": "Điều kiện",
+            "vietnamese": "Điều kiện"
+          },
+          {
+            "hanzi": "零件",
+            "pinyin": "líng jiàn",
+            "hanviet": "Linh kiện",
+            "vietnamese": "Linh kiện"
+          }
+        ]
+      },
+      "char3": {
+        "hanzi": "夹",
+        "pinyin": "jiā",
+        "hanviet": "Gia",
+        "words": [
+          {
+            "hanzi": "文件夹",
+            "pinyin": "wén jiàn jiā",
+            "hanviet": "Văn kiện gia",
+            "vietnamese": "Tập hồ sơ"
+          },
+          {
+            "hanzi": "夹子",
+            "pinyin": "jiā zi",
+            "hanviet": "Gia tử",
+            "vietnamese": "Cái kẹp"
+          },
+          {
+            "hanzi": "夹克",
+            "pinyin": "jiā kè",
+            "hanviet": "Gia khách",
+            "vietnamese": "Áo khoác"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "黑板",
+      "pinyin": "hēi bǎn",
+      "hanviet": "Hắc bản",
+      "vietnamese": "Bảng đen",
+      "char1": {
+        "hanzi": "黑",
+        "pinyin": "hēi",
+        "hanviet": "Hắc",
+        "words": [
+          {
+            "hanzi": "黑板",
+            "pinyin": "hēi bǎn",
+            "hanviet": "Hắc bản",
+            "vietnamese": "Bảng đen"
+          },
+          {
+            "hanzi": "黑色",
+            "pinyin": "hēi sè",
+            "hanviet": "Hắc sắc",
+            "vietnamese": "Màu đen"
+          },
+          {
+            "hanzi": "黑夜",
+            "pinyin": "hēi yè",
+            "hanviet": "Hắc dạ",
+            "vietnamese": "Đêm tối"
+          },
+          {
+            "hanzi": "黑暗",
+            "pinyin": "hēi àn",
+            "hanviet": "Hắc ám",
+            "vietnamese": "Tối tăm"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "板",
+        "pinyin": "bǎn",
+        "hanviet": "Bản",
+        "words": [
+          {
+            "hanzi": "黑板",
+            "pinyin": "hēi bǎn",
+            "hanviet": "Hắc bản",
+            "vietnamese": "Bảng đen"
+          },
+          {
+            "hanzi": "木板",
+            "pinyin": "mù bǎn",
+            "hanviet": "Mộc bản",
+            "vietnamese": "Tấm gỗ"
+          },
+          {
+            "hanzi": "地板",
+            "pinyin": "dì bǎn",
+            "hanviet": "Địa bản",
+            "vietnamese": "Sàn nhà"
+          },
+          {
+            "hanzi": "甲板",
+            "pinyin": "jiǎ bǎn",
+            "hanviet": "Giáp bản",
+            "vietnamese": "Boong tàu"
+          },
+          {
+            "hanzi": "板子",
+            "pinyin": "bǎn zi",
+            "hanviet": "Bản tử",
+            "vietnamese": "Tấm ván"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "粉笔",
+      "pinyin": "fěn bǐ",
+      "hanviet": "Phấn bút",
+      "vietnamese": "Phấn viết",
+      "char1": {
+        "hanzi": "粉",
+        "pinyin": "fěn",
+        "hanviet": "Phấn",
+        "words": [
+          {
+            "hanzi": "粉笔",
+            "pinyin": "fěn bǐ",
+            "hanviet": "Phấn bút",
+            "vietnamese": "Phấn viết"
+          },
+          {
+            "hanzi": "面粉",
+            "pinyin": "miàn fěn",
+            "hanviet": "Diện phấn",
+            "vietnamese": "Bột mì"
+          },
+          {
+            "hanzi": "粉色",
+            "pinyin": "fěn sè",
+            "hanviet": "Phấn sắc",
+            "vietnamese": "Màu hồng"
+          },
+          {
+            "hanzi": "花粉",
+            "pinyin": "huā fěn",
+            "hanviet": "Hoa phấn",
+            "vietnamese": "Phấn hoa"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "笔",
+        "pinyin": "bǐ",
+        "hanviet": "Bút",
+        "words": [
+          {
+            "hanzi": "粉笔",
+            "pinyin": "fěn bǐ",
+            "hanviet": "Phấn bút",
+            "vietnamese": "Phấn viết"
+          },
+          {
+            "hanzi": "铅笔",
+            "pinyin": "qiān bǐ",
+            "hanviet": "Tiên bút",
+            "vietnamese": "Bút chì"
+          },
+          {
+            "hanzi": "钢笔",
+            "pinyin": "gāng bǐ",
+            "hanviet": "Cương bút",
+            "vietnamese": "Bút máy"
+          },
+          {
+            "hanzi": "毛笔",
+            "pinyin": "máo bǐ",
+            "hanviet": "Mao bút",
+            "vietnamese": "Bút lông"
+          },
+          {
+            "hanzi": "笔记",
+            "pinyin": "bǐ jì",
+            "hanviet": "Bút ký",
+            "vietnamese": "Ghi chú"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "课桌",
+      "pinyin": "kè zhuō",
+      "hanviet": "Khóa trác",
+      "vietnamese": "Bàn học",
+      "char1": {
+        "hanzi": "课",
+        "pinyin": "kè",
+        "hanviet": "Khóa",
+        "words": [
+          {
+            "hanzi": "课桌",
+            "pinyin": "kè zhuō",
+            "hanviet": "Khóa trác",
+            "vietnamese": "Bàn học"
+          },
+          {
+            "hanzi": "课程",
+            "pinyin": "kè chéng",
+            "hanviet": "Khóa trình",
+            "vietnamese": "Khóa học"
+          },
+          {
+            "hanzi": "课本",
+            "pinyin": "kè běn",
+            "hanviet": "Khóa bản",
+            "vietnamese": "Sách giáo khoa"
+          },
+          {
+            "hanzi": "上课",
+            "pinyin": "shàng kè",
+            "hanviet": "Thượng khóa",
+            "vietnamese": "Lên lớp"
+          },
+          {
+            "hanzi": "下课",
+            "pinyin": "xià kè",
+            "hanviet": "Hạ khóa",
+            "vietnamese": "Tan học"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "桌",
+        "pinyin": "zhuō",
+        "hanviet": "Trác",
+        "words": [
+          {
+            "hanzi": "课桌",
+            "pinyin": "kè zhuō",
+            "hanviet": "Khóa trác",
+            "vietnamese": "Bàn học"
+          },
+          {
+            "hanzi": "桌子",
+            "pinyin": "zhuō zi",
+            "hanviet": "Trác tử",
+            "vietnamese": "Cái bàn"
+          },
+          {
+            "hanzi": "餐桌",
+            "pinyin": "cān zhuō",
+            "hanviet": "Xan trác",
+            "vietnamese": "Bàn ăn"
+          },
+          {
+            "hanzi": "书桌",
+            "pinyin": "shū zhuō",
+            "hanviet": "Thư trác",
+            "vietnamese": "Bàn học"
+          },
+          {
+            "hanzi": "办公桌",
+            "pinyin": "bàn gōng zhuō",
+            "hanviet": "Bạn công trác",
+            "vietnamese": "Bàn làm việc"
+          }
+        ]
+      }
+    }
+  ]
