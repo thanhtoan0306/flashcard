@@ -1,0 +1,1075 @@
+[
+    {
+      "hanzi": "行星",
+      "pinyin": "xíng xīng",
+      "hanviet": "Hành tinh",
+      "vietnamese": "Hành tinh",
+      "char1": {
+        "hanzi": "行",
+        "pinyin": "xíng",
+        "hanviet": "Hành",
+        "words": [
+          {
+            "hanzi": "行星",
+            "pinyin": "xíng xīng",
+            "hanviet": "Hành tinh",
+            "vietnamese": "Hành tinh"
+          },
+          {
+            "hanzi": "行动",
+            "pinyin": "xíng dòng",
+            "hanviet": "Hành động",
+            "vietnamese": "Hành động"
+          },
+          {
+            "hanzi": "行走",
+            "pinyin": "xíng zǒu",
+            "hanviet": "Hành tẩu",
+            "vietnamese": "Đi bộ"
+          },
+          {
+            "hanzi": "行为",
+            "pinyin": "xíng wéi",
+            "hanviet": "Hành vi",
+            "vietnamese": "Hành vi"
+          },
+          {
+            "hanzi": "旅行",
+            "pinyin": "lǚ xíng",
+            "hanviet": "Lữ hành",
+            "vietnamese": "Du lịch"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "星",
+        "pinyin": "xīng",
+        "hanviet": "Tinh",
+        "words": [
+          {
+            "hanzi": "行星",
+            "pinyin": "xíng xīng",
+            "hanviet": "Hành tinh",
+            "vietnamese": "Hành tinh"
+          },
+          {
+            "hanzi": "星星",
+            "pinyin": "xīng xīng",
+            "hanviet": "Tinh tinh",
+            "vietnamese": "Ngôi sao"
+          },
+          {
+            "hanzi": "星座",
+            "pinyin": "xīng zuò",
+            "hanviet": "Tinh tọa",
+            "vietnamese": "Chòm sao"
+          },
+          {
+            "hanzi": "明星",
+            "pinyin": "míng xīng",
+            "hanviet": "Minh tinh",
+            "vietnamese": "Ngôi sao, minh tinh"
+          },
+          {
+            "hanzi": "卫星",
+            "pinyin": "wèi xīng",
+            "hanviet": "Vệ tinh",
+            "vietnamese": "Vệ tinh"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "地球",
+      "pinyin": "dì qiú",
+      "hanviet": "Địa cầu",
+      "vietnamese": "Trái đất",
+      "char1": {
+        "hanzi": "地",
+        "pinyin": "dì",
+        "hanviet": "Địa",
+        "words": [
+          {
+            "hanzi": "地球",
+            "pinyin": "dì qiú",
+            "hanviet": "Địa cầu",
+            "vietnamese": "Trái đất"
+          },
+          {
+            "hanzi": "地方",
+            "pinyin": "dì fāng",
+            "hanviet": "Địa phương",
+            "vietnamese": "Nơi, chỗ"
+          },
+          {
+            "hanzi": "地图",
+            "pinyin": "dì tú",
+            "hanviet": "Địa đồ",
+            "vietnamese": "Bản đồ"
+          },
+          {
+            "hanzi": "地址",
+            "pinyin": "dì zhǐ",
+            "hanviet": "Địa chỉ",
+            "vietnamese": "Địa chỉ"
+          },
+          {
+            "hanzi": "地下",
+            "pinyin": "dì xià",
+            "hanviet": "Địa hạ",
+            "vietnamese": "Dưới đất"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "球",
+        "pinyin": "qiú",
+        "hanviet": "Cầu",
+        "words": [
+          {
+            "hanzi": "地球",
+            "pinyin": "dì qiú",
+            "hanviet": "Địa cầu",
+            "vietnamese": "Trái đất"
+          },
+          {
+            "hanzi": "足球",
+            "pinyin": "zú qiú",
+            "hanviet": "Túc cầu",
+            "vietnamese": "Bóng đá"
+          },
+          {
+            "hanzi": "篮球",
+            "pinyin": "lán qiú",
+            "hanviet": "Lam cầu",
+            "vietnamese": "Bóng rổ"
+          },
+          {
+            "hanzi": "乒乓球",
+            "pinyin": "pīng pāng qiú",
+            "hanviet": "Bình bang cầu",
+            "vietnamese": "Bóng bàn"
+          },
+          {
+            "hanzi": "网球",
+            "pinyin": "wǎng qiú",
+            "hanviet": "Võng cầu",
+            "vietnamese": "Quần vợt"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "火星",
+      "pinyin": "huǒ xīng",
+      "hanviet": "Hỏa tinh",
+      "vietnamese": "Sao Hỏa",
+      "char1": {
+        "hanzi": "火",
+        "pinyin": "huǒ",
+        "hanviet": "Hỏa",
+        "words": [
+          {
+            "hanzi": "火星",
+            "pinyin": "huǒ xīng",
+            "hanviet": "Hỏa tinh",
+            "vietnamese": "Sao Hỏa"
+          },
+          {
+            "hanzi": "火",
+            "pinyin": "huǒ",
+            "hanviet": "Hỏa",
+            "vietnamese": "Lửa"
+          },
+          {
+            "hanzi": "火灾",
+            "pinyin": "huǒ zāi",
+            "hanviet": "Hỏa tai",
+            "vietnamese": "Hỏa hoạn"
+          },
+          {
+            "hanzi": "火车",
+            "pinyin": "huǒ chē",
+            "hanviet": "Hỏa xa",
+            "vietnamese": "Tàu hỏa"
+          },
+          {
+            "hanzi": "火锅",
+            "pinyin": "huǒ guō",
+            "hanviet": "Hỏa oa",
+            "vietnamese": "Lẩu"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "星",
+        "pinyin": "xīng",
+        "hanviet": "Tinh",
+        "words": [
+          {
+            "hanzi": "火星",
+            "pinyin": "huǒ xīng",
+            "hanviet": "Hỏa tinh",
+            "vietnamese": "Sao Hỏa"
+          },
+          {
+            "hanzi": "星星",
+            "pinyin": "xīng xīng",
+            "hanviet": "Tinh tinh",
+            "vietnamese": "Ngôi sao"
+          },
+          {
+            "hanzi": "星座",
+            "pinyin": "xīng zuò",
+            "hanviet": "Tinh tọa",
+            "vietnamese": "Chòm sao"
+          },
+          {
+            "hanzi": "明星",
+            "pinyin": "míng xīng",
+            "hanviet": "Minh tinh",
+            "vietnamese": "Ngôi sao, minh tinh"
+          },
+          {
+            "hanzi": "卫星",
+            "pinyin": "wèi xīng",
+            "hanviet": "Vệ tinh",
+            "vietnamese": "Vệ tinh"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "木星",
+      "pinyin": "mù xīng",
+      "hanviet": "Mộc tinh",
+      "vietnamese": "Sao Mộc",
+      "char1": {
+        "hanzi": "木",
+        "pinyin": "mù",
+        "hanviet": "Mộc",
+        "words": [
+          {
+            "hanzi": "木星",
+            "pinyin": "mù xīng",
+            "hanviet": "Mộc tinh",
+            "vietnamese": "Sao Mộc"
+          },
+          {
+            "hanzi": "木头",
+            "pinyin": "mù tou",
+            "hanviet": "Mộc đầu",
+            "vietnamese": "Gỗ"
+          },
+          {
+            "hanzi": "树木",
+            "pinyin": "shù mù",
+            "hanviet": "Thụ mộc",
+            "vietnamese": "Cây cối"
+          },
+          {
+            "hanzi": "木工",
+            "pinyin": "mù gōng",
+            "hanviet": "Mộc công",
+            "vietnamese": "Thợ mộc"
+          },
+          {
+            "hanzi": "木门",
+            "pinyin": "mù mén",
+            "hanviet": "Mộc môn",
+            "vietnamese": "Cửa gỗ"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "星",
+        "pinyin": "xīng",
+        "hanviet": "Tinh",
+        "words": [
+          {
+            "hanzi": "木星",
+            "pinyin": "mù xīng",
+            "hanviet": "Mộc tinh",
+            "vietnamese": "Sao Mộc"
+          },
+          {
+            "hanzi": "星星",
+            "pinyin": "xīng xīng",
+            "hanviet": "Tinh tinh",
+            "vietnamese": "Ngôi sao"
+          },
+          {
+            "hanzi": "星座",
+            "pinyin": "xīng zuò",
+            "hanviet": "Tinh tọa",
+            "vietnamese": "Chòm sao"
+          },
+          {
+            "hanzi": "明星",
+            "pinyin": "míng xīng",
+            "hanviet": "Minh tinh",
+            "vietnamese": "Ngôi sao, minh tinh"
+          },
+          {
+            "hanzi": "卫星",
+            "pinyin": "wèi xīng",
+            "hanviet": "Vệ tinh",
+            "vietnamese": "Vệ tinh"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "水星",
+      "pinyin": "shuǐ xīng",
+      "hanviet": "Thủy tinh",
+      "vietnamese": "Sao Thủy",
+      "char1": {
+        "hanzi": "水",
+        "pinyin": "shuǐ",
+        "hanviet": "Thủy",
+        "words": [
+          {
+            "hanzi": "水星",
+            "pinyin": "shuǐ xīng",
+            "hanviet": "Thủy tinh",
+            "vietnamese": "Sao Thủy"
+          },
+          {
+            "hanzi": "水",
+            "pinyin": "shuǐ",
+            "hanviet": "Thủy",
+            "vietnamese": "Nước"
+          },
+          {
+            "hanzi": "水果",
+            "pinyin": "shuǐ guǒ",
+            "hanviet": "Thủy quả",
+            "vietnamese": "Trái cây"
+          },
+          {
+            "hanzi": "水平",
+            "pinyin": "shuǐ píng",
+            "hanviet": "Thủy bình",
+            "vietnamese": "Mức độ"
+          },
+          {
+            "hanzi": "海水",
+            "pinyin": "hǎi shuǐ",
+            "hanviet": "Hải thủy",
+            "vietnamese": "Nước biển"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "星",
+        "pinyin": "xīng",
+        "hanviet": "Tinh",
+        "words": [
+          {
+            "hanzi": "水星",
+            "pinyin": "shuǐ xīng",
+            "hanviet": "Thủy tinh",
+            "vietnamese": "Sao Thủy"
+          },
+          {
+            "hanzi": "星星",
+            "pinyin": "xīng xīng",
+            "hanviet": "Tinh tinh",
+            "vietnamese": "Ngôi sao"
+          },
+          {
+            "hanzi": "星座",
+            "pinyin": "xīng zuò",
+            "hanviet": "Tinh tọa",
+            "vietnamese": "Chòm sao"
+          },
+          {
+            "hanzi": "明星",
+            "pinyin": "míng xīng",
+            "hanviet": "Minh tinh",
+            "vietnamese": "Ngôi sao, minh tinh"
+          },
+          {
+            "hanzi": "卫星",
+            "pinyin": "wèi xīng",
+            "hanviet": "Vệ tinh",
+            "vietnamese": "Vệ tinh"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "金星",
+      "pinyin": "jīn xīng",
+      "hanviet": "Kim tinh",
+      "vietnamese": "Sao Kim",
+      "char1": {
+        "hanzi": "金",
+        "pinyin": "jīn",
+        "hanviet": "Kim",
+        "words": [
+          {
+            "hanzi": "金星",
+            "pinyin": "jīn xīng",
+            "hanviet": "Kim tinh",
+            "vietnamese": "Sao Kim"
+          },
+          {
+            "hanzi": "金子",
+            "pinyin": "jīn zi",
+            "hanviet": "Kim tử",
+            "vietnamese": "Vàng"
+          },
+          {
+            "hanzi": "金钱",
+            "pinyin": "jīn qián",
+            "hanviet": "Kim tiền",
+            "vietnamese": "Tiền bạc"
+          },
+          {
+            "hanzi": "黄金",
+            "pinyin": "huáng jīn",
+            "hanviet": "Hoàng kim",
+            "vietnamese": "Vàng"
+          },
+          {
+            "hanzi": "金属",
+            "pinyin": "jīn shǔ",
+            "hanviet": "Kim thuộc",
+            "vietnamese": "Kim loại"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "星",
+        "pinyin": "xīng",
+        "hanviet": "Tinh",
+        "words": [
+          {
+            "hanzi": "金星",
+            "pinyin": "jīn xīng",
+            "hanviet": "Kim tinh",
+            "vietnamese": "Sao Kim"
+          },
+          {
+            "hanzi": "星星",
+            "pinyin": "xīng xīng",
+            "hanviet": "Tinh tinh",
+            "vietnamese": "Ngôi sao"
+          },
+          {
+            "hanzi": "星座",
+            "pinyin": "xīng zuò",
+            "hanviet": "Tinh tọa",
+            "vietnamese": "Chòm sao"
+          },
+          {
+            "hanzi": "明星",
+            "pinyin": "míng xīng",
+            "hanviet": "Minh tinh",
+            "vietnamese": "Ngôi sao, minh tinh"
+          },
+          {
+            "hanzi": "卫星",
+            "pinyin": "wèi xīng",
+            "hanviet": "Vệ tinh",
+            "vietnamese": "Vệ tinh"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "土星",
+      "pinyin": "tǔ xīng",
+      "hanviet": "Thổ tinh",
+      "vietnamese": "Sao Thổ",
+      "char1": {
+        "hanzi": "土",
+        "pinyin": "tǔ",
+        "hanviet": "Thổ",
+        "words": [
+          {
+            "hanzi": "土星",
+            "pinyin": "tǔ xīng",
+            "hanviet": "Thổ tinh",
+            "vietnamese": "Sao Thổ"
+          },
+          {
+            "hanzi": "土地",
+            "pinyin": "tǔ dì",
+            "hanviet": "Thổ địa",
+            "vietnamese": "Đất đai"
+          },
+          {
+            "hanzi": "土豆",
+            "pinyin": "tǔ dòu",
+            "hanviet": "Thổ đậu",
+            "vietnamese": "Khoai tây"
+          },
+          {
+            "hanzi": "泥土",
+            "pinyin": "ní tǔ",
+            "hanviet": "Nê thổ",
+            "vietnamese": "Đất bùn"
+          },
+          {
+            "hanzi": "国土",
+            "pinyin": "guó tǔ",
+            "hanviet": "Quốc thổ",
+            "vietnamese": "Lãnh thổ"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "星",
+        "pinyin": "xīng",
+        "hanviet": "Tinh",
+        "words": [
+          {
+            "hanzi": "土星",
+            "pinyin": "tǔ xīng",
+            "hanviet": "Thổ tinh",
+            "vietnamese": "Sao Thổ"
+          },
+          {
+            "hanzi": "星星",
+            "pinyin": "xīng xīng",
+            "hanviet": "Tinh tinh",
+            "vietnamese": "Ngôi sao"
+          },
+          {
+            "hanzi": "星座",
+            "pinyin": "xīng zuò",
+            "hanviet": "Tinh tọa",
+            "vietnamese": "Chòm sao"
+          },
+          {
+            "hanzi": "明星",
+            "pinyin": "míng xīng",
+            "hanviet": "Minh tinh",
+            "vietnamese": "Ngôi sao, minh tinh"
+          },
+          {
+            "hanzi": "卫星",
+            "pinyin": "wèi xīng",
+            "hanviet": "Vệ tinh",
+            "vietnamese": "Vệ tinh"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "天王星",
+      "pinyin": "tiān wáng xīng",
+      "hanviet": "Thiên vương tinh",
+      "vietnamese": "Sao Thiên Vương",
+      "char1": {
+        "hanzi": "天",
+        "pinyin": "tiān",
+        "hanviet": "Thiên",
+        "words": [
+          {
+            "hanzi": "天王星",
+            "pinyin": "tiān wáng xīng",
+            "hanviet": "Thiên vương tinh",
+            "vietnamese": "Sao Thiên Vương"
+          },
+          {
+            "hanzi": "天空",
+            "pinyin": "tiān kōng",
+            "hanviet": "Thiên không",
+            "vietnamese": "Bầu trời"
+          },
+          {
+            "hanzi": "天气",
+            "pinyin": "tiān qì",
+            "hanviet": "Thiên khí",
+            "vietnamese": "Thời tiết"
+          },
+          {
+            "hanzi": "今天",
+            "pinyin": "jīn tiān",
+            "hanviet": "Kim thiên",
+            "vietnamese": "Hôm nay"
+          },
+          {
+            "hanzi": "明天",
+            "pinyin": "míng tiān",
+            "hanviet": "Minh thiên",
+            "vietnamese": "Ngày mai"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "王",
+        "pinyin": "wáng",
+        "hanviet": "Vương",
+        "words": [
+          {
+            "hanzi": "天王星",
+            "pinyin": "tiān wáng xīng",
+            "hanviet": "Thiên vương tinh",
+            "vietnamese": "Sao Thiên Vương"
+          },
+          {
+            "hanzi": "国王",
+            "pinyin": "guó wáng",
+            "hanviet": "Quốc vương",
+            "vietnamese": "Vua"
+          },
+          {
+            "hanzi": "王子",
+            "pinyin": "wáng zǐ",
+            "hanviet": "Vương tử",
+            "vietnamese": "Hoàng tử"
+          },
+          {
+            "hanzi": "王后",
+            "pinyin": "wáng hòu",
+            "hanviet": "Vương hậu",
+            "vietnamese": "Hoàng hậu"
+          }
+        ]
+      },
+      "char3": {
+        "hanzi": "星",
+        "pinyin": "xīng",
+        "hanviet": "Tinh",
+        "words": [
+          {
+            "hanzi": "天王星",
+            "pinyin": "tiān wáng xīng",
+            "hanviet": "Thiên vương tinh",
+            "vietnamese": "Sao Thiên Vương"
+          },
+          {
+            "hanzi": "星星",
+            "pinyin": "xīng xīng",
+            "hanviet": "Tinh tinh",
+            "vietnamese": "Ngôi sao"
+          },
+          {
+            "hanzi": "星座",
+            "pinyin": "xīng zuò",
+            "hanviet": "Tinh tọa",
+            "vietnamese": "Chòm sao"
+          },
+          {
+            "hanzi": "明星",
+            "pinyin": "míng xīng",
+            "hanviet": "Minh tinh",
+            "vietnamese": "Ngôi sao, minh tinh"
+          },
+          {
+            "hanzi": "卫星",
+            "pinyin": "wèi xīng",
+            "hanviet": "Vệ tinh",
+            "vietnamese": "Vệ tinh"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "海王星",
+      "pinyin": "hǎi wáng xīng",
+      "hanviet": "Hải vương tinh",
+      "vietnamese": "Sao Hải Vương",
+      "char1": {
+        "hanzi": "海",
+        "pinyin": "hǎi",
+        "hanviet": "Hải",
+        "words": [
+          {
+            "hanzi": "海王星",
+            "pinyin": "hǎi wáng xīng",
+            "hanviet": "Hải vương tinh",
+            "vietnamese": "Sao Hải Vương"
+          },
+          {
+            "hanzi": "海洋",
+            "pinyin": "hǎi yáng",
+            "hanviet": "Hải dương",
+            "vietnamese": "Đại dương"
+          },
+          {
+            "hanzi": "海边",
+            "pinyin": "hǎi biān",
+            "hanviet": "Hải biên",
+            "vietnamese": "Bờ biển"
+          },
+          {
+            "hanzi": "海水",
+            "pinyin": "hǎi shuǐ",
+            "hanviet": "Hải thủy",
+            "vietnamese": "Nước biển"
+          },
+          {
+            "hanzi": "海外",
+            "pinyin": "hǎi wài",
+            "hanviet": "Hải ngoại",
+            "vietnamese": "Hải ngoại"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "王",
+        "pinyin": "wáng",
+        "hanviet": "Vương",
+        "words": [
+          {
+            "hanzi": "海王星",
+            "pinyin": "hǎi wáng xīng",
+            "hanviet": "Hải vương tinh",
+            "vietnamese": "Sao Hải Vương"
+          },
+          {
+            "hanzi": "国王",
+            "pinyin": "guó wáng",
+            "hanviet": "Quốc vương",
+            "vietnamese": "Vua"
+          },
+          {
+            "hanzi": "王子",
+            "pinyin": "wáng zǐ",
+            "hanviet": "Vương tử",
+            "vietnamese": "Hoàng tử"
+          },
+          {
+            "hanzi": "王后",
+            "pinyin": "wáng hòu",
+            "hanviet": "Vương hậu",
+            "vietnamese": "Hoàng hậu"
+          }
+        ]
+      },
+      "char3": {
+        "hanzi": "星",
+        "pinyin": "xīng",
+        "hanviet": "Tinh",
+        "words": [
+          {
+            "hanzi": "海王星",
+            "pinyin": "hǎi wáng xīng",
+            "hanviet": "Hải vương tinh",
+            "vietnamese": "Sao Hải Vương"
+          },
+          {
+            "hanzi": "星星",
+            "pinyin": "xīng xīng",
+            "hanviet": "Tinh tinh",
+            "vietnamese": "Ngôi sao"
+          },
+          {
+            "hanzi": "星座",
+            "pinyin": "xīng zuò",
+            "hanviet": "Tinh tọa",
+            "vietnamese": "Chòm sao"
+          },
+          {
+            "hanzi": "明星",
+            "pinyin": "míng xīng",
+            "hanviet": "Minh tinh",
+            "vietnamese": "Ngôi sao, minh tinh"
+          },
+          {
+            "hanzi": "卫星",
+            "pinyin": "wèi xīng",
+            "hanviet": "Vệ tinh",
+            "vietnamese": "Vệ tinh"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "太阳",
+      "pinyin": "tài yáng",
+      "hanviet": "Thái dương",
+      "vietnamese": "Mặt trời",
+      "char1": {
+        "hanzi": "太",
+        "pinyin": "tài",
+        "hanviet": "Thái",
+        "words": [
+          {
+            "hanzi": "太阳",
+            "pinyin": "tài yáng",
+            "hanviet": "Thái dương",
+            "vietnamese": "Mặt trời"
+          },
+          {
+            "hanzi": "太空",
+            "pinyin": "tài kōng",
+            "hanviet": "Thái không",
+            "vietnamese": "Không gian vũ trụ"
+          },
+          {
+            "hanzi": "太阳系",
+            "pinyin": "tài yáng xì",
+            "hanviet": "Thái dương hệ",
+            "vietnamese": "Hệ mặt trời"
+          },
+          {
+            "hanzi": "太平",
+            "pinyin": "tài píng",
+            "hanviet": "Thái bình",
+            "vietnamese": "Thái bình"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "阳",
+        "pinyin": "yáng",
+        "hanviet": "Dương",
+        "words": [
+          {
+            "hanzi": "太阳",
+            "pinyin": "tài yáng",
+            "hanviet": "Thái dương",
+            "vietnamese": "Mặt trời"
+          },
+          {
+            "hanzi": "阳光",
+            "pinyin": "yáng guāng",
+            "hanviet": "Dương quang",
+            "vietnamese": "Ánh nắng"
+          },
+          {
+            "hanzi": "阳台",
+            "pinyin": "yáng tái",
+            "hanviet": "Dương đài",
+            "vietnamese": "Ban công"
+          },
+          {
+            "hanzi": "阴阳",
+            "pinyin": "yīn yáng",
+            "hanviet": "Âm dương",
+            "vietnamese": "Âm dương"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "月亮",
+      "pinyin": "yuè liàng",
+      "hanviet": "Nguyệt lượng",
+      "vietnamese": "Mặt trăng",
+      "char1": {
+        "hanzi": "月",
+        "pinyin": "yuè",
+        "hanviet": "Nguyệt",
+        "words": [
+          {
+            "hanzi": "月亮",
+            "pinyin": "yuè liàng",
+            "hanviet": "Nguyệt lượng",
+            "vietnamese": "Mặt trăng"
+          },
+          {
+            "hanzi": "月份",
+            "pinyin": "yuè fèn",
+            "hanviet": "Nguyệt phận",
+            "vietnamese": "Tháng"
+          },
+          {
+            "hanzi": "月光",
+            "pinyin": "yuè guāng",
+            "hanviet": "Nguyệt quang",
+            "vietnamese": "Ánh trăng"
+          },
+          {
+            "hanzi": "月球",
+            "pinyin": "yuè qiú",
+            "hanviet": "Nguyệt cầu",
+            "vietnamese": "Mặt trăng"
+          },
+          {
+            "hanzi": "月饼",
+            "pinyin": "yuè bǐng",
+            "hanviet": "Nguyệt bính",
+            "vietnamese": "Bánh trung thu"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "亮",
+        "pinyin": "liàng",
+        "hanviet": "Lượng",
+        "words": [
+          {
+            "hanzi": "月亮",
+            "pinyin": "yuè liàng",
+            "hanviet": "Nguyệt lượng",
+            "vietnamese": "Mặt trăng"
+          },
+          {
+            "hanzi": "明亮",
+            "pinyin": "míng liàng",
+            "hanviet": "Minh lượng",
+            "vietnamese": "Sáng sủa"
+          },
+          {
+            "hanzi": "亮光",
+            "pinyin": "liàng guāng",
+            "hanviet": "Lượng quang",
+            "vietnamese": "Ánh sáng"
+          },
+          {
+            "hanzi": "天亮",
+            "pinyin": "tiān liàng",
+            "hanviet": "Thiên lượng",
+            "vietnamese": "Trời sáng"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "宇宙",
+      "pinyin": "yǔ zhòu",
+      "hanviet": "Vũ trụ",
+      "vietnamese": "Vũ trụ",
+      "char1": {
+        "hanzi": "宇",
+        "pinyin": "yǔ",
+        "hanviet": "Vũ",
+        "words": [
+          {
+            "hanzi": "宇宙",
+            "pinyin": "yǔ zhòu",
+            "hanviet": "Vũ trụ",
+            "vietnamese": "Vũ trụ"
+          },
+          {
+            "hanzi": "宇航员",
+            "pinyin": "yǔ háng yuán",
+            "hanviet": "Vũ hành viên",
+            "vietnamese": "Phi hành gia"
+          },
+          {
+            "hanzi": "宇宙飞船",
+            "pinyin": "yǔ zhòu fēi chuán",
+            "hanviet": "Vũ trụ phi thuyền",
+            "vietnamese": "Tàu vũ trụ"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "宙",
+        "pinyin": "zhòu",
+        "hanviet": "Trụ",
+        "words": [
+          {
+            "hanzi": "宇宙",
+            "pinyin": "yǔ zhòu",
+            "hanviet": "Vũ trụ",
+            "vietnamese": "Vũ trụ"
+          },
+          {
+            "hanzi": "宇宙飞船",
+            "pinyin": "yǔ zhòu fēi chuán",
+            "hanviet": "Vũ trụ phi thuyền",
+            "vietnamese": "Tàu vũ trụ"
+          }
+        ]
+      }
+    },
+    {
+      "hanzi": "银河系",
+      "pinyin": "yín hé xì",
+      "hanviet": "Ngân hà hệ",
+      "vietnamese": "Dải Ngân Hà",
+      "char1": {
+        "hanzi": "银",
+        "pinyin": "yín",
+        "hanviet": "Ngân",
+        "words": [
+          {
+            "hanzi": "银河系",
+            "pinyin": "yín hé xì",
+            "hanviet": "Ngân hà hệ",
+            "vietnamese": "Dải Ngân Hà"
+          },
+          {
+            "hanzi": "银行",
+            "pinyin": "yín háng",
+            "hanviet": "Ngân hàng",
+            "vietnamese": "Ngân hàng"
+          },
+          {
+            "hanzi": "银子",
+            "pinyin": "yín zi",
+            "hanviet": "Ngân tử",
+            "vietnamese": "Bạc"
+          },
+          {
+            "hanzi": "银币",
+            "pinyin": "yín bì",
+            "hanviet": "Ngân tệ",
+            "vietnamese": "Tiền bạc"
+          }
+        ]
+      },
+      "char2": {
+        "hanzi": "河",
+        "pinyin": "hé",
+        "hanviet": "Hà",
+        "words": [
+          {
+            "hanzi": "银河系",
+            "pinyin": "yín hé xì",
+            "hanviet": "Ngân hà hệ",
+            "vietnamese": "Dải Ngân Hà"
+          },
+          {
+            "hanzi": "河流",
+            "pinyin": "hé liú",
+            "hanviet": "Hà lưu",
+            "vietnamese": "Sông"
+          },
+          {
+            "hanzi": "河水",
+            "pinyin": "hé shuǐ",
+            "hanviet": "Hà thủy",
+            "vietnamese": "Nước sông"
+          },
+          {
+            "hanzi": "河边",
+            "pinyin": "hé biān",
+            "hanviet": "Hà biên",
+            "vietnamese": "Bờ sông"
+          }
+        ]
+      },
+      "char3": {
+        "hanzi": "系",
+        "pinyin": "xì",
+        "hanviet": "Hệ",
+        "words": [
+          {
+            "hanzi": "银河系",
+            "pinyin": "yín hé xì",
+            "hanviet": "Ngân hà hệ",
+            "vietnamese": "Dải Ngân Hà"
+          },
+          {
+            "hanzi": "太阳系",
+            "pinyin": "tài yáng xì",
+            "hanviet": "Thái dương hệ",
+            "vietnamese": "Hệ mặt trời"
+          },
+          {
+            "hanzi": "系统",
+            "pinyin": "xì tǒng",
+            "hanviet": "Hệ thống",
+            "vietnamese": "Hệ thống"
+          },
+          {
+            "hanzi": "关系",
+            "pinyin": "guān xì",
+            "hanviet": "Quan hệ",
+            "vietnamese": "Mối quan hệ"
+          }
+        ]
+      }
+    }
+  ]
