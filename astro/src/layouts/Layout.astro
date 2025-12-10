@@ -1,0 +1,58 @@
+---
+interface Props {
+  title?: string;
+}
+
+const { title = "Flashcard Hán Việt - Tính năng Phát âm (Web Speech)" } = Astro.props;
+---
+
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{title}</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;700&family=Quicksand:wght@400;600&display=swap" rel="stylesheet">
+  </head>
+  <body class="bg-gradient-to-br from-slate-50 to-slate-100 flex flex-col items-center justify-center min-h-screen p-4" style="font-family: 'Quicksand', sans-serif; -webkit-tap-highlight-color: transparent;">
+    <slot />
+    <style is:global>
+      .chinese-font {
+        font-family: 'Noto Sans SC', sans-serif;
+      }
+      #card-slider::-webkit-slider-thumb {
+        -webkit-appearance: none;
+        appearance: none;
+        width: 20px;
+        height: 20px;
+        background: #2563eb;
+        cursor: pointer;
+        border-radius: 50%;
+        border: 3px solid white;
+        box-shadow: 0 0 0 1px #2563eb;
+      }
+      #card-slider::-moz-range-thumb {
+        width: 20px;
+        height: 20px;
+        background: #2563eb;
+        cursor: pointer;
+        border-radius: 50%;
+        border: 3px solid white;
+        box-shadow: 0 0 0 1px #2563eb;
+      }
+      .card-display {
+        display: block;
+        min-height: 25rem;
+      }
+      .speak-btn {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+      }
+    </style>
+  </body>
+</html>

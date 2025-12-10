@@ -1,0 +1,95 @@
+---
+import Layout from '../layouts/Layout.astro';
+import NavigationControls from '../components/NavigationControls.astro';
+import TopicSelector from '../components/TopicSelector.astro';
+import Flashcard from '../components/Flashcard.astro';
+import { flashcardState } from '../lib/flashcardState';
+
+// Get initial state (will be updated by client-side script)
+const initialCard = flashcardState.getCurrentCard();
+const initialIndex = flashcardState.getCurrentIndex();
+const initialTotal = flashcardState.getTotalCards();
+const topics = flashcardState.getTopics();
+const currentTopicIndex = flashcardState.getCurrentTopicIndex();
+const currentTopic = topics[currentTopicIndex]?.name || '';
+---
+
+<Layout>
+  <NavigationControls
+    currentIndex={initialIndex}
+    totalCards={initialTotal}
+    currentTopic={currentTopic}
+  />
+  
+  <div class="w-full max-w-lg mx-auto mb-6 flex flex-col items-center">
+    <TopicSelector topics={topics} currentTopicIndex={currentTopicIndex} />
+  </div>
+
+  <Flashcard card={initialCard} />
+
+  <script>
+    import { flashcardController } from '../lib/flashcardController';
+
+    // Initialize app when DOM is ready
+    async function initApp() {
+      try {
+        console.log('🚀 Bắt đầu khởi tạo ứng dụng...');
+        
+        // Setup event listeners
+        flashcardController.setupEventListeners();
+        console.log('✅ Event listeners đã được setup');
+
+        // Setup state listener to update UI when state changes
+        flashcardController.setupStateListener(() => {
+          flashcardController.updateUI();
+        });
+        console.log('✅ State listener đã được setup');
+
+        // Initialize and load data
+        await flashcardController.initialize();
+        console.log('✅ Đã khởi tạo xong');
+
+        // Initial UI update after data is loaded
+        flashcardController.updateUI();
+        console.log('✅ UI đã được cập nhật');
+      } catch (error) {
+        console.error('❌ Lỗi khởi tạo ứng dụng:', error);
+        // Show error in UI
+        const flashcard = document.getElementById('flashcard');
+        if (flashcard) {
+          flashcard.innerHTML = `
+            <div class="text-center p-12">
+              <div class="inline-flex items-center justify-center w-16 h-16 rounded-full bg-red-100 mb-4">
+                <svg class="w-8 h-8 text-red-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4m0 4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                </svg>
+              </div>
+              <h2 class="text-2xl font-bold text-red-600 mb-3">Lỗi khởi tạo</h2>
+              <p class="text-red-500 text-lg mb-4">${error instanceof Error ? error.message : String(error)}</p>
+              <p class="text-slate-600 text-sm mb-4">Vui lòng mở Console (F12) để xem chi tiết lỗi</p>
+              <button 
+                onclick="location.reload()" 
+                class="px-6 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors font-medium"
+              >
+                Tải lại trang
+              </button>
+            </div>
+          `;
+        }
+      }
+    }
+
+    // Wait for DOM to be ready
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', initApp);
+    } else {
+      // DOM already loaded, but wait a bit for Astro to finish hydration
+      setTimeout(initApp, 100);
+    }
+
+    // Cleanup on page unload
+    window.addEventListener('beforeunload', () => {
+      flashcardController.cleanup();
+    });
+  </script>
+</Layout>

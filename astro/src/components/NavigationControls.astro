@@ -1,0 +1,44 @@
+---
+interface Props {
+  currentIndex: number;
+  totalCards: number;
+  currentTopic: string;
+}
+
+const { currentIndex, totalCards, currentTopic } = Astro.props;
+---
+
+<div class="w-full max-w-lg mx-auto mb-6 flex flex-col items-center bg-white/50 backdrop-blur-sm rounded-xl p-4 shadow-lg">
+  <!-- Bộ đếm và Slider -->
+  <div class="w-full mb-4">
+    <div id="topic-indicator" class="text-center text-green-600 mb-2 font-bold text-lg">
+      📚 {currentTopic}
+    </div>
+    <div id="card-counter" class="text-center text-slate-600 mb-3 font-medium text-lg">
+      Thẻ số: {currentIndex + 1} / {totalCards}
+    </div>
+    <input
+      type="range"
+      id="card-slider"
+      min="1"
+      max={totalCards}
+      value={currentIndex + 1}
+      class="w-full h-2 bg-blue-200 rounded-lg appearance-none cursor-pointer"
+    />
+  </div>
+  <!-- Nút điều khiển -->
+  <div class="flex items-center space-x-4 w-full justify-center">
+    <button
+      id="prev-btn"
+      class="bg-gray-400 text-white font-bold py-2 px-4 rounded-lg shadow-md hover:bg-gray-500 transition-transform transform hover:scale-105 text-base md:text-lg"
+    >
+      &larr; Trước
+    </button>
+    <button
+      id="next-btn"
+      class="bg-blue-600 text-white font-bold py-2 px-6 rounded-lg shadow-md hover:bg-blue-700 transition-transform transform hover:scale-105 text-base md:text-lg"
+    >
+      Tiếp theo &rarr;
+    </button>
+  </div>
+</div>

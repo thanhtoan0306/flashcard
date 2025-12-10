@@ -1,0 +1,45 @@
+---
+interface Props {
+  text: string;
+  size?: 'small' | 'medium' | 'large';
+  variant?: 'primary' | 'secondary';
+  class?: string;
+  id?: string;
+}
+
+const { text, size = 'medium', variant = 'primary', class: className = '', id } = Astro.props;
+
+const sizeClasses = {
+  small: 'w-4 h-4',
+  medium: 'w-6 h-6',
+  large: 'w-8 h-8'
+};
+
+const variantClasses = {
+  primary: 'text-blue-600 hover:text-blue-800',
+  secondary: 'text-indigo-600 hover:text-indigo-800'
+};
+---
+
+<button
+  class={`speak-btn ${variantClasses[variant]} p-2 rounded-full hover:bg-blue-50 transition duration-150 ${className}`}
+  data-speak-text={text}
+  aria-label={`Phát âm ${text}`}
+  id={id}
+>
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    width={size === 'small' ? 18 : size === 'medium' ? 24 : 30}
+    height={size === 'small' ? 18 : size === 'medium' ? 24 : 30}
+    viewBox="0 0 24 24"
+    fill="none"
+    stroke="currentColor"
+    stroke-width="2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  >
+    <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5" />
+    <path d="M15.54 8.46a5 5 0 0 1 0 7.07" />
+    {size !== 'small' && <path d="M19.07 4.93a10 10 0 0 1 0 14.14" />}
+  </svg>
+</button>

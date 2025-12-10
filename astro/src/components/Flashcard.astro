@@ -1,0 +1,53 @@
+---
+import SpeakButton from './SpeakButton.astro';
+import type { Flashcard } from '../lib/dataService';
+
+interface Props {
+  card: Flashcard | null;
+}
+
+const { card } = Astro.props;
+---
+
+<div id="flashcard" class="card-display bg-white p-6 md:p-8 rounded-2xl shadow-2xl w-full max-w-lg mb-8 transition-all duration-300 border border-slate-200">
+  {card ? (
+    <>
+      <!-- Phần Hán tự và Pinyin -->
+      <div class="text-center mb-6 border-b pb-4 border-slate-200">
+        <div class="flex justify-center items-center">
+          <p id="card-hanzi-pinyin" class="chinese-font text-5xl md:text-7xl font-bold text-slate-900 leading-tight">
+            {card.hanzi}
+          </p>
+          <SpeakButton text={card.hanzi} size="large" class="ml-2" id="speak-main-btn" />
+        </div>
+        <p id="card-pinyin-only" class="text-2xl text-blue-600 mt-1 font-medium">
+          [{card.pinyin}]
+        </p>
+      </div>
+
+      <!-- Phần Nghĩa và Hán Việt -->
+      <div class="space-y-3 text-lg md:text-xl text-left text-slate-800 mb-6">
+        <p>
+          <strong>Âm Hán Việt:</strong>{' '}
+          <span id="card-hanviet" class="font-semibold text-slate-700">{card.hanviet}</span>
+        </p>
+        <p>
+          <strong>Nghĩa Việt:</strong>{' '}
+          <span id="card-vietnamese" class="font-extrabold text-red-600">{card.vietnamese}</span>
+        </p>
+      </div>
+
+      <!-- Phần Phân tích Từ ghép -->
+      <div class="mt-6 pt-4 border-t border-slate-200">
+        <p class="text-base font-bold text-slate-700 mb-3 border-b pb-2">Phân tích từ gốc:</p>
+        <div id="char1-related-container" class="mb-4"></div>
+        <div id="char2-related-container"></div>
+      </div>
+    </>
+  ) : (
+    <div class="text-center p-12">
+      <div class="inline-block animate-spin rounded-full h-12 w-12 border-4 border-blue-500 border-t-transparent mb-4"></div>
+      <p class="text-slate-600 text-lg font-medium">Đang tải dữ liệu...</p>
+    </div>
+  )}
+</div>
